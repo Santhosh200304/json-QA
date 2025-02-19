@@ -1896,7 +1896,7 @@
     "answerDescription": "Organizations led by transformational leaders experience continuous growth, innovation, and a motivated workforce."
   },
   {
-    "id": "servant_159",
+    "id": "leader_159",
     "question": "What is the primary goal of a servant leader?",
     "options": [
       { "id": "option_1", "text": "To ensure they have complete authority over decisions.", "isCorrect": false },
@@ -1908,7 +1908,7 @@
     "answerDescription": "Servant leaders focus on empowering their teams by providing guidance, support, and opportunities for growth."
   },
   {
-    "id": "servant_160",
+    "id": "leader_160",
     "question": "How do servant leaders build strong relationships with their teams?",
     "options": [
       { "id": "option_1", "text": "By actively listening and showing empathy.", "isCorrect": true },
@@ -1920,7 +1920,7 @@
     "answerDescription": "By actively listening and demonstrating empathy, servant leaders create a trusting and supportive work environment."
   },
   {
-    "id": "servant_161",
+    "id": "leader_161",
     "question": "What is a key characteristic of servant leadership?",
     "options": [
       { "id": "option_1", "text": "Focusing only on personal power and authority.", "isCorrect": false },
@@ -1932,7 +1932,7 @@
     "answerDescription": "A servant leader’s primary role is to nurture and develop their employees to help them reach their full potential."
   },
   {
-    "id": "servant_162",
+    "id": "leader_162",
     "question": "Which of the following best describes the decision-making approach of a servant leader?",
     "options": [
       { "id": "option_1", "text": "They make all decisions independently without consultation.", "isCorrect": false },
@@ -1944,7 +1944,7 @@
     "answerDescription": "By involving their team in decision-making, servant leaders encourage engagement, trust, and innovation."
   },
   {
-    "id": "servant_163",
+    "id": "leader_163",
     "question": "How does servant leadership impact employee motivation?",
     "options": [
       { "id": "option_1", "text": "It decreases motivation because employees feel micromanaged.", "isCorrect": false },
@@ -1956,7 +1956,7 @@
     "answerDescription": "By creating a supportive environment, servant leaders boost motivation and engagement among employees."
   },
   {
-    "id": "servant_164",
+    "id": "leader_164",
     "question": "What is an example of servant leadership in action?",
     "options": [
       { "id": "option_1", "text": "A leader focusing only on their own promotion and success.", "isCorrect": false },
@@ -1968,7 +1968,7 @@
     "answerDescription": "Providing mentorship and career support is a hallmark of servant leadership."
   },
   {
-    "id": "servant_165",
+    "id": "leader_165",
     "question": "How do servant leaders handle team conflicts?",
     "options": [
       { "id": "option_1", "text": "By facilitating open communication and resolution.", "isCorrect": true },
@@ -1980,7 +1980,7 @@
     "answerDescription": "By addressing conflicts through open dialogue, servant leaders foster a cooperative and respectful work environment."
   },
   {
-    "id": "servant_166",
+    "id": "leader_166",
     "question": "Why is humility important in servant leadership?",
     "options": [
       { "id": "option_1", "text": "It makes leaders appear weak and ineffective.", "isCorrect": false },
@@ -1992,7 +1992,7 @@
     "answerDescription": "Humility helps servant leaders gain trust, foster teamwork, and continuously improve as leaders."
   },
   {
-    "id": "servant_167",
+    "id": "leader_167",
     "question": "How does servant leadership contribute to organizational success?",
     "options": [
       { "id": "option_1", "text": "By focusing only on short-term financial results.", "isCorrect": false },
@@ -2004,7 +2004,7 @@
     "answerDescription": "Servant leadership helps create engaged, motivated teams, leading to sustained business success."
   },
   {
-    "id": "servant_168",
+    "id": "leader_168",
     "question": "What is the biggest difference between servant leadership and traditional leadership?",
     "options": [
       { "id": "option_1", "text": "Traditional leaders focus only on team well-being.", "isCorrect": false },
@@ -2016,7 +2016,7 @@
     "answerDescription": "Unlike traditional leadership, which prioritizes authority, servant leadership is about empowering and supporting employees."
   },
   {
-    "id": "servant_169",
+    "id": "leader_169",
     "question": "How does a servant leader promote team development?",
     "options": [
       { "id": "option_1", "text": "By focusing only on their own career growth.", "isCorrect": false },
@@ -2028,7 +2028,7 @@
     "answerDescription": "Mentoring and coaching employees help them develop skills and confidence, key traits of servant leadership."
   },
   {
-    "id": "servant_170",
+    "id": "leader_170",
     "question": "Which of the following is NOT a trait of a servant leader?",
     "options": [
       { "id": "option_1", "text": "Empathy.", "isCorrect": false },
@@ -2040,7 +2040,7 @@
     "answerDescription": "Selfishness contradicts the core principles of servant leadership, which emphasize service and support for others."
   },
   {
-    "id": "servant_171",
+    "id": "leader_171",
     "question": "How does a servant leader inspire their team?",
     "options": [
       { "id": "option_1", "text": "By leading by example and demonstrating integrity.", "isCorrect": true },
@@ -2052,7 +2052,7 @@
     "answerDescription": "Demonstrating integrity and ethical behavior inspires teams and fosters trust in leadership."
   },
   {
-    "id": "servant_172",
+    "id": "leader_172",
     "question": "Why is active listening important in servant leadership?",
     "options": [
       { "id": "option_1", "text": "It allows leaders to avoid making tough decisions.", "isCorrect": false },
@@ -2064,7 +2064,7 @@
     "answerDescription": "Active listening helps build trust, improves communication, and ensures employees feel heard and valued."
   },
   {
-    "id": "servant_173",
+    "id": "leader_173",
     "question": "What role does emotional intelligence play in servant leadership?",
     "options": [
       { "id": "option_1", "text": "It is not relevant to leadership.", "isCorrect": false },
@@ -2076,7 +2076,7 @@
     "answerDescription": "Emotional intelligence allows leaders to respond effectively to team needs and build stronger relationships."
   },
   {
-    "id": "servant_174",
+    "id": "leader_174",
     "question": "What is the impact of servant leadership on workplace culture?",
     "options": [
       { "id": "option_2", "text": "It leads to confusion and lack of structure.", "isCorrect": false },
@@ -2088,7 +2088,7 @@
     "answerDescription": "By prioritizing support and empowerment, servant leadership helps create a positive and engaging workplace."
   },
   {
-    "id": "servant_175",
+    "id": "leader_175",
     "question": "How does a servant leader handle feedback from employees?",
     "options": [
       { "id": "option_1", "text": "They ignore it and make decisions alone.", "isCorrect": false },
@@ -2100,7 +2100,7 @@
     "answerDescription": "Actively listening to and acting on feedback fosters trust and continuous growth in leadership."
   },
   {
-    "id": "servant_176",
+    "id": "leader_176",
     "question": "What makes servant leadership different from authoritarian leadership?",
     "options": [
       { "id": "option_1", "text": "Servant leaders prioritize team needs over personal power.", "isCorrect": true },
@@ -2112,7 +2112,7 @@
     "answerDescription": "Unlike authoritarian leaders, servant leaders prioritize the well-being and growth of their employees."
   },
   {
-    "id": "servant_177",
+    "id": "leader_177",
     "question": "What is one way servant leaders encourage innovation?",
     "options": [
       { "id": "option_1", "text": "By punishing employees for suggesting new ideas.", "isCorrect": false },
@@ -2124,7 +2124,7 @@
     "answerDescription": "By fostering an open environment, servant leaders empower teams to innovate and take calculated risks."
   },
   {
-    "id": "servant_178",
+    "id": "leader_178",
     "question": "Why do employees tend to trust servant leaders more?",
     "options": [
       { "id": "option_1", "text": "Because they keep all decisions secret.", "isCorrect": false },
@@ -2136,7 +2136,7 @@
     "answerDescription": "Servant leaders gain trust by demonstrating honesty, integrity, and a genuine commitment to their team’s success."
   },
   {
-    "id": "servant_179",
+    "id": "leader_179",
     "question": "What is the primary focus of a servant leader?",
     "options": [
       { "id": "option_1", "text": "Serving the needs of their team members.", "isCorrect": true },
@@ -2148,7 +2148,7 @@
     "answerDescription": "Servant leaders focus on empowering and supporting their teams rather than asserting dominance."
   },
   {
-    "id": "servant_180",
+    "id": "leader_180",
     "question": "How does a servant leader handle conflicts within a team?",
     "options": [
       { "id": "option_1", "text": "By avoiding the issue and hoping it resolves itself.", "isCorrect": false },
@@ -2160,7 +2160,7 @@
     "answerDescription": "Servant leaders mediate conflicts through communication and problem-solving to maintain a healthy work environment."
   },
   {
-    "id": "servant_181",
+    "id": "leader_181",
     "question": "What is one key way a servant leader builds trust?",
     "options": [
       { "id": "option_1", "text": "By making promises they cannot keep.", "isCorrect": false },
@@ -2172,7 +2172,7 @@
     "answerDescription": "Servant leaders gain trust by being transparent, ethical, and prioritizing the needs of their team."
   },
   {
-    "id": "servant_182",
+    "id": "leader_182",
     "question": "How does a servant leader approach decision-making?",
     "options": [
       { "id": "option_1", "text": "By making decisions without consulting anyone.", "isCorrect": false },
@@ -2184,7 +2184,7 @@
     "answerDescription": "Servant leaders ensure that decisions benefit the team and align with ethical values."
   },
   {
-    "id": "servant_183",
+    "id": "leader_183",
     "question": "What is a major benefit of servant leadership?",
     "options": [
       { "id": "option_1", "text": "Reduced accountability in leadership.", "isCorrect": false },
@@ -2196,7 +2196,7 @@
     "answerDescription": "Servant leadership fosters a positive workplace where employees feel valued and motivated."
   },
   {
-    "id": "servant_184",
+    "id": "leader_184",
     "question": "Which leadership behavior aligns with servant leadership?",
     "options": [
       { "id": "option_1", "text": "Encouraging employees to grow and develop.", "isCorrect": true },
@@ -2208,7 +2208,7 @@
     "answerDescription": "Servant leaders invest in their employees' growth to enhance both individual and team success."
   },
   {
-    "id": "servant_185",
+    "id": "leader_185",
     "question": "How does a servant leader empower their employees?",
     "options": [
       { "id": "option_1", "text": "By making all decisions alone.", "isCorrect": false },
@@ -2220,7 +2220,7 @@
     "answerDescription": "By giving employees responsibility and guidance, servant leaders create confident and capable teams."
   },
   {
-    "id": "servant_186",
+    "id": "leader_186",
     "question": "Which statement best describes the philosophy of servant leadership?",
     "options": [
       { "id": "option_1", "text": "Leaders should prioritize their own success over their team.", "isCorrect": false },
@@ -2232,7 +2232,7 @@
     "answerDescription": "Servant leaders focus on helping their employees grow rather than seeking personal power."
   },
   {
-    "id": "servant_187",
+    "id": "leader_187",
     "question": "Why is humility an important trait for a servant leader?",
     "options": [
       { "id": "option_1", "text": "Because it helps them avoid making tough decisions.", "isCorrect": false },
@@ -2244,7 +2244,7 @@
     "answerDescription": "Servant leaders demonstrate humility by valuing others' input and focusing on team success over personal recognition."
   },
   {
-    "id": "servant_188",
+    "id": "leader_188",
     "question": "How does servant leadership impact employee retention?",
     "options": [
       { "id": "option_1", "text": "It has no impact on employee retention.", "isCorrect": false },
@@ -2256,7 +2256,7 @@
     "answerDescription": "By prioritizing employee well-being, servant leadership increases job satisfaction and retention."
   },
   {
-    "id": "servant_189",
+    "id": "leader_189",
     "question": "What is a key characteristic of a servant leader?",
     "options": [
       { "id": "option_1", "text": "Authoritarian control over employees.", "isCorrect": false },
@@ -2268,7 +2268,7 @@
     "answerDescription": "Empathy and active listening help servant leaders connect with their team and support their growth."
   },
   {
-    "id": "servant_190",
+    "id": "leader_190",
     "question": "How does a servant leader handle employee development?",
     "options": [
       { "id": "option_1", "text": "By limiting employees to their current roles.", "isCorrect": false },
@@ -2280,7 +2280,7 @@
     "answerDescription": "A servant leader helps employees grow by offering mentorship and professional development opportunities."
   },
   {
-    "id": "servant_191",
+    "id": "leader_191",
     "question": "What is the ultimate goal of servant leadership?",
     "options": [
       { "id": "option_1", "text": "To create an environment where employees thrive.", "isCorrect": true },
@@ -2292,7 +2292,7 @@
     "answerDescription": "The goal of servant leadership is to build a positive and productive workplace where employees feel valued and empowered."
   },
   {
-    "id": "servant_192",
+    "id": "leader_192",
     "question": "Why do servant leaders encourage collaboration?",
     "options": [
       { "id": "option_1", "text": "Because they avoid making decisions themselves.", "isCorrect": false },
@@ -2304,7 +2304,7 @@
     "answerDescription": "Servant leaders promote teamwork because it enhances problem-solving and strengthens team relationships."
   },
   {
-    "id": "servant_193",
+    "id": "leader_193",
     "question": "How does servant leadership influence organizational culture?",
     "options": [
       { "id": "option_1", "text": "It weakens leadership authority.", "isCorrect": false },
@@ -2316,7 +2316,7 @@
     "answerDescription": "By promoting trust, respect, and ethical behavior, servant leadership shapes a positive workplace culture."
   },
   {
-    "id": "servant_194",
+    "id": "leader_194",
     "question": "What is an important trait of a servant leader?",
     "options": [
       { "id": "option_1", "text": "A desire for personal recognition.", "isCorrect": false },
@@ -2328,7 +2328,7 @@
     "answerDescription": "Servant leaders are dedicated to helping others succeed rather than seeking personal gain."
   },
   {
-    "id": "servant_195",
+    "id": "leader_195",
     "question": "How do servant leaders handle failure?",
     "options": [
       { "id": "option_1", "text": "By blaming their employees.", "isCorrect": false },
@@ -2340,7 +2340,7 @@
     "answerDescription": "Servant leaders embrace mistakes as opportunities for growth and encourage their team to do the same."
   },
   {
-    "id": "servant_196",
+    "id": "leader_196",
     "question": "What role does active listening play in servant leadership?",
     "options": [
       { "id": "option_2", "text": "It is unnecessary because leaders make all decisions.", "isCorrect": false },
@@ -2352,7 +2352,7 @@
     "answerDescription": "By actively listening, servant leaders build trust and address the real concerns of their team."
   },
   {
-    "id": "servant_197",
+    "id": "leader_197",
     "question": "Why do servant leaders prioritize ethical decision-making?",
     "options": [
       { "id": "option_1", "text": "Because it helps them avoid responsibility.", "isCorrect": false },
@@ -2364,7 +2364,7 @@
     "answerDescription": "Servant leaders make ethical decisions to maintain trust and long-term success."
   },
   {
-    "id": "servant_198",
+    "id": "leader_198",
     "question": "How does servant leadership impact innovation?",
     "options": [
       { "id": "option_1", "text": "It limits innovation by enforcing strict rules.", "isCorrect": false },
@@ -2376,7 +2376,7 @@
     "answerDescription": "Servant leaders create an environment where employees feel safe to explore new ideas and take risks."
   },
   {
-    "id": "servant_199",
+    "id": "leader_199",
     "question": "How does a servant leader promote team success?",
     "options": [
       { "id": "option_1", "text": "By taking full control and limiting employee input.", "isCorrect": false },
@@ -2388,7 +2388,7 @@
     "answerDescription": "A servant leader focuses on empowering employees, fostering teamwork, and creating a supportive environment for success."
   },
   {
-    "id": "servant_200",
+    "id": "leader_200",
     "question": "What is one way a servant leader builds trust within a team?",
     "options": [
       { "id": "option_1", "text": "By keeping employees uninformed about decisions.", "isCorrect": false },
@@ -2400,7 +2400,7 @@
     "answerDescription": "Servant leaders earn trust by being open, honest, and transparent in their interactions with their team."
   },
   {
-    "id": "servant_201",
+    "id": "leader_201",
     "question": "How do servant leaders handle conflict resolution?",
     "options": [
       { "id": "option_1", "text": "By ignoring conflicts and hoping they resolve themselves.", "isCorrect": false },
@@ -2412,7 +2412,7 @@
     "answerDescription": "Servant leaders resolve conflicts by fostering open communication and working towards fair solutions that benefit the team."
   },
   {
-    "id": "servant_202",
+    "id": "leader_202",
     "question": "What is a core value of servant leadership?",
     "options": [
       { "id": "option_1", "text": "Putting the needs of others first.", "isCorrect": true },
@@ -2424,7 +2424,7 @@
     "answerDescription": "Servant leadership is rooted in selflessness, prioritizing the needs of others over personal interests."
   },
   {
-    "id": "servant_203",
+    "id": "leader_203",
     "question": "How does a servant leader encourage professional growth?",
     "options": [
       { "id": "option_1", "text": "By discouraging employees from learning new skills.", "isCorrect": false },
@@ -2436,7 +2436,7 @@
     "answerDescription": "Servant leaders encourage personal and professional growth by providing mentorship, training, and development opportunities."
   },
   {
-    "id": "servant_204",
+    "id": "leader_204",
     "question": "What impact does servant leadership have on employee motivation?",
     "options": [
       { "id": "option_1", "text": "It decreases motivation by limiting employee independence.", "isCorrect": false },
@@ -2448,7 +2448,7 @@
     "answerDescription": "Servant leadership boosts motivation by creating a work environment where employees feel valued, supported, and empowered."
   },
   {
-    "id": "servant_205",
+    "id": "leader_205",
     "question": "How do servant leaders make decisions?",
     "options": [
       { "id": "option_1", "text": "By prioritizing their own interests over the team’s.", "isCorrect": false },
@@ -2460,7 +2460,7 @@
     "answerDescription": "Servant leaders make thoughtful decisions that prioritize the well-being of their team and the success of the organization."
   },
   {
-    "id": "servant_206",
+    "id": "leader_206",
     "question": "Why do servant leaders prioritize ethical behavior?",
     "options": [
       { "id": "option_1", "text": "Because ethics are only important in certain industries.", "isCorrect": false },
@@ -2472,7 +2472,7 @@
     "answerDescription": "Servant leaders prioritize ethical behavior because it builds long-term trust and credibility with employees and stakeholders."
   },
   {
-    "id": "servant_207",
+    "id": "leader_207",
     "question": "How do servant leaders contribute to a positive workplace culture?",
     "options": [
       { "id": "option_1", "text": "By emphasizing competition over collaboration.", "isCorrect": false },
@@ -2484,7 +2484,7 @@
     "answerDescription": "Servant leaders cultivate a positive workplace by promoting respect, inclusivity, and open dialogue among employees."
   },
   {
-    "id": "servant_208",
+    "id": "leader_208",
     "question": "How does a servant leader handle feedback?",
     "options": [
       { "id": "option_1", "text": "By ignoring criticism and maintaining the status quo.", "isCorrect": false },
@@ -2496,7 +2496,7 @@
     "answerDescription": "Servant leaders value feedback and use it to improve their leadership approach and the overall work environment."
   },
   {
-    "id": "servant_209",
+    "id": "leader_209",
     "question": "Which characteristic best describes a servant leader?",
     "options": [
       { "id": "option_1", "text": "Empathy and a desire to serve others.", "isCorrect": true },
@@ -2508,7 +2508,7 @@
     "answerDescription": "Empathy is a key trait of servant leaders, allowing them to understand and support their team's needs effectively."
   },
   {
-    "id": "servant_210",
+    "id": "leader_210",
     "question": "What is an essential trait of a servant leader when making decisions?",
     "options": [
       { "id": "option_1", "text": "Focusing only on personal career growth.", "isCorrect": false },
@@ -2520,7 +2520,7 @@
     "answerDescription": "A servant leader ensures that decisions support both the people involved and the long-term success of the organization."
   },
   {
-    "id": "servant_211",
+    "id": "leader_211",
     "question": "Why do servant leaders focus on personal development?",
     "options": [
       { "id": "option_1", "text": "To ensure employees remain in the same position indefinitely.", "isCorrect": false },
@@ -2532,7 +2532,7 @@
     "answerDescription": "Servant leaders actively invest in the development of their employees, enabling them to grow personally and professionally."
   },
   {
-    "id": "servant_212",
+    "id": "leader_212",
     "question": "How do servant leaders support team collaboration?",
     "options": [
       { "id": "option_1", "text": "By discouraging team discussions.", "isCorrect": false },
@@ -2544,7 +2544,7 @@
     "answerDescription": "Servant leaders foster collaboration by promoting teamwork, open communication, and collective decision-making."
   },
   {
-    "id": "servant_213",
+    "id": "leader_213",
     "question": "What is the role of active listening in servant leadership?",
     "options": [
       { "id": "option_1", "text": "It is not necessary for effective leadership.", "isCorrect": false },
@@ -2556,7 +2556,7 @@
     "answerDescription": "Active listening allows servant leaders to fully understand and address the needs of their employees, building trust and engagement."
   },
   {
-    "id": "servant_214",
+    "id": "leader_214",
     "question": "Why is self-awareness important for a servant leader?",
     "options": [
       { "id": "option_1", "text": "It prevents them from accepting feedback.", "isCorrect": false },
@@ -2568,7 +2568,7 @@
     "answerDescription": "Self-awareness helps servant leaders grow and adapt, improving their leadership approach and effectiveness."
   },
   {
-    "id": "servant_215",
+    "id": "leader_215",
     "question": "How does servant leadership impact customer satisfaction?",
     "options": [
       { "id": "option_1", "text": "By focusing only on internal company needs.", "isCorrect": false },
@@ -2580,7 +2580,7 @@
     "answerDescription": "Servant leadership improves customer satisfaction by fostering a workplace culture that encourages employees to provide exceptional service."
   },
   {
-    "id": "servant_216",
+    "id": "leader_216",
     "question": "Which of the following best defines servant leadership?",
     "options": [
       { "id": "option_1", "text": "A leadership style that prioritizes profits over people.", "isCorrect": false },
@@ -2592,7 +2592,7 @@
     "answerDescription": "Servant leadership is about prioritizing the well-being and growth of others over personal gain."
   },
   {
-    "id": "servant_217",
+    "id": "leader_217",
     "question": "What is a key principle of servant leadership?",
     "options": [
       { "id": "option_1", "text": "Empowering and developing others.", "isCorrect": true },
@@ -2604,7 +2604,7 @@
     "answerDescription": "Servant leaders empower those around them, helping them develop personally and professionally."
   },
   {
-    "id": "servant_218",
+    "id": "leader_218",
     "question": "How does a servant leader handle conflict in a team?",
     "options": [
       { "id": "option_1", "text": "By ignoring conflicts and hoping they resolve themselves.", "isCorrect": false },
@@ -2616,7 +2616,7 @@
     "answerDescription": "A servant leader addresses conflicts by encouraging discussion, understanding different perspectives, and guiding the team toward resolution."
   },
   {
-    "id": "servant_219",
+    "id": "leader_219",
     "question": "What is the impact of servant leadership on employee morale?",
     "options": [
       { "id": "option_1", "text": "It has no effect on employee morale.", "isCorrect": false },
@@ -2628,7 +2628,7 @@
     "answerDescription": "By prioritizing employees' well-being, servant leadership boosts motivation, satisfaction, and productivity."
   },
   {
-    "id": "servant_220",
+    "id": "leader_220",
     "question": "How does servant leadership influence team performance?",
     "options": [
       { "id": "option_1", "text": "By creating a supportive environment that enhances productivity.", "isCorrect": true },
@@ -2640,7 +2640,7 @@
     "answerDescription": "Servant leadership boosts team performance by fostering collaboration, trust, and motivation."
   },
   {
-    "id": "servant_221",
+    "id": "leader_221",
     "question": "What is the role of humility in servant leadership?",
     "options": [
       { "id": "option_1", "text": "It shows weakness in leadership.", "isCorrect": false },
@@ -2652,7 +2652,7 @@
     "answerDescription": "Humility enables servant leaders to focus on the growth of their team rather than their own power or status."
   },
   {
-    "id": "servant_222",
+    "id": "leader_222",
     "question": "How does servant leadership improve employee retention?",
     "options": [
       { "id": "option_1", "text": "By focusing only on business profits.", "isCorrect": false },
@@ -2664,7 +2664,7 @@
     "answerDescription": "Servant leadership improves retention by creating a workplace culture based on trust, respect, and opportunities for growth."
   },
   {
-    "id": "servant_223",
+    "id": "leader_223",
     "question": "What is a key benefit of servant leadership for organizations?",
     "options": [
       { "id": "option_1", "text": "A rigid hierarchy with limited communication.", "isCorrect": false },
@@ -2676,7 +2676,7 @@
     "answerDescription": "By prioritizing employees' well-being and development, servant leadership fosters loyalty and engagement, benefiting the entire organization."
   },
   {
-    "id": "servant_224",
+    "id": "leader_224",
     "question": "Which leadership approach is most aligned with servant leadership?",
     "options": [
       { "id": "option_1", "text": "An authoritarian approach focused on leader dominance.", "isCorrect": false },
@@ -2688,7 +2688,7 @@
     "answerDescription": "A servant leader focuses on the growth and success of their team, ensuring a supportive and productive work environment."
   },
   {
-    "id": "servant_225",
+    "id": "leader_225",
     "question": "How does servant leadership contribute to team collaboration?",
     "options": [
       { "id": "option_1", "text": "By focusing only on individual achievements.", "isCorrect": false },
@@ -2700,7 +2700,7 @@
     "answerDescription": "By fostering an environment of trust and inclusion, servant leadership enhances team collaboration."
   },
   {
-    "id": "servant_226",
+    "id": "leader_226",
     "question": "Which of the following best describes the mindset of a servant leader?",
     "options": [
       { "id": "option_1", "text": "A focus on personal power and control.", "isCorrect": false },
@@ -2712,7 +2712,7 @@
     "answerDescription": "A servant leader’s mindset revolves around empowering and supporting their team."
   },
   {
-    "id": "servant_227",
+    "id": "leader_227",
     "question": "What is a servant leader’s role in employee development?",
     "options": [
       { "id": "option_1", "text": "Keeping employees in their current roles indefinitely.", "isCorrect": false },
@@ -2724,7 +2724,7 @@
     "answerDescription": "By supporting employees’ growth, servant leaders create a more engaged and capable workforce."
   },
   {
-    "id": "servant_228",
+    "id": "leader_228",
     "question": "What is a key way servant leadership fosters innovation?",
     "options": [
       { "id": "option_1", "text": "By restricting employees to a fixed set of rules.", "isCorrect": false },
@@ -2736,7 +2736,7 @@
     "answerDescription": "A servant leader fosters creativity by empowering employees to share and implement new ideas."
   },
   {
-    "id": "servant_229",
+    "id": "leader_229",
     "question": "How does servant leadership help build a strong organizational culture?",
     "options": [
       { "id": "option_1", "text": "By focusing only on financial success.", "isCorrect": false },
@@ -2748,7 +2748,7 @@
     "answerDescription": "Servant leadership fosters a culture of integrity, trust, and collaboration, benefiting both employees and the organization."
   },
   {
-    "id": "servant_230",
+    "id": "leader_230",
     "question": "Which leadership trait is most essential for a servant leader?",
     "options": [
       { "id": "option_1", "text": "Empathy and active listening.", "isCorrect": true },
@@ -2760,7 +2760,7 @@
     "answerDescription": "Empathy and active listening allow servant leaders to understand their team’s needs and support them effectively."
   },
   {
-    "id": "servant_231",
+    "id": "leader_231",
     "question": "What distinguishes servant leadership from traditional leadership styles?",
     "options": [
       { "id": "option_1", "text": "The leader holds all power and decision-making authority.", "isCorrect": false },
@@ -2772,7 +2772,7 @@
     "answerDescription": "Unlike traditional leadership, servant leadership is about serving others and ensuring their success."
   },
   {
-    "id": "servant_232",
+    "id": "leader_232",
     "question": "What is the connection between servant leadership and employee well-being?",
     "options": [
       { "id": "option_1", "text": "Servant leadership has no effect on well-being.", "isCorrect": false },
@@ -2784,7 +2784,7 @@
     "answerDescription": "Servant leaders focus on employees' needs, leading to greater job satisfaction and workplace happiness."
   },
   {
-    "id": "servant_233",
+    "id": "leader_233",
     "question": "How does a servant leader respond to an underperforming employee?",
     "options": [
       { "id": "option_1", "text": "By providing guidance, support, and opportunities for improvement.", "isCorrect": true },
@@ -2796,7 +2796,7 @@
     "answerDescription": "Rather than punishing failure, servant leaders mentor and help employees develop their skills."
   },
   {
-    "id": "servant_234",
+    "id": "leader_234",
     "question": "Which statement best describes the long-term impact of servant leadership?",
     "options": [
       { "id": "option_1", "text": "It reduces employee engagement over time.", "isCorrect": false },
@@ -2808,7 +2808,7 @@
     "answerDescription": "By prioritizing employees and fostering a positive culture, servant leadership drives sustained business success."
   },
   {
-    "id": "servant_235",
+    "id": "leader_235",
     "question": "How does servant leadership impact employee engagement?",
     "options": [
       { "id": "option_1", "text": "It decreases engagement by limiting employee involvement.", "isCorrect": false },
@@ -2820,7 +2820,7 @@
     "answerDescription": "Employees feel more engaged when they are supported and valued, leading to higher performance."
   },
   {
-    "id": "servant_236",
+    "id": "leader_236",
     "question": "Which characteristic is most associated with servant leadership?",
     "options": [
       { "id": "option_1", "text": "Maintaining strict control over all decisions.", "isCorrect": false },
@@ -2832,7 +2832,7 @@
     "answerDescription": "A servant leader’s priority is helping others achieve their best potential."
   },
   {
-    "id": "servant_237",
+    "id": "leader_237",
     "question": "What role does humility play in servant leadership?",
     "options": [
       { "id": "option_1", "text": "It makes leaders appear weak and ineffective.", "isCorrect": false },
@@ -2844,7 +2844,7 @@
     "answerDescription": "Servant leaders practice humility by focusing on the team’s success rather than personal recognition."
   },
   {
-    "id": "servant_238",
+    "id": "leader_238",
     "question": "What is a major difference between servant leadership and authoritarian leadership?",
     "options": [
       { "id": "option_1", "text": "Servant leadership prioritizes the team's well-being and growth.", "isCorrect": true },
@@ -2856,7 +2856,7 @@
     "answerDescription": "While authoritarian leaders focus on control, servant leaders focus on empowering their teams."
   },
   {
-    "id": "servant_239",
+    "id": "leader_239",
     "question": "Why is active listening an essential trait of a servant leader?",
     "options": [
       { "id": "option_1", "text": "It is not important in leadership.", "isCorrect": false },
@@ -2868,7 +2868,7 @@
     "answerDescription": "Servant leaders use active listening to build trust and respond to their team's needs."
   },
   {
-    "id": "servant_240",
+    "id": "leader_240",
     "question": "What is one long-term benefit of servant leadership?",
     "options": [
       { "id": "option_1", "text": "Higher employee turnover rates.", "isCorrect": false },
@@ -2880,7 +2880,7 @@
     "answerDescription": "By prioritizing employees' needs, servant leaders increase loyalty and reduce turnover."
   },
   {
-    "id": "servant_241",
+    "id": "leader_241",
     "question": "How does servant leadership influence ethical decision-making?",
     "options": [
       { "id": "option_1", "text": "By focusing only on short-term financial gains.", "isCorrect": false },
@@ -2892,7 +2892,7 @@
     "answerDescription": "Servant leaders make ethical decisions that benefit both employees and the organization."
   },
   {
-    "id": "servant_242",
+    "id": "leader_242",
     "question": "What is one way servant leadership enhances customer satisfaction?",
     "options": [
       { "id": "option_1", "text": "By focusing only on financial success.", "isCorrect": false },
@@ -2904,7 +2904,7 @@
     "answerDescription": "Servant leaders create a positive work culture that translates into better customer experiences."
   },
   {
-    "id": "servant_243",
+    "id": "leader_243",
     "question": "What is the ultimate goal of a servant leader?",
     "options": [
       { "id": "option_1", "text": "To maintain complete control over their organization.", "isCorrect": false },
@@ -2916,7 +2916,7 @@
     "answerDescription": "The main objective of servant leadership is to develop, support, and uplift employees to achieve their best potential."
   },
   {
-    "id": "servant_244",
+    "id": "leader_244",
     "question": "How does servant leadership contribute to a positive workplace culture?",
     "options": [
       { "id": "option_1", "text": "By enforcing strict rules without feedback.", "isCorrect": false },
@@ -2928,7 +2928,7 @@
     "answerDescription": "Servant leadership builds a workplace culture that prioritizes mutual respect, collaboration, and employee well-being."
   },
   {
-    "id": "servant_245",
+    "id": "leader_245",
     "question": "Which leadership style does servant leadership contrast with the most?",
     "options": [
       { "id": "option_1", "text": "Autocratic leadership.", "isCorrect": true },
@@ -2940,7 +2940,7 @@
     "answerDescription": "Unlike autocratic leaders who focus on control, servant leaders prioritize their team’s growth and well-being."
   },
   {
-    "id": "servant_246",
+    "id": "leader_246",
     "question": "What is one challenge of implementing servant leadership in a competitive business environment?",
     "options": [
       { "id": "option_1", "text": "It reduces employee motivation.", "isCorrect": false },
@@ -2952,7 +2952,7 @@
     "answerDescription": "Although it fosters loyalty and engagement, servant leadership may require time to show financial benefits."
   },
   {
-    "id": "servant_247",
+    "id": "leader_247",
     "question": "How can a servant leader encourage innovation within their team?",
     "options": [
       { "id": "option_1", "text": "By discouraging risk-taking.", "isCorrect": false },
@@ -2964,7 +2964,7 @@
     "answerDescription": "By encouraging input and collaboration, servant leaders create an environment where innovation thrives."
   },
   {
-    "id": "servant_248",
+    "id": "leader_248",
     "question": "What is a key behavior of servant leaders in decision-making?",
     "options": [
       { "id": "option_1", "text": "They make decisions based solely on profit.", "isCorrect": false },
@@ -2976,7 +2976,7 @@
     "answerDescription": "By prioritizing ethical considerations and employee well-being, servant leaders make sustainable decisions."
   },
   {
-    "id": "servant_249",
+    "id": "leader_249",
     "question": "Which of the following is a core principle of servant leadership?",
     "options": [
       { "id": "option_1", "text": "Leading by example and serving others first.", "isCorrect": true },
@@ -2988,7 +2988,7 @@
     "answerDescription": "Servant leaders set an example by prioritizing their team’s needs and growth."
   },
   {
-    "id": "servant_250",
+    "id": "leader_250",
     "question": "What is the long-term effect of servant leadership on organizational success?",
     "options": [
       { "id": "option_1", "text": "It reduces overall performance.", "isCorrect": false },
@@ -3000,7 +3000,7 @@
     "answerDescription": "By prioritizing people and ethics, servant leadership ensures long-term business success."
   },
   {
-    "id": "servant_251",
+    "id": "leader_251",
     "question": "How does servant leadership contribute to employee development?",
     "options": [
       { "id": "option_1", "text": "By limiting professional opportunities.", "isCorrect": false },
@@ -3012,7 +3012,7 @@
     "answerDescription": "Through mentorship and encouragement, servant leaders help employees reach their full potential."
   },
   {
-    "id": "servant_252",
+    "id": "leader_252",
     "question": "Why do employees often prefer working under a servant leader?",
     "options": [
       { "id": "option_1", "text": "Because they feel valued, heard, and supported.", "isCorrect": true },
@@ -3024,7 +3024,7 @@
     "answerDescription": "Servant leadership creates a positive work culture where employees feel valued and motivated."
   },
   {
-    "id": "servant_253",
+    "id": "leader_253",
     "question": "How can a servant leader build trust within their team?",
     "options": [
       { "id": "option_1", "text": "By withholding information from employees.", "isCorrect": false },
@@ -3036,7 +3036,7 @@
     "answerDescription": "By being transparent and fair, servant leaders create a trusting work environment."
   },
   {
-    "id": "servant_254",
+    "id": "leader_254",
     "question": "How does servant leadership improve employee morale?",
     "options": [
       { "id": "option_1", "text": "By ignoring employee concerns and feedback.", "isCorrect": false },
@@ -3048,7 +3048,7 @@
     "answerDescription": "By recognizing contributions and providing support, servant leadership boosts morale and motivation."
   },
   {
-    "id": "servant_255",
+    "id": "leader_255",
     "question": "What role does empathy play in servant leadership?",
     "options": [
       { "id": "option_1", "text": "It is not necessary for effective leadership.", "isCorrect": false },
@@ -3060,7 +3060,7 @@
     "answerDescription": "Servant leaders use empathy to understand and address the challenges their employees face."
   },
   {
-    "id": "servant_256",
+    "id": "leader_256",
     "question": "Which of the following is a sign of an effective servant leader?",
     "options": [
       { "id": "option_1", "text": "They avoid engaging with employees.", "isCorrect": false },
@@ -3072,7 +3072,7 @@
     "answerDescription": "Servant leaders engage with their teams, listen to concerns, and support team success."
   },
   {
-    "id": "servant_257",
+    "id": "leader_257",
     "question": "How does servant leadership affect employee retention?",
     "options": [
       { "id": "option_1", "text": "It leads to higher turnover due to a lack of direction.", "isCorrect": false },
@@ -3084,7 +3084,7 @@
     "answerDescription": "By fostering a culture of respect and support, servant leadership helps retain top talent."
   },
   {
-    "id": "servant_258",
+    "id": "leader_258",
     "question": "What is a major advantage of servant leadership?",
     "options": [
       { "id": "option_1", "text": "It leads to higher employee engagement and productivity.", "isCorrect": true },
@@ -3096,7 +3096,7 @@
     "answerDescription": "Servant leadership improves employee morale, increasing engagement and productivity."
   },
   {
-    "id": "servant_259",
+    "id": "leader_259",
     "question": "What is a key difference between servant leadership and traditional leadership?",
     "options": [
       { "id": "option_1", "text": "Traditional leadership focuses more on empowering employees.", "isCorrect": false },
@@ -3108,7 +3108,7 @@
     "answerDescription": "While traditional leadership emphasizes authority, servant leadership is centered on supporting others."
   },
   {
-    "id": "servant_260",
+    "id": "leader_260",
     "question": "How does servant leadership impact organizational ethics?",
     "options": [
       { "id": "option_1", "text": "It reduces the importance of ethical standards.", "isCorrect": false },
@@ -3120,7 +3120,7 @@
     "answerDescription": "By fostering a culture of integrity, servant leaders ensure ethical business practices."
   },
   {
-    "id": "servant_261",
+    "id": "leader_261",
     "question": "Which of the following traits best describes a servant leader?",
     "options": [
       { "id": "option_1", "text": "Authoritative and controlling.", "isCorrect": false },
@@ -3132,7 +3132,7 @@
     "answerDescription": "Empathy and a commitment to team success define an effective servant leader."
   },
   {
-    "id": "servant_262",
+    "id": "leader_262",
     "question": "What is one way a servant leader can empower employees?",
     "options": [
       { "id": "option_1", "text": "By micromanaging their every task.", "isCorrect": false },
@@ -3144,7 +3144,7 @@
     "answerDescription": "By empowering employees with autonomy and support, servant leaders foster confidence and innovation."
   },
   {
-    "id": "servant_263",
+    "id": "leader_263",
     "question": "How does servant leadership influence workplace culture?",
     "options": [
       { "id": "option_1", "text": "It creates a highly competitive and individualistic environment.", "isCorrect": false },
@@ -3156,7 +3156,7 @@
     "answerDescription": "A servant leader creates a workplace culture where employees feel valued and empowered."
   },
   {
-    "id": "servant_264",
+    "id": "leader_264",
     "question": "Which leadership style is most similar to servant leadership?",
     "options": [
       { "id": "option_1", "text": "Autocratic leadership.", "isCorrect": false },
@@ -3168,7 +3168,7 @@
     "answerDescription": "Transformational leadership and servant leadership both emphasize employee development and motivation."
   },
   {
-    "id": "servant_265",
+    "id": "leader_265",
     "question": "How does servant leadership encourage innovation?",
     "options": [
       { "id": "option_1", "text": "By creating a supportive environment where employees feel safe to share ideas.", "isCorrect": true },
@@ -3180,7 +3180,7 @@
     "answerDescription": "Servant leaders encourage creativity by fostering a trusting and open environment."
   },
   {
-    "id": "servant_266",
+    "id": "leader_266",
     "question": "What is a servant leader’s approach to conflict resolution?",
     "options": [
       { "id": "option_1", "text": "They avoid dealing with conflicts altogether.", "isCorrect": false },
@@ -3192,7 +3192,7 @@
     "answerDescription": "Servant leaders resolve conflicts by listening to all parties and ensuring a fair outcome."
   },
   {
-    "id": "servant_267",
+    "id": "leader_267",
     "question": "Which statement best describes the servant leadership mindset?",
     "options": [
       { "id": "option_1", "text": "The leader’s primary goal is to accumulate power.", "isCorrect": false },
@@ -3204,7 +3204,7 @@
     "answerDescription": "Servant leaders believe their role is to support and uplift those they lead."
   },
   {
-    "id": "servant_268",
+    "id": "leader_268",
     "question": "How do servant leaders support employee career growth?",
     "options": [
       { "id": "option_1", "text": "By limiting their access to learning resources.", "isCorrect": false },
@@ -3216,7 +3216,7 @@
     "answerDescription": "Servant leaders help employees grow by providing learning and mentorship opportunities."
   },
   {
-    "id": "servant_269",
+    "id": "leader_269",
     "question": "What is the relationship between servant leadership and team performance?",
     "options": [
       { "id": "option_1", "text": "Servant leadership increases team engagement and productivity.", "isCorrect": true },
@@ -3228,7 +3228,7 @@
     "answerDescription": "By empowering employees, servant leadership leads to stronger performance and collaboration."
   },
   {
-    "id": "servant_270",
+    "id": "leader_270",
     "question": "What makes servant leadership different from other leadership styles?",
     "options": [
       { "id": "option_1", "text": "It focuses solely on financial success.", "isCorrect": false },
@@ -3240,7 +3240,7 @@
     "answerDescription": "Unlike other leadership styles, servant leadership is centered on empowering and supporting employees."
   },
   {
-    "id": "servant_271",
+    "id": "leader_271",
     "question": "How does servant leadership contribute to ethical decision-making?",
     "options": [
       { "id": "option_1", "text": "By focusing only on short-term gains.", "isCorrect": false },
@@ -3252,7 +3252,7 @@
     "answerDescription": "Servant leaders ensure ethical practices by prioritizing fairness and integrity."
   },
   {
-    "id": "servant_272",
+    "id": "leader_272",
     "question": "What is one major challenge of servant leadership?",
     "options": [
       { "id": "option_1", "text": "It prevents organizations from achieving success.", "isCorrect": false },
@@ -3264,7 +3264,7 @@
     "answerDescription": "While servant leadership takes time to show results, it leads to lasting success through employee development."
   },
   {
-    "id": "servant_273",
+    "id": "leader_273",
     "question": "How does servant leadership affect employee morale?",
     "options": [
       { "id": "option_1", "text": "It increases morale by making employees feel valued and heard.", "isCorrect": true },
@@ -3276,7 +3276,7 @@
     "answerDescription": "Employees thrive in environments where they feel respected and supported, leading to higher morale."
   },
   {
-    "id": "servant_274",
+    "id": "leader_274",
     "question": "Which of the following is a key characteristic of servant leadership?",
     "options": [
       { "id": "option_1", "text": "Strict adherence to hierarchy.", "isCorrect": false },
@@ -3288,7 +3288,7 @@
     "answerDescription": "Empathy and active listening allow servant leaders to connect with their team and foster trust."
   },
   {
-    "id": "servant_275",
+    "id": "leader_275",
     "question": "How do servant leaders handle decision-making?",
     "options": [
       { "id": "option_1", "text": "They make decisions without consulting anyone.", "isCorrect": false },
@@ -3300,7 +3300,7 @@
     "answerDescription": "By involving their team in decision-making, servant leaders build trust and improve outcomes."
   },
   {
-    "id": "servant_276",
+    "id": "leader_276",
     "question": "Which of these is NOT a principle of servant leadership?",
     "options": [
       { "id": "option_1", "text": "Stewardship.", "isCorrect": false },
@@ -3312,7 +3312,7 @@
     "answerDescription": "Unlike authoritarian leadership, servant leadership is based on support and empowerment."
   },
   {
-    "id": "servant_277",
+    "id": "leader_277",
     "question": "Why is self-awareness important in servant leadership?",
     "options": [
       { "id": "option_1", "text": "It ensures leaders always make decisions alone.", "isCorrect": false },
@@ -3324,7 +3324,7 @@
     "answerDescription": "Servant leaders must be self-aware to adapt and lead effectively with empathy."
   },
   {
-    "id": "servant_278",
+    "id": "leader_278",
     "question": "How does servant leadership contribute to employee empowerment?",
     "options": [
       { "id": "option_1", "text": "By giving employees the resources and support to grow.", "isCorrect": true },
@@ -3336,7 +3336,7 @@
     "answerDescription": "Through mentorship and support, servant leaders empower employees to take initiative and grow."
   },
   {
-    "id": "servant_279",
+    "id": "leader_279",
     "question": "What is the connection between servant leadership and corporate social responsibility?",
     "options": [
       { "id": "option_1", "text": "Servant leadership focuses only on internal company matters.", "isCorrect": false },
@@ -3348,7 +3348,7 @@
     "answerDescription": "By leading ethically, servant leaders encourage businesses to contribute positively to their communities."
   },
   {
-    "id": "servant_280",
+    "id": "leader_280",
     "question": "What is one way servant leaders foster a culture of trust?",
     "options": [
       { "id": "option_1", "text": "By withholding important company information.", "isCorrect": false },
@@ -3360,7 +3360,7 @@
     "answerDescription": "Transparency builds trust by ensuring employees feel informed and valued."
   },
   {
-    "id": "servant_281",
+    "id": "leader_281",
     "question": "How do servant leaders encourage innovation within a team?",
     "options": [
       { "id": "option_1", "text": "By discouraging new approaches to problems.", "isCorrect": false },
@@ -3372,7 +3372,7 @@
     "answerDescription": "Servant leaders foster creativity by encouraging open communication and experimentation."
   },
   {
-    "id": "servant_282",
+    "id": "leader_282",
     "question": "Which of the following is an example of servant leadership in action?",
     "options": [
       { "id": "option_1", "text": "A leader making all decisions without input.", "isCorrect": false },
@@ -3384,7 +3384,7 @@
     "answerDescription": "Mentoring and supporting employee development are key practices of servant leadership."
   },
   {
-    "id": "servant_283",
+    "id": "leader_283",
     "question": "Why do servant leaders prioritize active listening?",
     "options": [
       { "id": "option_1", "text": "To appear as though they are listening, even if they are not.", "isCorrect": false },
@@ -3396,7 +3396,7 @@
     "answerDescription": "Active listening helps leaders build trust and make informed decisions based on team input."
   },
   {
-    "id": "servant_284",
+    "id": "leader_284",
     "question": "How does servant leadership contribute to company success?",
     "options": [
       { "id": "option_1", "text": "By improving employee engagement and performance.", "isCorrect": true },
@@ -3408,7 +3408,7 @@
     "answerDescription": "When employees feel valued and motivated, they contribute more effectively to company success."
   },
   {
-    "id": "servant_285",
+    "id": "leader_285",
     "question": "What is an essential skill for a servant leader?",
     "options": [
       { "id": "option_1", "text": "A strong desire for personal power.", "isCorrect": false },
@@ -3420,7 +3420,7 @@
     "answerDescription": "Empathy allows servant leaders to connect with their team and create a supportive work environment."
   },
   {
-    "id": "servant_286",
+    "id": "leader_286",
     "question": "How does servant leadership influence team collaboration?",
     "options": [
       { "id": "option_1", "text": "By encouraging competition over cooperation.", "isCorrect": false },
@@ -3432,7 +3432,7 @@
     "answerDescription": "Servant leaders build collaborative teams by encouraging trust, communication, and shared goals."
   },
   {
-    "id": "servant_287",
+    "id": "leader_287",
     "question": "What is a long-term benefit of servant leadership?",
     "options": [
       { "id": "option_1", "text": "A workplace with high employee turnover.", "isCorrect": false },
@@ -3444,7 +3444,7 @@
     "answerDescription": "By supporting employees, servant leadership builds loyalty and long-term organizational success."
   },
   {
-    "id": "servant_288",
+    "id": "leader_288",
     "question": "How does servant leadership align with ethical business practices?",
     "options": [
       { "id": "option_1", "text": "By prioritizing fairness, honesty, and integrity.", "isCorrect": true },
@@ -3456,7 +3456,7 @@
     "answerDescription": "Servant leadership encourages ethical decision-making by prioritizing honesty and fairness."
   },
   {
-    "id": "servant_289",
+    "id": "leader_289",
     "question": "How do servant leaders handle conflict within a team?",
     "options": [
       { "id": "option_1", "text": "By ignoring conflicts and hoping they resolve themselves.", "isCorrect": false },
@@ -3468,7 +3468,7 @@
     "answerDescription": "Effective conflict resolution is a key servant leadership skill that strengthens team relationships."
   },
   {
-    "id": "servant_290",
+    "id": "leader_290",
     "question": "How does a servant leader demonstrate humility?",
     "options": [
       { "id": "option_1", "text": "By avoiding responsibility for failures.", "isCorrect": false },
@@ -3480,7 +3480,7 @@
     "answerDescription": "Humility helps leaders build strong relationships and a culture of trust."
   },
   {
-    "id": "servant_291",
+    "id": "leader_291",
     "question": "How does servant leadership impact employee satisfaction?",
     "options": [
       { "id": "option_1", "text": "It increases motivation and workplace happiness.", "isCorrect": true },
@@ -3492,7 +3492,7 @@
     "answerDescription": "Employees feel more valued and engaged when their leader supports them."
   },
   {
-    "id": "servant_292",
+    "id": "leader_292",
     "question": "What is one characteristic of a servant leader?",
     "options": [
       { "id": "option_1", "text": "They focus primarily on their own success.", "isCorrect": false },
@@ -3504,7 +3504,7 @@
     "answerDescription": "By focusing on their team’s success, servant leaders create strong, motivated teams."
   },
   {
-    "id": "servant_293",
+    "id": "leader_293",
     "question": "Why do servant leaders encourage personal development in employees?",
     "options": [
       { "id": "option_1", "text": "Because it reduces their own workload.", "isCorrect": false },
@@ -3516,7 +3516,7 @@
     "answerDescription": "Servant leaders empower employees to grow, which strengthens the organization."
   },
   {
-    "id": "servant_294",
+    "id": "leader_294",
     "question": "How do servant leaders support employee well-being?",
     "options": [
       { "id": "option_1", "text": "By increasing workloads without support.", "isCorrect": false },
@@ -3528,7 +3528,7 @@
     "answerDescription": "Servant leaders ensure employees feel supported, leading to better morale and productivity."
   },
   {
-    "id": "servant_295",
+    "id": "leader_295",
     "question": "How does servant leadership improve decision-making?",
     "options": [
       { "id": "option_1", "text": "By making all decisions alone.", "isCorrect": false },
@@ -3540,7 +3540,7 @@
     "answerDescription": "Servant leaders seek input from employees to make well-informed, ethical choices."
   },
   {
-    "id": "servant_296",
+    "id": "leader_296",
     "question": "How do servant leaders handle employee mistakes?",
     "options": [
       { "id": "option_1", "text": "By using them as learning opportunities for growth.", "isCorrect": true },
@@ -3552,7 +3552,7 @@
     "answerDescription": "Servant leaders help employees grow by turning mistakes into lessons."
   },
   {
-    "id": "servant_297",
+    "id": "leader_297",
     "question": "What is a key result of servant leadership?",
     "options": [
       { "id": "option_1", "text": "Decreased team morale.", "isCorrect": false },
@@ -3564,7 +3564,7 @@
     "answerDescription": "Servant leadership leads to more motivated, engaged, and productive employees."
   },
   {
-    "id": "servant_298",
+    "id": "leader_298",
     "question": "What is one way a servant leader builds trust with their team?",
     "options": [
       { "id": "option_1", "text": "By withholding important information from employees.", "isCorrect": false },
@@ -3576,7 +3576,7 @@
     "answerDescription": "Servant leaders earn trust by being honest, transparent, and putting their team first."
   },
   {
-    "id": "servant_299",
+    "id": "leader_299",
     "question": "Which of the following best describes a servant leader’s communication style?",
     "options": [
       { "id": "option_1", "text": "Active listening and open dialogue.", "isCorrect": true },
@@ -3588,7 +3588,7 @@
     "answerDescription": "Servant leaders encourage two-way communication, ensuring employees feel heard and valued."
   },
   {
-    "id": "servant_300",
+    "id": "leader_300",
     "question": "Why is self-awareness important for servant leaders?",
     "options": [
       { "id": "option_1", "text": "It allows them to control their employees more effectively.", "isCorrect": false },
@@ -3600,7 +3600,7 @@
     "answerDescription": "Self-awareness enables servant leaders to continuously improve and better support their team."
   },
   {
-    "id": "servant_301",
+    "id": "leader_301",
     "question": "What is a major difference between servant leadership and traditional leadership?",
     "options": [
       { "id": "option_1", "text": "Traditional leadership focuses entirely on employee well-being.", "isCorrect": false },
@@ -3612,7 +3612,7 @@
     "answerDescription": "Unlike traditional leaders, servant leaders focus on supporting and developing their team."
   },
   {
-    "id": "servant_302",
+    "id": "leader_302",
     "question": "How does a servant leader encourage innovation in the workplace?",
     "options": [
       { "id": "option_1", "text": "By discouraging employees from taking risks.", "isCorrect": false },
@@ -3624,7 +3624,7 @@
     "answerDescription": "Servant leaders empower employees to experiment, leading to greater creativity and progress."
   },
   {
-    "id": "servant_303",
+    "id": "leader_303",
     "question": "Why do servant leaders focus on developing future leaders?",
     "options": [
       { "id": "option_1", "text": "Because leadership should be about long-term success, not just one person.", "isCorrect": true },
@@ -3636,7 +3636,7 @@
     "answerDescription": "Servant leaders mentor others to ensure long-term success for the organization."
   },
   {
-    "id": "servant_304",
+    "id": "leader_304",
     "question": "How do servant leaders contribute to a positive organizational culture?",
     "options": [
       { "id": "option_1", "text": "By enforcing strict control without employee input.", "isCorrect": false },
