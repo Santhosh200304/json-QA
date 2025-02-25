@@ -22608,7 +22608,7 @@
   "answerDescription": "Democratic leaders act as mediators, fostering open discussions to resolve conflicts collaboratively."
 },
   {
-    "id": "remote_1884",
+    "id": "leader_1884",
     "question": "How can leaders build trust in a remote team?",
     "options": [
       { "id": "option_1", "text": "Monitor employees constantly to ensure productivity.", "isCorrect": false },
@@ -22620,7 +22620,7 @@
     "answerDescription": "Leaders can foster trust by maintaining transparency, encouraging accountability, and ensuring consistent, open communication."
   },
   {
-    "id": "remote_1885",
+    "id": "leader_1885",
     "question": "How should leaders adapt their leadership style for remote teams?",
     "options": [
       { "id": "option_1", "text": "Be flexible, empower employees, and focus on outcomes.", "isCorrect": true },
@@ -22632,7 +22632,7 @@
     "answerDescription": "Successful remote leaders empower employees, focus on results, and adapt their approach to suit virtual teams."
   },
   {
-    "id": "remote_1886",
+    "id": "leader_1886",
     "question": "What is an effective way to prevent employee isolation in remote work?",
     "options": [
       { "id": "option_1", "text": "Encourage employees to work completely independently.", "isCorrect": false },
@@ -22644,7 +22644,7 @@
     "answerDescription": "Remote leaders should facilitate social interactions and regular check-ins to support employees' mental well-being."
   },
   {
-    "id": "remote_1887",
+    "id": "leader_1887",
     "question": "Why is it important to set communication norms in remote teams?",
     "options": [
       { "id": "option_1", "text": "To ensure clarity, reduce misunderstandings, and improve collaboration.", "isCorrect": true },
@@ -22656,7 +22656,7 @@
     "answerDescription": "Establishing communication norms helps remote teams align expectations, avoid confusion, and collaborate effectively."
   },
   {
-    "id": "remote_1888",
+    "id": "leader_1888",
     "question": "How can leaders encourage innovation in remote teams?",
     "options": [
       { "id": "option_1", "text": "Discourage new ideas to maintain stability.", "isCorrect": false },
@@ -22668,7 +22668,7 @@
     "answerDescription": "Leaders should encourage brainstorming, support risk-taking, and foster an open feedback culture to drive innovation."
   },
   {
-    "id": "remote_1889",
+    "id": "leader_1889",
     "question": "What is an effective way to measure productivity in remote teams?",
     "options": [
       { "id": "option_1", "text": "Monitor employees' online status throughout the day.", "isCorrect": false },
@@ -22680,7 +22680,7 @@
     "answerDescription": "Productivity should be measured based on outcomes, key metrics, and engagement rather than micromanagement."
   },
   {
-    "id": "remote_1890",
+    "id": "leader_1890",
     "question": "What is the most important skill for remote leaders?",
     "options": [
       { "id": "option_1", "text": "Effective communication", "isCorrect": true },
@@ -22692,7 +22692,7 @@
     "answerDescription": "Effective communication is crucial in remote leadership to ensure clarity, collaboration, and productivity."
   },
   {
-    "id": "remote_1891",
+    "id": "leader_1891",
     "question": "How can remote leaders create a sense of team unity?",
     "options": [
       { "id": "option_1", "text": "Limit communication to work-only discussions.", "isCorrect": false },
@@ -22704,7 +22704,7 @@
     "answerDescription": "Leaders should promote social interactions and virtual team-building activities to strengthen bonds."
   },
   {
-    "id": "remote_1892",
+    "id": "leader_1892",
     "question": "What is a major challenge for remote leaders?",
     "options": [
       { "id": "option_1", "text": "Ensuring employees work from an office.", "isCorrect": false },
@@ -22716,7 +22716,7 @@
     "answerDescription": "Keeping remote teams engaged requires frequent communication, support, and recognition."
   },
   {
-    "id": "remote_1893",
+    "id": "leader_1893",
     "question": "How should remote leaders handle performance management?",
     "options": [
       { "id": "option_1", "text": "Set clear goals and measure results.", "isCorrect": true },
@@ -22728,7 +22728,7 @@
     "answerDescription": "Remote leaders should focus on goal achievement and key performance indicators rather than micromanagement."
   },
   {
-    "id": "remote_1894",
+    "id": "leader_1894",
     "question": "Why is trust important in remote teams?",
     "options": [
       { "id": "option_1", "text": "It reduces the need for communication.", "isCorrect": false },
@@ -22740,7 +22740,7 @@
     "answerDescription": "A high-trust environment leads to more motivated and responsible employees."
   },
   {
-    "id": "remote_1895",
+    "id": "leader_1895",
     "question": "What is an effective way to encourage innovation in remote teams?",
     "options": [
       { "id": "option_1", "text": "Create a safe space for idea-sharing and feedback.", "isCorrect": true },
@@ -22752,7 +22752,7 @@
     "answerDescription": "Innovation flourishes when employees feel comfortable sharing their ideas without fear of criticism."
   },
   {
-    "id": "remote_1896",
+    "id": "leader_1896",
     "question": "Why is video communication important in remote leadership?",
     "options": [
       { "id": "option_1", "text": "It is unnecessary when emails are available.", "isCorrect": false },
@@ -22764,7 +22764,7 @@
     "answerDescription": "Video calls add a personal touch and help reduce misunderstandings in remote teams."
   },
   {
-    "id": "remote_1897",
+    "id": "leader_1897",
     "question": "What is the best way to onboard new remote employees?",
     "options": [
       { "id": "option_1", "text": "Give minimal instructions and let them figure things out.", "isCorrect": false },
@@ -22776,7 +22776,7 @@
     "answerDescription": "Effective onboarding includes mentorship, training, and structured introductions to ensure new hires succeed."
   },
   {
-    "id": "remote_1898",
+    "id": "leader_1898",
     "question": "What is the most effective way to maintain team cohesion in a remote setting?",
     "options": [
       { "id": "option_1", "text": "Scheduling regular virtual team meetings and check-ins.", "isCorrect": true },
@@ -22788,7 +22788,7 @@
     "answerDescription": "Regular virtual meetings and check-ins foster collaboration and keep the team aligned."
   },
   {
-    "id": "remote_1899",
+    "id": "leader_1899",
     "question": "How can a remote leader ensure accountability within the team?",
     "options": [
       { "id": "option_1", "text": "Micromanaging every task to ensure completion.", "isCorrect": false },
@@ -22800,7 +22800,7 @@
     "answerDescription": "Defining goals and regularly checking progress ensures accountability in a remote team."
   },
   {
-    "id": "remote_1900",
+    "id": "leader_1900",
     "question": "Which strategy best helps remote employees avoid burnout?",
     "options": [
       { "id": "option_1", "text": "Expecting employees to always be available online.", "isCorrect": false },
@@ -22812,7 +22812,7 @@
     "answerDescription": "Flexible work hours and respecting personal time help prevent burnout."
   },
   {
-      "id": "remote_1901",
+      "id": "leader_1901",
       "question": "What is the most effective way for remote leaders to ensure clear communication?",
       "options": [
         { "id": "option_1", "text": "Sending emails only when absolutely necessary.", "isCorrect": false },
@@ -22824,7 +22824,7 @@
       "answerDescription": "Effective remote leaders use multiple communication tools, such as video calls, chat, and email, to reinforce messages and avoid misunderstandings."
     },
     {
-      "id": "remote_1902",
+      "id": "leader_1902",
       "question": "How can remote leaders maintain team engagement?",
       "options": [
         { "id": "option_1", "text": "Encouraging social interactions and virtual team-building activities.", "isCorrect": true },
@@ -22836,7 +22836,7 @@
       "answerDescription": "Engagement improves when leaders create opportunities for social interaction and team bonding, even in virtual settings."
     },
     {
-      "id": "remote_1903",
+      "id": "leader_1903",
       "question": "How can remote leaders effectively track team productivity?",
       "options": [
         { "id": "option_1", "text": "By focusing on output and results rather than hours worked.", "isCorrect": true },
@@ -22848,7 +22848,7 @@
       "answerDescription": "Effective remote leaders assess productivity based on deliverables and outcomes rather than strict time tracking."
     },
     {
-      "id": "remote_1904",
+      "id": "leader_1904",
       "question": "Which leadership style is most effective for managing remote teams?",
       "options": [
         { "id": "option_1", "text": "Autocratic leadership, where the leader makes all decisions.", "isCorrect": false },
@@ -22860,7 +22860,7 @@
       "answerDescription": "Transformational leadership helps remote teams stay engaged and motivated by focusing on vision, trust, and professional development."
     },
     {
-      "id": "remote_1905",
+      "id": "leader_1905",
       "question": "What is an important factor in building trust in remote teams?",
       "options": [
         { "id": "option_1", "text": "Providing clear expectations and regular feedback.", "isCorrect": true },
@@ -22872,7 +22872,7 @@
       "answerDescription": "Trust in remote teams is built through transparency, clear expectations, and ongoing support from leadership."
     },
     {
-      "id": "remote_1906",
+      "id": "leader_1906",
       "question": "How can remote leaders promote a positive work culture?",
       "options": [
         { "id": "option_1", "text": "Focusing only on deadlines.", "isCorrect": false },
@@ -22884,7 +22884,7 @@
       "answerDescription": "Acknowledging employees’ efforts and encouraging collaboration helps create a strong and positive remote work culture."
     },
     {
-      "id": "remote_1907",
+      "id": "leader_1907",
       "question": "What is an effective way for remote leaders to support employees' well-being?",
       "options": [
         { "id": "option_1", "text": "Ensuring employees are always available online.", "isCorrect": false },
@@ -22896,7 +22896,7 @@
       "answerDescription": "Remote leaders who encourage work-life balance and mental well-being help employees stay motivated and productive."
     },
     {
-      "id": "remote_1908",
+      "id": "leader_1908",
       "question": "Which strategy helps remote leaders build trust within their teams?",
       "options": [
         { "id": "option_1", "text": "Micromanaging daily tasks.", "isCorrect": false },
@@ -22908,7 +22908,7 @@
       "answerDescription": "Remote leaders can build trust by fostering an open and transparent communication culture."
     },
     {
-      "id": "remote_1909",
+      "id": "leader_1909",
       "question": "How can remote leaders ensure team engagement?",
       "options": [
         { "id": "option_1", "text": "Reducing communication to emails only.", "isCorrect": false },
@@ -22920,7 +22920,7 @@
       "answerDescription": "Regular virtual meetings with clear objectives help keep remote teams engaged and aligned."
     },
     {
-      "id": "remote_1910",
+      "id": "leader_1910",
       "question": "What is an effective way for remote leaders to provide feedback?",
       "options": [
         { "id": "option_1", "text": "Only giving feedback during annual reviews.", "isCorrect": false },
@@ -22930,6 +22930,102 @@
       ],
       "hint": "Feedback should be regular, constructive, and clear.",
       "answerDescription": "Remote leaders should provide timely and clear feedback to support team members' growth and performance."
+    },
+    {
+      "id": "leader_1911",
+      "question": "Which leadership style is most effective for remote teams?",
+      "options": [
+        { "id": "option_1", "text": "Micromanagement", "isCorrect": false },
+        { "id": "option_2", "text": "Autocratic leadership", "isCorrect": false },
+        { "id": "option_3", "text": "Transformational leadership", "isCorrect": true },
+        { "id": "option_4", "text": "Transactional leadership", "isCorrect": false }
+      ],
+      "hint": "In remote teams, inspiring and motivating employees is key.",
+      "answerDescription": "Transformational leadership helps remote teams by fostering trust, motivation, and a shared vision."
+    },
+    {
+      "id": "leader_1912",
+      "question": "Why is trust important in remote leadership?",
+      "options": [
+        { "id": "option_1", "text": "It reduces the need for constant supervision.", "isCorrect": true },
+        { "id": "option_2", "text": "It allows leaders to micromanage their team.", "isCorrect": false },
+        { "id": "option_3", "text": "Trust is only necessary for in-person teams.", "isCorrect": false },
+        { "id": "option_4", "text": "It makes employees work longer hours.", "isCorrect": false }
+      ],
+      "hint": "Trust empowers employees to work independently and effectively.",
+      "answerDescription": "Building trust in remote teams fosters autonomy, accountability, and productivity."
+    },
+    {
+      "id": "leader_1913",
+      "question": "What is the best way to keep remote employees engaged?",
+      "options": [
+        { "id": "option_1", "text": "Scheduling excessive virtual meetings", "isCorrect": false },
+        { "id": "option_2", "text": "Recognizing achievements and providing feedback", "isCorrect": true },
+        { "id": "option_3", "text": "Monitoring their work closely", "isCorrect": false },
+        { "id": "option_4", "text": "Avoiding communication", "isCorrect": false }
+      ],
+      "hint": "Employees feel motivated when their contributions are acknowledged.",
+      "answerDescription": "Providing recognition and feedback helps remote employees stay engaged and motivated."
+    },
+    {
+      "id": "leader_1914",
+      "question": "What is a common mistake in remote leadership?",
+      "options": [
+        { "id": "option_1", "text": "Setting clear expectations", "isCorrect": false },
+        { "id": "option_2", "text": "Ignoring employee well-being", "isCorrect": true },
+        { "id": "option_3", "text": "Encouraging collaboration", "isCorrect": false },
+        { "id": "option_4", "text": "Providing regular check-ins", "isCorrect": false }
+      ],
+      "hint": "Leaders should ensure their employees feel supported, not isolated.",
+      "answerDescription": "Neglecting employee well-being can lead to burnout, disengagement, and lower productivity."
+    },
+    {
+      "id": "leader_1915",
+      "question": "How can leaders ensure effective communication in remote teams?",
+      "options": [
+        { "id": "option_1", "text": "Using multiple communication tools and setting clear guidelines", "isCorrect": true },
+        { "id": "option_2", "text": "Relying only on emails", "isCorrect": false },
+        { "id": "option_3", "text": "Avoiding regular team check-ins", "isCorrect": false },
+        { "id": "option_4", "text": "Only communicating when issues arise", "isCorrect": false }
+      ],
+      "hint": "Having structured communication helps remote teams stay aligned.",
+      "answerDescription": "Using different communication tools and setting guidelines helps avoid misunderstandings in remote teams."
+    },
+    {
+      "id": "leader_1916",
+      "question": "How can leaders foster team collaboration in a remote environment?",
+      "options": [
+        { "id": "option_1", "text": "Discouraging informal conversations", "isCorrect": false },
+        { "id": "option_2", "text": "Avoiding virtual meetings", "isCorrect": false },
+        { "id": "option_3", "text": "Encouraging open communication and using collaboration tools", "isCorrect": true },
+        { "id": "option_4", "text": "Focusing only on individual performance", "isCorrect": false }
+      ],
+      "hint": "Collaboration tools and open communication are key for remote teams.",
+      "answerDescription": "Encouraging open communication and using tools like Slack, Zoom, or Trello can enhance collaboration in remote teams."
+    },
+    {
+      "id": "leader_1917",
+      "question": "What is an effective way to build a positive remote work culture?",
+      "options": [
+        { "id": "option_1", "text": "Creating virtual team-building activities and fostering inclusion", "isCorrect": true },
+        { "id": "option_2", "text": "Avoiding informal communication", "isCorrect": false },
+        { "id": "option_3", "text": "Focusing only on tasks and deadlines", "isCorrect": false },
+        { "id": "option_4", "text": "Ignoring team bonding activities", "isCorrect": false }
+      ],
+      "hint": "A strong work culture includes social interaction and team bonding.",
+      "answerDescription": "Virtual team-building activities help remote employees feel connected and included."
+    },
+    {
+      "id": "leader_1918",
+      "question": "Why is work-life balance important in remote leadership?",
+      "options": [
+        { "id": "option_1", "text": "It is not relevant to remote teams.", "isCorrect": false },
+        { "id": "option_2", "text": "It helps prevent burnout and improves productivity.", "isCorrect": true },
+        { "id": "option_3", "text": "Employees should always be available.", "isCorrect": false },
+        { "id": "option_4", "text": "Leaders should expect employees to work longer hours.", "isCorrect": false }
+      ],
+      "hint": "Maintaining balance prevents stress and enhances productivity.",
+      "answerDescription": "Encouraging work-life balance helps remote employees stay motivated and avoid burnout."
     }
 ]
   
