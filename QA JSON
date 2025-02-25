@@ -21610,7 +21610,1327 @@
   ],
   "hint": "Gathering multiple opinions takes time.",
   "answerDescription": "Democratic leadership sometimes results in slower decision-making because leaders take time to consider team input before making a final choice."
-}
+},
+{
+  "id": "leader_1801",
+  "question": "How does democratic leadership affect workplace innovation?",
+  "options": [
+    { "id": "option_1", "text": "It encourages innovation by valuing employee input.", "isCorrect": true },
+    { "id": "option_2", "text": "It discourages innovation by limiting creativity.", "isCorrect": false },
+    { "id": "option_3", "text": "It prevents employees from suggesting new ideas.", "isCorrect": false },
+    { "id": "option_4", "text": "It enforces strict rules that restrict innovation.", "isCorrect": false }
+  ],
+  "hint": "An open environment fosters creativity.",
+  "answerDescription": "Democratic leadership creates an innovative workplace by allowing employees to share and develop new ideas."
+},
+{
+  "id": "leader_1802",
+  "question": "Which of the following best describes the communication style in democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "Top-down communication with no employee input.", "isCorrect": false },
+    { "id": "option_2", "text": "Strict and directive communication.", "isCorrect": false },
+    { "id": "option_3", "text": "Open and two-way communication.", "isCorrect": true },
+    { "id": "option_4", "text": "One-sided communication where leaders do all the talking.", "isCorrect": false }
+  ],
+  "hint": "Democratic leadership promotes discussion and collaboration.",
+  "answerDescription": "In a democratic leadership style, communication flows in both directions, allowing employees to express ideas and receive feedback."
+},
+{
+  "id": "leader_1803",
+  "question": "Why do employees feel more satisfied under democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "Because they are given strict orders to follow.", "isCorrect": false },
+    { "id": "option_2", "text": "Because they are involved in decision-making.", "isCorrect": true },
+    { "id": "option_3", "text": "Because they have no responsibilities.", "isCorrect": false },
+    { "id": "option_4", "text": "Because their opinions are ignored.", "isCorrect": false }
+  ],
+  "hint": "Employee satisfaction comes from feeling valued and heard.",
+  "answerDescription": "Employees under democratic leadership feel satisfied because they have a voice in decision-making and their contributions are recognized."
+},
+{
+  "id": "leader_1804",
+  "question": "What type of work environment does democratic leadership create?",
+  "options": [
+    { "id": "option_1", "text": "An inclusive and collaborative environment.", "isCorrect": true },
+    { "id": "option_2", "text": "A strict and rigid work culture.", "isCorrect": false },
+    { "id": "option_3", "text": "An environment where employees are afraid to speak up.", "isCorrect": false },
+    { "id": "option_4", "text": "A workplace with no leadership guidance.", "isCorrect": false }
+  ],
+  "hint": "Democratic leadership promotes teamwork and inclusivity.",
+  "answerDescription": "Democratic leadership fosters a positive work environment by making employees feel valued, respected, and engaged in decision-making."
+},
+{
+  "id": "leader_1805",
+  "question": "What is the primary goal of democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "To make all decisions independently without employee input.", "isCorrect": false },
+    { "id": "option_2", "text": "To maintain complete control over employees.", "isCorrect": false },
+    { "id": "option_3", "text": "To involve employees in decision-making and foster collaboration.", "isCorrect": true },
+    { "id": "option_4", "text": "To discourage teamwork and innovation.", "isCorrect": false }
+  ],
+  "hint": "Democratic leadership is centered on participation and teamwork.",
+  "answerDescription": "The primary goal of democratic leadership is to involve employees in decision-making, ensuring collaboration and shared responsibility."
+},
+{
+  "id": "leader_1806",
+  "question": "Which statement best describes the decision-making process in democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "Only the leader makes all decisions.", "isCorrect": false },
+    { "id": "option_2", "text": "Decisions are made collectively with team input.", "isCorrect": true },
+    { "id": "option_3", "text": "Employees have no role in decision-making.", "isCorrect": false },
+    { "id": "option_4", "text": "Decisions are made quickly without discussion.", "isCorrect": false }
+  ],
+  "hint": "Democratic leadership values group decision-making.",
+  "answerDescription": "Democratic leaders ensure that employees contribute their ideas before making important decisions, leading to well-rounded choices."
+},
+{
+  "id": "leader_1807",
+  "question": "How does democratic leadership impact problem-solving?",
+  "options": [
+    { "id": "option_1", "text": "It encourages creative solutions by involving multiple perspectives.", "isCorrect": true },
+    { "id": "option_2", "text": "It limits problem-solving to the leader’s viewpoint.", "isCorrect": false },
+    { "id": "option_3", "text": "It discourages team discussions about challenges.", "isCorrect": false },
+    { "id": "option_4", "text": "It prevents employees from contributing ideas.", "isCorrect": false }
+  ],
+  "hint": "More opinions lead to better problem-solving.",
+  "answerDescription": "By considering diverse perspectives, democratic leadership promotes creative and effective problem-solving approaches."
+},
+{
+  "id": "leader_1808",
+  "question": "Which industry benefits most from democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "Highly structured industries like the military.", "isCorrect": false },
+    { "id": "option_2", "text": "Industries where quick, top-down decisions are necessary.", "isCorrect": false },
+    { "id": "option_3", "text": "Industries that discourage employee participation.", "isCorrect": false },
+    { "id": "option_4", "text": "Creative industries like marketing and design.", "isCorrect": true }
+  ],
+  "hint": "Industries that rely on innovation and collaboration benefit the most.",
+  "answerDescription": "Democratic leadership is most effective in creative industries where innovation and teamwork drive success."
+},
+{
+  "id": "leader_1809",
+  "question": "What is a key challenge of implementing democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "It eliminates the leader’s authority.", "isCorrect": false },
+    { "id": "option_2", "text": "It can lead to prolonged decision-making processes.", "isCorrect": true },
+    { "id": "option_3", "text": "It prevents teamwork from being effective.", "isCorrect": false },
+    { "id": "option_4", "text": "It reduces employee engagement.", "isCorrect": false }
+  ],
+  "hint": "Gathering multiple opinions takes more time.",
+  "answerDescription": "One challenge of democratic leadership is that involving many opinions in decision-making can slow down the process."
+},
+{
+  "id": "leader_1810",
+  "question": "Which behavior is commonly seen in democratic leaders?",
+  "options": [
+    { "id": "option_1", "text": "Making decisions alone without input from others.", "isCorrect": false },
+    { "id": "option_2", "text": "Suppressing team ideas to maintain control.", "isCorrect": false },
+    { "id": "option_3", "text": "Encouraging open discussions and feedback.", "isCorrect": true },
+    { "id": "option_4", "text": "Avoiding communication with employees.", "isCorrect": false }
+  ],
+  "hint": "Democratic leaders actively involve their team in discussions.",
+  "answerDescription": "A democratic leader encourages open discussions and seeks feedback to make informed decisions."
+},
+{
+  "id": "leader_1811",
+  "question": "Which quality is essential for a democratic leader?",
+  "options": [
+    { "id": "option_1", "text": "A reluctance to involve employees in decisions.", "isCorrect": false },
+    { "id": "option_2", "text": "Effective communication skills.", "isCorrect": true },
+    { "id": "option_3", "text": "An unwillingness to accept feedback.", "isCorrect": false },
+    { "id": "option_4", "text": "A tendency to make decisions without consulting others.", "isCorrect": false }
+  ],
+  "hint": "A leader must communicate effectively to encourage teamwork.",
+  "answerDescription": "Effective communication is essential for democratic leaders to engage their team and encourage participation."
+},
+{
+  "id": "leader_1812",
+  "question": "What is a common misconception about democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "It means the leader has no authority.", "isCorrect": true },
+    { "id": "option_2", "text": "It promotes employee participation in decision-making.", "isCorrect": false },
+    { "id": "option_3", "text": "It improves teamwork and communication.", "isCorrect": false },
+    { "id": "option_4", "text": "It encourages employees to share ideas.", "isCorrect": false }
+  ],
+  "hint": "Democratic leaders still have authority but involve employees in decisions.",
+  "answerDescription": "A common misconception is that democratic leadership removes the leader’s authority, but in reality, the leader guides the team while considering their input."
+},
+{
+  "id": "leader_1813",
+  "question": "Why is employee engagement higher in democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "Because employees have no responsibilities.", "isCorrect": false },
+    { "id": "option_2", "text": "Because leaders make all the decisions alone.", "isCorrect": false },
+    { "id": "option_3", "text": "Because employees feel valued and involved in decision-making.", "isCorrect": true },
+    { "id": "option_4", "text": "Because employees are forced to agree with the leader.", "isCorrect": false }
+  ],
+  "hint": "Employees engage more when they have a say in decisions.",
+  "answerDescription": "Democratic leadership increases employee engagement because workers feel their opinions matter and that they contribute to decision-making."
+},
+{
+  "id": "leader_1814",
+  "question": "Which of the following statements best describes a democratic leader?",
+  "options": [
+    { "id": "option_1", "text": "A leader who makes all decisions without consulting others.", "isCorrect": false },
+    { "id": "option_2", "text": "A leader who avoids responsibility and lets employees lead.", "isCorrect": false },
+    { "id": "option_3", "text": "A leader who discourages open communication.", "isCorrect": false },
+    { "id": "option_4", "text": "A leader who values team input and encourages participation.", "isCorrect": true }
+  ],
+  "hint": "Democratic leaders promote team collaboration.",
+  "answerDescription": "A democratic leader listens to their team, values input, and ensures decisions are made collectively."
+},
+{
+  "id": "leader_1815",
+  "question": "What kind of workplace culture does democratic leadership promote?",
+  "options": [
+    { "id": "option_1", "text": "A rigid and authoritarian culture.", "isCorrect": false },
+    { "id": "option_2", "text": "An inclusive and participatory culture.", "isCorrect": true },
+    { "id": "option_3", "text": "A culture where only the leader makes decisions.", "isCorrect": false },
+    { "id": "option_4", "text": "A culture that discourages teamwork.", "isCorrect": false }
+  ],
+  "hint": "Employees are actively involved in discussions and decisions.",
+  "answerDescription": "Democratic leadership fosters an inclusive workplace where employees feel heard, valued, and motivated to contribute."
+},
+{
+  "id": "leader_1816",
+  "question": "How does democratic leadership influence innovation in the workplace?",
+  "options": [
+    { "id": "option_1", "text": "It encourages employees to share new ideas and solutions.", "isCorrect": true },
+    { "id": "option_2", "text": "It limits employees from thinking outside the box.", "isCorrect": false },
+    { "id": "option_3", "text": "It focuses only on the leader’s ideas.", "isCorrect": false },
+    { "id": "option_4", "text": "It discourages discussions about improvements.", "isCorrect": false }
+  ],
+  "hint": "Innovation grows when employees are encouraged to contribute ideas.",
+  "answerDescription": "Democratic leadership fosters innovation by allowing employees to freely share ideas and collaborate on new solutions."
+},
+{
+  "id": "leader_1817",
+  "question": "Which communication style is most commonly used in democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "Strict and one-way communication.", "isCorrect": false },
+    { "id": "option_2", "text": "Minimal or no communication.", "isCorrect": false },
+    { "id": "option_3", "text": "Open and two-way communication.", "isCorrect": true },
+    { "id": "option_4", "text": "Command-driven communication without feedback.", "isCorrect": false }
+  ],
+  "hint": "Democratic leaders encourage feedback and discussions.",
+  "answerDescription": "Democratic leadership promotes open, two-way communication where employees can express their thoughts and concerns freely."
+},
+{
+  "id": "leader_1818",
+  "question": "What is the primary benefit of democratic leadership in a crisis?",
+  "options": [
+    { "id": "option_1", "text": "It delays responses due to excessive discussions.", "isCorrect": false },
+    { "id": "option_2", "text": "It ensures collective problem-solving and adaptability.", "isCorrect": true },
+    { "id": "option_3", "text": "It prevents leaders from taking action.", "isCorrect": false },
+    { "id": "option_4", "text": "It limits communication during emergencies.", "isCorrect": false }
+  ],
+  "hint": "Team involvement leads to better crisis management.",
+  "answerDescription": "Democratic leadership allows for collaborative problem-solving, which helps teams adapt and respond effectively in crises."
+},
+{
+  "id": "leader_1819",
+  "question": "Which factor can weaken democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "Encouraging employees to share their opinions.", "isCorrect": false },
+    { "id": "option_2", "text": "Building strong team collaboration.", "isCorrect": false },
+    { "id": "option_3", "text": "Providing employees with decision-making power.", "isCorrect": false },
+    { "id": "option_4", "text": "Lack of clear direction from the leader.", "isCorrect": true }
+  ],
+  "hint": "Democratic leadership still requires a guiding leader.",
+  "answerDescription": "If a leader fails to provide clear direction, democratic leadership can become ineffective due to lack of structure."
+},
+{
+  "id": "leader_1820",
+  "question": "What is an important skill for a democratic leader to have?",
+  "options": [
+    { "id": "option_1", "text": "Ignoring employee feedback.", "isCorrect": false },
+    { "id": "option_2", "text": "Active listening and open communication.", "isCorrect": true },
+    { "id": "option_3", "text": "Making decisions alone without input.", "isCorrect": false },
+    { "id": "option_4", "text": "Controlling every detail of the work process.", "isCorrect": false }
+  ],
+  "hint": "Democratic leaders encourage open discussions.",
+  "answerDescription": "A democratic leader must actively listen to team members and maintain open communication to foster collaboration."
+},
+{
+  "id": "leader_1821",
+  "question": "How does democratic leadership impact team morale?",
+  "options": [
+    { "id": "option_1", "text": "It boosts morale by making employees feel valued.", "isCorrect": true },
+    { "id": "option_2", "text": "It lowers morale by discouraging participation.", "isCorrect": false },
+    { "id": "option_3", "text": "It makes employees feel disconnected from leadership.", "isCorrect": false },
+    { "id": "option_4", "text": "It creates a stressful and uncertain work environment.", "isCorrect": false }
+  ],
+  "hint": "Feeling valued leads to higher morale.",
+  "answerDescription": "Democratic leadership boosts morale because employees feel their opinions matter and they are part of the decision-making process."
+},
+{
+  "id": "leader_1822",
+  "question": "How does democratic leadership encourage accountability?",
+  "options": [
+    { "id": "option_1", "text": "By allowing employees to avoid responsibility.", "isCorrect": false },
+    { "id": "option_2", "text": "By limiting employees' involvement in decisions.", "isCorrect": false },
+    { "id": "option_3", "text": "By involving employees in decision-making, they take ownership of their work.", "isCorrect": true },
+    { "id": "option_4", "text": "By having the leader take all the responsibility alone.", "isCorrect": false }
+  ],
+  "hint": "Employees feel more responsible when they help make decisions.",
+  "answerDescription": "Democratic leadership fosters accountability because employees who participate in decisions feel more responsible for their work outcomes."
+},
+{
+  "id": "leader_1823",
+  "question": "How does democratic leadership affect conflict resolution in teams?",
+  "options": [
+    { "id": "option_1", "text": "It promotes open discussion to resolve conflicts effectively.", "isCorrect": true },
+    { "id": "option_2", "text": "It ignores conflicts and avoids addressing them.", "isCorrect": false },
+    { "id": "option_3", "text": "It leads to more conflicts due to lack of leadership control.", "isCorrect": false },
+    { "id": "option_4", "text": "It forces team members to accept the leader’s decision without discussion.", "isCorrect": false }
+  ],
+  "hint": "Open discussions lead to better resolutions.",
+  "answerDescription": "Democratic leadership helps resolve conflicts by encouraging team discussions, ensuring everyone’s concerns are heard and considered."
+},
+{
+  "id": "leader_1824",
+  "question": "Why do employees under democratic leadership often show higher engagement?",
+  "options": [
+    { "id": "option_1", "text": "Because they have fewer responsibilities.", "isCorrect": false },
+    { "id": "option_2", "text": "Because they do not have to contribute ideas.", "isCorrect": false },
+    { "id": "option_3", "text": "Because they feel valued and involved in decision-making.", "isCorrect": true },
+    { "id": "option_4", "text": "Because they only follow the leader’s orders.", "isCorrect": false }
+  ],
+  "hint": "When employees have a say, they are more invested in their work.",
+  "answerDescription": "Democratic leadership increases employee engagement by involving them in decision-making, making them feel heard and appreciated."
+},
+{
+  "id": "leader_1825",
+  "question": "Which workplace environment best supports democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "A rigid and hierarchical environment.", "isCorrect": false },
+    { "id": "option_2", "text": "A collaborative and open-minded environment.", "isCorrect": true },
+    { "id": "option_3", "text": "A workplace where employees follow orders without input.", "isCorrect": false },
+    { "id": "option_4", "text": "An environment where only managers make decisions.", "isCorrect": false }
+  ],
+  "hint": "Teams that work together benefit the most.",
+  "answerDescription": "Democratic leadership thrives in workplaces that encourage collaboration, teamwork, and open communication."
+},
+{
+  "id": "leader_1826",
+  "question": "What is a leader’s responsibility in a democratic leadership model?",
+  "options": [
+    { "id": "option_1", "text": "To make all decisions alone without input.", "isCorrect": false },
+    { "id": "option_2", "text": "To remain uninvolved and let employees lead entirely.", "isCorrect": false },
+    { "id": "option_3", "text": "To prevent employees from contributing ideas.", "isCorrect": false },
+    { "id": "option_4", "text": "To facilitate discussions and guide decision-making.", "isCorrect": true }
+  ],
+  "hint": "A democratic leader is not a dictator but also not absent.",
+  "answerDescription": "A democratic leader's role is to guide discussions, encourage participation, and ensure balanced decision-making."
+},
+{
+  "id": "leader_1827",
+  "question": "Which of the following best describes how a democratic leader handles feedback?",
+  "options": [
+    { "id": "option_1", "text": "They ignore feedback and continue making independent decisions.", "isCorrect": false },
+    { "id": "option_2", "text": "They actively seek and incorporate feedback from employees.", "isCorrect": true },
+    { "id": "option_3", "text": "They discourage employees from providing input.", "isCorrect": false },
+    { "id": "option_4", "text": "They only accept feedback from upper management.", "isCorrect": false }
+  ],
+  "hint": "Democratic leaders value team input.",
+  "answerDescription": "A democratic leader encourages and integrates employee feedback to improve decision-making and workplace engagement."
+},
+{
+  "id": "leader_1828",
+  "question": "How does democratic leadership impact employee innovation?",
+  "options": [
+    { "id": "option_1", "text": "It fosters creativity by encouraging idea-sharing.", "isCorrect": true },
+    { "id": "option_2", "text": "It restricts employees from experimenting with new ideas.", "isCorrect": false },
+    { "id": "option_3", "text": "It discourages employees from taking initiative.", "isCorrect": false },
+    { "id": "option_4", "text": "It prevents employees from collaborating.", "isCorrect": false }
+  ],
+  "hint": "When employees feel heard, they contribute more innovative ideas.",
+  "answerDescription": "Democratic leadership encourages employees to share ideas, leading to increased creativity and innovation in the workplace."
+},
+{
+  "id": "leader_1829",
+  "question": "Which of the following is a challenge of democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "Employees feel less engaged in the process.", "isCorrect": false },
+    { "id": "option_2", "text": "It limits employee input.", "isCorrect": false },
+    { "id": "option_3", "text": "Decision-making can take longer due to discussions.", "isCorrect": true },
+    { "id": "option_4", "text": "It removes all authority from the leader.", "isCorrect": false }
+  ],
+  "hint": "More opinions can slow down decisions.",
+  "answerDescription": "A common challenge of democratic leadership is that it takes more time to make decisions due to extensive discussions."
+},
+{
+  "id": "leader_1830",
+  "question": "What type of workplace culture best supports democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "A strict, top-down management structure.", "isCorrect": false },
+    { "id": "option_2", "text": "A collaborative and inclusive culture.", "isCorrect": true },
+    { "id": "option_3", "text": "A work environment where employees have no decision-making power.", "isCorrect": false },
+    { "id": "option_4", "text": "A culture where only managers participate in decision-making.", "isCorrect": false }
+  ],
+  "hint": "Teamwork and shared decision-making are key.",
+  "answerDescription": "Democratic leadership thrives in workplaces that emphasize collaboration, open communication, and inclusivity."
+},
+{
+  "id": "leader_1831",
+  "question": "Which famous leader is known for using democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "Mahatma Gandhi.", "isCorrect": true },
+    { "id": "option_2", "text": "Adolf Hitler.", "isCorrect": false },
+    { "id": "option_3", "text": "Joseph Stalin.", "isCorrect": false },
+    { "id": "option_4", "text": "Kim Jong-un.", "isCorrect": false }
+  ],
+  "hint": "This leader valued teamwork and peaceful decision-making.",
+  "answerDescription": "Mahatma Gandhi used democratic leadership by encouraging discussions, listening to people's concerns, and making collective decisions."
+},
+{
+  "id": "leader_1832",
+  "question": "Which quality is most important for a democratic leader?",
+  "options": [
+    { "id": "option_1", "text": "The ability to make decisions without consulting others.", "isCorrect": false },
+    { "id": "option_2", "text": "A strict approach to leadership with no flexibility.", "isCorrect": false },
+    { "id": "option_3", "text": "The ability to listen and encourage participation.", "isCorrect": true },
+    { "id": "option_4", "text": "Avoiding employee input to speed up decision-making.", "isCorrect": false }
+  ],
+  "hint": "Democratic leaders involve others in discussions.",
+  "answerDescription": "A democratic leader must be a good listener and encourage participation to create an inclusive and effective decision-making environment."
+},
+{
+  "id": "leader_1833",
+  "question": "Which leadership style is the most flexible in decision-making?",
+  "options": [
+    { "id": "option_1", "text": "Autocratic leadership.", "isCorrect": false },
+    { "id": "option_2", "text": "Democratic leadership.", "isCorrect": true },
+    { "id": "option_3", "text": "Bureaucratic leadership.", "isCorrect": false },
+    { "id": "option_4", "text": "Laissez-faire leadership.", "isCorrect": false }
+  ],
+  "hint": "This leadership style encourages collaboration and adaptability.",
+  "answerDescription": "Democratic leadership is flexible because it allows input from team members and adapts decisions based on collective feedback."
+},
+{
+  "id": "leader_1834",
+  "question": "How does democratic leadership impact team decision-making?",
+  "options": [
+    { "id": "option_1", "text": "It prevents employees from having any influence.", "isCorrect": false },
+    { "id": "option_2", "text": "It allows only the leader to make decisions.", "isCorrect": false },
+    { "id": "option_3", "text": "It promotes collective decision-making through discussion.", "isCorrect": true },
+    { "id": "option_4", "text": "It completely eliminates the leader's role in decisions.", "isCorrect": false }
+  ],
+  "hint": "This leadership style encourages shared decision-making.",
+  "answerDescription": "Democratic leadership fosters collective decision-making by involving team members in discussions before reaching conclusions."
+},
+{
+  "id": "leader_1835",
+  "question": "In which scenario would democratic leadership be least effective?",
+  "options": [
+    { "id": "option_1", "text": "When brainstorming new ideas in a creative team.", "isCorrect": false },
+    { "id": "option_2", "text": "When planning long-term strategies.", "isCorrect": false },
+    { "id": "option_3", "text": "When improving team collaboration.", "isCorrect": false },
+    { "id": "option_4", "text": "During an emergency requiring immediate decisions.", "isCorrect": true }
+  ],
+  "hint": "Some situations require quick decisions without discussion.",
+  "answerDescription": "Democratic leadership may be ineffective in emergencies where quick, authoritative decision-making is necessary."
+},
+{
+  "id": "leader_1836",
+  "question": "Which of the following is a major principle of democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "Encouraging team participation in decision-making.", "isCorrect": true },
+    { "id": "option_2", "text": "Maintaining strict control over all decisions.", "isCorrect": false },
+    { "id": "option_3", "text": "Minimizing communication between employees and leaders.", "isCorrect": false },
+    { "id": "option_4", "text": "Avoiding employee input to reduce conflict.", "isCorrect": false }
+  ],
+  "hint": "Democratic leadership is based on collaboration and inclusion.",
+  "answerDescription": "Democratic leadership values teamwork and encourages employees to participate in decision-making processes."
+},
+{
+  "id": "leader_1837",
+  "question": "Which factor can make democratic leadership ineffective?",
+  "options": [
+    { "id": "option_1", "text": "Encouraging teamwork and open discussion.", "isCorrect": false },
+    { "id": "option_2", "text": "Involving employees in decision-making.", "isCorrect": false },
+    { "id": "option_3", "text": "Lack of clear communication and direction.", "isCorrect": true },
+    { "id": "option_4", "text": "Promoting collaboration and shared responsibility.", "isCorrect": false }
+  ],
+  "hint": "Too much discussion without clear guidance can slow progress.",
+  "answerDescription": "If a democratic leader fails to provide clear communication and direction, it can lead to confusion and inefficiency."
+},
+{
+  "id": "leader_1838",
+  "question": "What type of decisions are best suited for democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "Decisions that need to be made quickly in emergencies.", "isCorrect": false },
+    { "id": "option_2", "text": "Decisions that should be kept confidential from employees.", "isCorrect": false },
+    { "id": "option_3", "text": "Decisions that require no feedback from employees.", "isCorrect": false },
+    { "id": "option_4", "text": "Decisions requiring team input and collaboration.", "isCorrect": true }
+  ],
+  "hint": "Teamwork and input improve certain types of decisions.",
+  "answerDescription": "Democratic leadership is ideal for decisions that benefit from diverse perspectives and teamwork."
+},
+{
+  "id": "leader_1839",
+  "question": "How does a democratic leader handle conflict in the workplace?",
+  "options": [
+    { "id": "option_1", "text": "Ignores conflicts to maintain harmony.", "isCorrect": false },
+    { "id": "option_2", "text": "Encourages open discussions to find a fair solution.", "isCorrect": true },
+    { "id": "option_3", "text": "Uses authoritarian methods to end disputes quickly.", "isCorrect": false },
+    { "id": "option_4", "text": "Allows employees to resolve conflicts without guidance.", "isCorrect": false }
+  ],
+  "hint": "Democratic leaders value communication and fairness.",
+  "answerDescription": "A democratic leader promotes open dialogue and teamwork to resolve conflicts in a fair and balanced manner."
+},
+{
+  "id": "leader_1840",
+  "question": "Which type of employees thrive under democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "Employees who prefer strict supervision and orders.", "isCorrect": false },
+    { "id": "option_2", "text": "Employees who avoid participating in decision-making.", "isCorrect": false },
+    { "id": "option_3", "text": "Employees who enjoy collaboration and shared responsibility.", "isCorrect": true },
+    { "id": "option_4", "text": "Employees who work best in highly controlled environments.", "isCorrect": false }
+  ],
+  "hint": "Democratic leadership supports teamwork and employee involvement.",
+  "answerDescription": "Employees who enjoy collaboration, open discussions, and shared decision-making thrive in a democratic leadership environment."
+},
+{
+  "id": "leader_1841",
+  "question": "What is a common criticism of democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "It can slow down decision-making due to discussions.", "isCorrect": true },
+    { "id": "option_2", "text": "It discourages teamwork and innovation.", "isCorrect": false },
+    { "id": "option_3", "text": "It limits employee participation in decision-making.", "isCorrect": false },
+    { "id": "option_4", "text": "It creates a rigid and controlling work environment.", "isCorrect": false }
+  ],
+  "hint": "Too much discussion can delay decisions.",
+  "answerDescription": "A common criticism of democratic leadership is that decision-making can be slower due to the need for team discussions and input."
+},
+{
+  "id": "leader_1842",
+  "question": "What is an example of democratic leadership in action?",
+  "options": [
+    { "id": "option_1", "text": "A manager makes all decisions without consulting employees.", "isCorrect": false },
+    { "id": "option_2", "text": "A manager asks team members for their ideas before making a decision.", "isCorrect": true },
+    { "id": "option_3", "text": "A manager only follows instructions from higher-ups without consulting the team.", "isCorrect": false },
+    { "id": "option_4", "text": "A manager discourages employees from sharing feedback.", "isCorrect": false }
+  ],
+  "hint": "Team involvement is a key aspect of this leadership style.",
+  "answerDescription": "Democratic leadership involves engaging employees in decision-making and valuing their input before making final choices."
+},
+{
+  "id": "leader_1843",
+  "question": "Which leadership quality is most important for a democratic leader?",
+  "options": [
+    { "id": "option_1", "text": "Active listening and communication skills.", "isCorrect": true },
+    { "id": "option_2", "text": "Strictly enforcing rules without discussion.", "isCorrect": false },
+    { "id": "option_3", "text": "Making all decisions without consulting the team.", "isCorrect": false },
+    { "id": "option_4", "text": "Avoiding employee involvement in decision-making.", "isCorrect": false }
+  ],
+  "hint": "Democratic leaders encourage dialogue and participation.",
+  "answerDescription": "Active listening and communication help democratic leaders create an inclusive and participatory work environment."
+},
+{
+  "id": "leader_1844",
+  "question": "What is one advantage of democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "It reduces the need for employee input in decision-making.", "isCorrect": false },
+    { "id": "option_2", "text": "It ensures that only the leader makes all the decisions.", "isCorrect": false },
+    { "id": "option_3", "text": "It increases employee engagement and motivation.", "isCorrect": true },
+    { "id": "option_4", "text": "It limits creativity and innovation.", "isCorrect": false }
+  ],
+  "hint": "Employees feel valued when their opinions matter.",
+  "answerDescription": "Democratic leadership fosters higher employee engagement and motivation by encouraging participation in decision-making."
+},
+{
+  "id": "leader_1845",
+  "question": "When is democratic leadership NOT the best approach?",
+  "options": [
+    { "id": "option_1", "text": "When teamwork and collaboration are needed.", "isCorrect": false },
+    { "id": "option_2", "text": "In emergency situations requiring quick decisions.", "isCorrect": true },
+    { "id": "option_3", "text": "When employees need to be involved in decisions.", "isCorrect": false },
+    { "id": "option_4", "text": "When innovation and creativity are important.", "isCorrect": false }
+  ],
+  "hint": "Speed and authority are crucial in crises.",
+  "answerDescription": "Democratic leadership is not ideal in emergencies because quick, decisive action is needed rather than group discussions."
+},
+{
+  "id": "leader_1846",
+  "question": "What is a potential risk of democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "It prevents employees from expressing their opinions.", "isCorrect": false },
+    { "id": "option_2", "text": "It discourages teamwork and cooperation.", "isCorrect": false },
+    { "id": "option_3", "text": "Decision-making can become slow and inefficient.", "isCorrect": true },
+    { "id": "option_4", "text": "It eliminates employee engagement.", "isCorrect": false }
+  ],
+  "hint": "Too much discussion can delay progress.",
+  "answerDescription": "Democratic leadership can sometimes slow decision-making when extensive discussions are needed before reaching a conclusion."
+},
+{
+  "id": "leader_1847",
+  "question": "Which of the following best describes the decision-making process in democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "Leaders seek input from team members before making a decision.", "isCorrect": true },
+    { "id": "option_2", "text": "Leaders make decisions alone without any team involvement.", "isCorrect": false },
+    { "id": "option_3", "text": "Leaders rely only on senior management for decision-making.", "isCorrect": false },
+    { "id": "option_4", "text": "Leaders avoid making decisions to maintain harmony.", "isCorrect": false }
+  ],
+  "hint": "Democratic leadership encourages participation in decision-making.",
+  "answerDescription": "Democratic leaders actively seek input from their team before making decisions to ensure inclusivity and collaboration."
+},
+{
+  "id": "leader_1848",
+  "question": "What is a key characteristic of democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "Maintaining strict control over employees.", "isCorrect": false },
+    { "id": "option_2", "text": "Avoiding employee input to speed up processes.", "isCorrect": false },
+    { "id": "option_3", "text": "Minimizing communication within the team.", "isCorrect": false },
+    { "id": "option_4", "text": "Encouraging employees to participate in decision-making.", "isCorrect": true }
+  ],
+  "hint": "Employee involvement is a central part of this leadership style.",
+  "answerDescription": "Democratic leaders encourage employees to share their ideas and participate in decision-making, fostering a collaborative work environment."
+},
+{
+  "id": "leader_1849",
+  "question": "Which situation is most suitable for democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "A crisis that demands immediate decision-making.", "isCorrect": false },
+    { "id": "option_2", "text": "A project that requires creativity and team collaboration.", "isCorrect": true },
+    { "id": "option_3", "text": "A workplace where employees prefer to follow orders without discussion.", "isCorrect": false },
+    { "id": "option_4", "text": "A task that requires minimal input from employees.", "isCorrect": false }
+  ],
+  "hint": "Team collaboration and idea-sharing thrive under democratic leadership.",
+  "answerDescription": "Democratic leadership is best suited for situations that require teamwork, creativity, and employee input in decision-making."
+},
+{
+  "id": "leader_1850",
+  "question": "How does democratic leadership impact employee morale?",
+  "options": [
+    { "id": "option_1", "text": "It boosts morale by making employees feel valued.", "isCorrect": true },
+    { "id": "option_2", "text": "It decreases morale by limiting employee participation.", "isCorrect": false },
+    { "id": "option_3", "text": "It creates a strict environment with no flexibility.", "isCorrect": false },
+    { "id": "option_4", "text": "It discourages employees from sharing their opinions.", "isCorrect": false }
+  ],
+  "hint": "Employees feel more engaged when they are involved in decision-making.",
+  "answerDescription": "Democratic leadership increases employee morale by encouraging participation and making employees feel valued and heard."
+},
+{
+  "id": "leader_1851",
+  "question": "What is one challenge democratic leaders face?",
+  "options": [
+    { "id": "option_1", "text": "Completely ignoring employee input.", "isCorrect": false },
+    { "id": "option_2", "text": "Making decisions without any discussions.", "isCorrect": false },
+    { "id": "option_3", "text": "Balancing inclusivity with efficiency in decision-making.", "isCorrect": true },
+    { "id": "option_4", "text": "Eliminating communication within teams.", "isCorrect": false }
+  ],
+  "hint": "Too many opinions can slow down the process.",
+  "answerDescription": "Democratic leaders must balance inclusivity and efficiency, ensuring that discussions do not delay decision-making too much."
+},
+{
+  "id": "leader_1852",
+  "question": "Which of the following is a key benefit of democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "Encourages innovation and creative thinking.", "isCorrect": true },
+    { "id": "option_2", "text": "Reduces the need for employee input.", "isCorrect": false },
+    { "id": "option_3", "text": "Focuses only on quick decision-making.", "isCorrect": false },
+    { "id": "option_4", "text": "Minimizes teamwork and collaboration.", "isCorrect": false }
+  ],
+  "hint": "This leadership style values new ideas and teamwork.",
+  "answerDescription": "Democratic leadership fosters innovation and creativity by allowing employees to contribute their ideas and opinions."
+},
+{
+  "id": "leader_1853",
+  "question": "What is the role of a leader in a democratic workplace?",
+  "options": [
+    { "id": "option_1", "text": "Making all decisions alone.", "isCorrect": false },
+    { "id": "option_2", "text": "Discouraging team collaboration.", "isCorrect": false },
+    { "id": "option_3", "text": "Facilitating discussions and guiding the team.", "isCorrect": true },
+    { "id": "option_4", "text": "Ignoring employee suggestions.", "isCorrect": false }
+  ],
+  "hint": "The leader ensures that everyone's voice is heard.",
+  "answerDescription": "In democratic leadership, the leader facilitates discussions, encourages input, and helps guide the team toward effective decisions."
+},
+{
+  "id": "leader_1854",
+  "question": "What is one limitation of democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "Decision-making can be time-consuming.", "isCorrect": true },
+    { "id": "option_2", "text": "Employees have no say in decision-making.", "isCorrect": false },
+    { "id": "option_3", "text": "It prevents creativity and innovation.", "isCorrect": false },
+    { "id": "option_4", "text": "It reduces employee engagement.", "isCorrect": false }
+  ],
+  "hint": "Gathering input from many people can slow things down.",
+  "answerDescription": "While democratic leadership encourages participation, it can sometimes slow down decision-making due to extensive discussions."
+},
+{
+  "id": "leader_1855",
+  "question": "Which of these statements best describes a democratic leader’s approach to feedback?",
+  "options": [
+    { "id": "option_1", "text": "They ignore feedback and follow their own decisions.", "isCorrect": false },
+    { "id": "option_2", "text": "They actively seek and consider employee feedback.", "isCorrect": true },
+    { "id": "option_3", "text": "They give orders without allowing feedback.", "isCorrect": false },
+    { "id": "option_4", "text": "They discourage employees from sharing their opinions.", "isCorrect": false }
+  ],
+  "hint": "Feedback is a key element in democratic leadership.",
+  "answerDescription": "Democratic leaders encourage open feedback and incorporate employees' perspectives into decision-making."
+},
+{
+  "id": "leader_1856",
+  "question": "In what type of work environment is democratic leadership least effective?",
+  "options": [
+    { "id": "option_1", "text": "Creative workplaces that rely on idea-sharing.", "isCorrect": false },
+    { "id": "option_2", "text": "Educational institutions that encourage discussion.", "isCorrect": false },
+    { "id": "option_3", "text": "Tech companies that value innovation.", "isCorrect": false },
+    { "id": "option_4", "text": "Emergency response teams that require quick decisions.", "isCorrect": true }
+  ],
+  "hint": "Some situations require quick decision-making without lengthy discussions.",
+  "answerDescription": "Democratic leadership is less effective in emergency situations where immediate decisions are necessary."
+},
+{
+  "id": "leader_1857",
+  "question": "What is one way a democratic leader resolves conflicts within a team?",
+  "options": [
+    { "id": "option_1", "text": "Ignoring the issue and expecting it to resolve itself.", "isCorrect": false },
+    { "id": "option_2", "text": "Encouraging open discussions and finding a mutual solution.", "isCorrect": true },
+    { "id": "option_3", "text": "Making a decision without consulting the team.", "isCorrect": false },
+    { "id": "option_4", "text": "Taking sides without considering all perspectives.", "isCorrect": false }
+  ],
+  "hint": "Team discussions help find fair solutions.",
+  "answerDescription": "Democratic leaders handle conflicts by encouraging open discussions and ensuring a fair resolution for all involved."
+},
+{
+  "id": "leader_1858",
+  "question": "How does democratic leadership affect team decision-making?",
+  "options": [
+    { "id": "option_1", "text": "It allows all team members to contribute their ideas.", "isCorrect": true },
+    { "id": "option_2", "text": "It limits discussions to only senior members.", "isCorrect": false },
+    { "id": "option_3", "text": "It prevents employees from sharing their perspectives.", "isCorrect": false },
+    { "id": "option_4", "text": "It focuses only on quick decisions without team input.", "isCorrect": false }
+  ],
+  "hint": "Everyone’s voice matters in this leadership style.",
+  "answerDescription": "Democratic leadership encourages all team members to share their ideas, leading to more informed decisions."
+},
+{
+  "id": "leader_1859",
+  "question": "What skill is most important for a democratic leader?",
+  "options": [
+    { "id": "option_1", "text": "Commanding authority without discussion.", "isCorrect": false },
+    { "id": "option_2", "text": "Avoiding employee opinions.", "isCorrect": false },
+    { "id": "option_3", "text": "Effective communication and active listening.", "isCorrect": true },
+    { "id": "option_4", "text": "Making decisions without consulting others.", "isCorrect": false }
+  ],
+  "hint": "A leader must communicate well and listen to different viewpoints.",
+  "answerDescription": "Democratic leaders rely on strong communication and listening skills to ensure effective teamwork and decision-making."
+},
+{
+  "id": "leader_1860",
+  "question": "What is a key benefit of democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "It fosters creativity and innovation.", "isCorrect": true },
+    { "id": "option_2", "text": "It discourages employee participation.", "isCorrect": false },
+    { "id": "option_3", "text": "It relies only on the leader’s decisions.", "isCorrect": false },
+    { "id": "option_4", "text": "It limits discussions in the workplace.", "isCorrect": false }
+  ],
+  "hint": "Team members are encouraged to share new ideas.",
+  "answerDescription": "Democratic leadership promotes creativity by allowing employees to contribute innovative ideas and solutions."
+},
+{
+  "id": "leader_1861",
+  "question": "How does democratic leadership build trust in a team?",
+  "options": [
+    { "id": "option_1", "text": "By keeping employees uninformed about decisions.", "isCorrect": false },
+    { "id": "option_2", "text": "By discouraging feedback and suggestions.", "isCorrect": false },
+    { "id": "option_3", "text": "By encouraging transparency and open communication.", "isCorrect": true },
+    { "id": "option_4", "text": "By enforcing strict rules without explanation.", "isCorrect": false }
+  ],
+  "hint": "Trust grows when people feel heard and included.",
+  "answerDescription": "Democratic leadership builds trust by ensuring open communication, transparency, and valuing employee input."
+},
+{
+  "id": "leader_1862",
+  "question": "How does democratic leadership impact employee turnover?",
+  "options": [
+    { "id": "option_1", "text": "It increases turnover by creating confusion.", "isCorrect": false },
+    { "id": "option_2", "text": "It reduces turnover by increasing job satisfaction.", "isCorrect": true },
+    { "id": "option_3", "text": "It has no effect on employee retention.", "isCorrect": false },
+    { "id": "option_4", "text": "It causes employees to feel ignored.", "isCorrect": false }
+  ],
+  "hint": "When employees feel valued, they are more likely to stay.",
+  "answerDescription": "Democratic leadership reduces turnover by making employees feel engaged, heard, and valued in the workplace."
+},
+{
+  "id": "leader_1863",
+  "question": "Which of the following best describes democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "A leadership style where decisions are made collectively with team input.", "isCorrect": true },
+    { "id": "option_2", "text": "A style where leaders make decisions without consulting employees.", "isCorrect": false },
+    { "id": "option_3", "text": "A leadership style that discourages teamwork.", "isCorrect": false },
+    { "id": "option_4", "text": "A strict, rule-based leadership approach with no flexibility.", "isCorrect": false }
+  ],
+  "hint": "This leadership style values team input and collaboration.",
+  "answerDescription": "Democratic leadership is characterized by shared decision-making and active employee participation."
+},
+{
+  "id": "leader_1864",
+  "question": "What is the main role of a leader in a democratic leadership style?",
+  "options": [
+    { "id": "option_1", "text": "Making all decisions alone without employee input.", "isCorrect": false },
+    { "id": "option_2", "text": "Controlling every aspect of the team's work.", "isCorrect": false },
+    { "id": "option_3", "text": "Discouraging feedback from team members.", "isCorrect": false },
+    { "id": "option_4", "text": "Facilitating discussions and ensuring all voices are heard.", "isCorrect": true }
+  ],
+  "hint": "A democratic leader encourages open discussions and collaboration.",
+  "answerDescription": "The leader's role in democratic leadership is to facilitate discussions, encourage participation, and guide decision-making."
+},
+{
+  "id": "leader_1865",
+  "question": "Which factor is essential for democratic leadership to be effective?",
+  "options": [
+    { "id": "option_1", "text": "Strict rules that limit employee contributions.", "isCorrect": false },
+    { "id": "option_2", "text": "Open communication between the leader and employees.", "isCorrect": true },
+    { "id": "option_3", "text": "A leader who avoids seeking employee opinions.", "isCorrect": false },
+    { "id": "option_4", "text": "Minimal employee engagement in decisions.", "isCorrect": false }
+  ],
+  "hint": "Employees and leaders must communicate effectively for this leadership style to work.",
+  "answerDescription": "Democratic leadership thrives on open communication, ensuring that all members contribute and collaborate effectively."
+},
+{
+  "id": "leader_1866",
+  "question": "How does democratic leadership impact team motivation?",
+  "options": [
+    { "id": "option_1", "text": "It decreases motivation by ignoring employee input.", "isCorrect": false },
+    { "id": "option_2", "text": "It has no impact on employee motivation.", "isCorrect": false },
+    { "id": "option_3", "text": "It increases motivation by making employees feel valued.", "isCorrect": true },
+    { "id": "option_4", "text": "It reduces employee participation and engagement.", "isCorrect": false }
+  ],
+  "hint": "When employees feel heard, they are more motivated.",
+  "answerDescription": "Democratic leadership boosts motivation by involving employees in decisions, making them feel respected and valued."
+},
+{
+  "id": "leader_1867",
+  "question": "Which challenge might democratic leadership face?",
+  "options": [
+    { "id": "option_1", "text": "Employees have no opportunity to share their ideas.", "isCorrect": false },
+    { "id": "option_2", "text": "Decision-making may take longer due to group discussions.", "isCorrect": true },
+    { "id": "option_3", "text": "Leaders do not encourage teamwork.", "isCorrect": false },
+    { "id": "option_4", "text": "It eliminates innovation in the workplace.", "isCorrect": false }
+  ],
+  "hint": "Including multiple opinions can slow the decision-making process.",
+  "answerDescription": "One challenge of democratic leadership is that group discussions can sometimes delay decisions due to extended debates and input from multiple team members."
+},
+{
+  "id": "leader_1868",
+  "question": "How does democratic leadership contribute to problem-solving?",
+  "options": [
+    { "id": "option_1", "text": "By gathering diverse perspectives to find the best solution.", "isCorrect": true },
+    { "id": "option_2", "text": "By making decisions quickly without consultation.", "isCorrect": false },
+    { "id": "option_3", "text": "By limiting discussions to avoid disagreements.", "isCorrect": false },
+    { "id": "option_4", "text": "By depending solely on the leader’s judgment.", "isCorrect": false }
+  ],
+  "hint": "Including multiple viewpoints leads to better solutions.",
+  "answerDescription": "Democratic leadership enhances problem-solving by leveraging the knowledge and ideas of the entire team."
+},
+{
+  "id": "leader_1869",
+  "question": "Which workplace scenario benefits the most from democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "A factory assembly line with repetitive tasks.", "isCorrect": false },
+    { "id": "option_2", "text": "An emergency medical situation requiring quick action.", "isCorrect": false },
+    { "id": "option_3", "text": "A marketing team brainstorming a new campaign.", "isCorrect": true },
+    { "id": "option_4", "text": "A military command structure.", "isCorrect": false }
+  ],
+  "hint": "Creative teams benefit from shared decision-making.",
+  "answerDescription": "A marketing team brainstorming campaign ideas benefits from democratic leadership because it encourages creativity and collaboration."
+},
+{
+  "id": "leader_1870",
+  "question": "Which characteristic is essential for a democratic leader?",
+  "options": [
+    { "id": "option_1", "text": "Active listening and open-mindedness.", "isCorrect": true },
+    { "id": "option_2", "text": "Strict control over all decisions.", "isCorrect": false },
+    { "id": "option_3", "text": "Making all choices independently.", "isCorrect": false },
+    { "id": "option_4", "text": "Avoiding team discussions.", "isCorrect": false }
+  ],
+  "hint": "A good democratic leader values different opinions.",
+  "answerDescription": "A democratic leader must actively listen and remain open-minded to encourage team contributions."
+},
+{
+  "id": "leader_1871",
+  "question": "How does democratic leadership affect team morale?",
+  "options": [
+    { "id": "option_1", "text": "It lowers morale by limiting employee input.", "isCorrect": false },
+    { "id": "option_2", "text": "It has no effect on morale.", "isCorrect": false },
+    { "id": "option_3", "text": "It discourages teamwork and participation.", "isCorrect": false },
+    { "id": "option_4", "text": "It boosts morale by making employees feel valued and heard.", "isCorrect": true }
+  ],
+  "hint": "Employees feel motivated when their opinions matter.",
+  "answerDescription": "Democratic leadership enhances morale by involving employees in decision-making and making them feel valued."
+},
+{
+  "id": "leader_1872",
+  "question": "Which is a key advantage of democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "It eliminates the need for leadership.", "isCorrect": false },
+    { "id": "option_2", "text": "It fosters creativity and innovation.", "isCorrect": true },
+    { "id": "option_3", "text": "It relies on one person making all decisions.", "isCorrect": false },
+    { "id": "option_4", "text": "It discourages teamwork.", "isCorrect": false }
+  ],
+  "hint": "This leadership style encourages new ideas and collaboration.",
+  "answerDescription": "Democratic leadership promotes creativity by involving team members in decision-making and valuing their input."
+},
+{
+  "id": "leader_1873",
+  "question": "Which type of organization benefits the most from democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "A technology startup that values innovation.", "isCorrect": true },
+    { "id": "option_2", "text": "A highly structured military unit.", "isCorrect": false },
+    { "id": "option_3", "text": "A manufacturing plant with strict procedures.", "isCorrect": false },
+    { "id": "option_4", "text": "An organization where only top leaders make decisions.", "isCorrect": false }
+  ],
+  "hint": "This leadership style works best in creative and flexible environments.",
+  "answerDescription": "A technology startup benefits from democratic leadership because it encourages innovation and employee involvement."
+},
+{
+  "id": "leader_1874",
+  "question": "Which quality is crucial for a democratic leader?",
+  "options": [
+    { "id": "option_1", "text": "Making all decisions independently.", "isCorrect": false },
+    { "id": "option_2", "text": "Avoiding employee feedback.", "isCorrect": false },
+    { "id": "option_3", "text": "Effective communication skills.", "isCorrect": true },
+    { "id": "option_4", "text": "Ignoring team collaboration.", "isCorrect": false }
+  ],
+  "hint": "This skill helps leaders share ideas and listen to feedback.",
+  "answerDescription": "A democratic leader must communicate effectively to ensure team members feel heard and valued."
+},
+{
+  "id": "leader_1875",
+  "question": "What is a key benefit of democratic leadership in business?",
+  "options": [
+    { "id": "option_1", "text": "It improves employee motivation and job satisfaction.", "isCorrect": true },
+    { "id": "option_2", "text": "It ensures only leaders make decisions.", "isCorrect": false },
+    { "id": "option_3", "text": "It limits teamwork and collaboration.", "isCorrect": false },
+    { "id": "option_4", "text": "It reduces communication between employees.", "isCorrect": false }
+  ],
+  "hint": "Employees feel more valued when they can participate.",
+  "answerDescription": "Democratic leadership improves job satisfaction by involving employees in decision-making."
+},
+{
+  "id": "leader_1876",
+  "question": "How does democratic leadership impact workplace innovation?",
+  "options": [
+    { "id": "option_1", "text": "It discourages employees from sharing ideas.", "isCorrect": false },
+    { "id": "option_2", "text": "It limits discussions about new approaches.", "isCorrect": false },
+    { "id": "option_3", "text": "It prevents employees from taking risks.", "isCorrect": false },
+    { "id": "option_4", "text": "It fosters creativity and new ideas.", "isCorrect": true }
+  ],
+  "hint": "This leadership style encourages open discussions and innovation.",
+  "answerDescription": "Democratic leadership helps workplace innovation by fostering a culture of idea-sharing and creativity."
+},
+{
+  "id": "leader_1877",
+  "question": "Which type of employees benefit the most from democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "Employees who prefer to follow strict orders.", "isCorrect": false },
+    { "id": "option_2", "text": "Employees who enjoy contributing ideas and problem-solving.", "isCorrect": true },
+    { "id": "option_3", "text": "Employees who dislike teamwork.", "isCorrect": false },
+    { "id": "option_4", "text": "Employees who avoid responsibility.", "isCorrect": false }
+  ],
+  "hint": "This leadership style benefits those who like to be involved.",
+  "answerDescription": "Democratic leadership is ideal for employees who enjoy teamwork, sharing ideas, and problem-solving."
+},
+{
+  "id": "leader_1878",
+  "question": "What is an essential skill for a democratic leader?",
+  "options": [
+    { "id": "option_1", "text": "Active listening and open communication.", "isCorrect": true },
+    { "id": "option_2", "text": "Making decisions without consulting the team.", "isCorrect": false },
+    { "id": "option_3", "text": "Avoiding employee feedback.", "isCorrect": false },
+    { "id": "option_4", "text": "Ignoring diverse opinions.", "isCorrect": false }
+  ],
+  "hint": "This skill helps leaders involve their teams in discussions.",
+  "answerDescription": "Democratic leaders must be good listeners and communicators to ensure team participation in decision-making."
+},
+{
+  "id": "leader_1879",
+  "question": "Why do employees often prefer democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "Because it eliminates leadership roles.", "isCorrect": false },
+    { "id": "option_2", "text": "Because it allows leaders to make all decisions.", "isCorrect": false },
+    { "id": "option_3", "text": "Because it values their input and ideas.", "isCorrect": true },
+    { "id": "option_4", "text": "Because it discourages teamwork.", "isCorrect": false }
+  ],
+  "hint": "Employees feel respected when their ideas matter.",
+  "answerDescription": "Democratic leadership makes employees feel valued by involving them in decisions and considering their input."
+},
+  {
+  "id": "leader_1880",
+  "question": "Which statement best describes decision-making in democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "Decisions are made collaboratively with team input.", "isCorrect": true },
+    { "id": "option_2", "text": "Decisions are made solely by the leader.", "isCorrect": false },
+    { "id": "option_3", "text": "Decisions are avoided to prevent conflicts.", "isCorrect": false },
+    { "id": "option_4", "text": "Decisions are imposed without discussion.", "isCorrect": false }
+  ],
+  "hint": "Democratic leadership values team participation in decision-making.",
+  "answerDescription": "In democratic leadership, decisions are made through collaboration and input from team members."
+},
+{
+  "id": "leader_1881",
+  "question": "Which industry benefits the most from democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "Highly regulated industries like banking.", "isCorrect": false },
+    { "id": "option_2", "text": "Industries that require strict hierarchy like the military.", "isCorrect": false },
+    { "id": "option_3", "text": "Creative industries like advertising and design.", "isCorrect": true },
+    { "id": "option_4", "text": "Industries where employee input is discouraged.", "isCorrect": false }
+  ],
+  "hint": "Industries that value innovation and teamwork thrive under democratic leadership.",
+  "answerDescription": "Creative industries like advertising, media, and design benefit the most from democratic leadership because they encourage innovation and idea-sharing."
+},
+{
+  "id": "leader_1882",
+  "question": "Which of the following is a disadvantage of democratic leadership?",
+  "options": [
+    { "id": "option_1", "text": "It discourages communication.", "isCorrect": false },
+    { "id": "option_2", "text": "It can lead to slower decision-making.", "isCorrect": true },
+    { "id": "option_3", "text": "It ignores employee input.", "isCorrect": false },
+    { "id": "option_4", "text": "It creates a strict work environment.", "isCorrect": false }
+  ],
+  "hint": "Including multiple opinions can delay the decision-making process.",
+  "answerDescription": "One challenge of democratic leadership is that discussions and team input can sometimes slow down decision-making."
+},
+{
+  "id": "leader_1883",
+  "question": "What role does a democratic leader play in conflict resolution?",
+  "options": [
+    { "id": "option_1", "text": "Avoids conflicts to maintain harmony.", "isCorrect": false },
+    { "id": "option_2", "text": "Takes full control and makes decisions alone.", "isCorrect": false },
+    { "id": "option_3", "text": "Ignores team disputes.", "isCorrect": false },
+    { "id": "option_4", "text": "Acts as a mediator to encourage open dialogue.", "isCorrect": true }
+  ],
+  "hint": "Democratic leaders encourage team discussions to resolve conflicts.",
+  "answerDescription": "Democratic leaders act as mediators, fostering open discussions to resolve conflicts collaboratively."
+},
+  {
+    "id": "remote_1884",
+    "question": "How can leaders build trust in a remote team?",
+    "options": [
+      { "id": "option_1", "text": "Monitor employees constantly to ensure productivity.", "isCorrect": false },
+      { "id": "option_2", "text": "Encourage transparency, consistent communication, and accountability.", "isCorrect": true },
+      { "id": "option_3", "text": "Avoid giving feedback to prevent conflict.", "isCorrect": false },
+      { "id": "option_4", "text": "Limit communication to only essential emails.", "isCorrect": false }
+    ],
+    "hint": "Trust is built through open and transparent communication.",
+    "answerDescription": "Leaders can foster trust by maintaining transparency, encouraging accountability, and ensuring consistent, open communication."
+  },
+  {
+    "id": "remote_1885",
+    "question": "How should leaders adapt their leadership style for remote teams?",
+    "options": [
+      { "id": "option_1", "text": "Be flexible, empower employees, and focus on outcomes.", "isCorrect": true },
+      { "id": "option_2", "text": "Use a strict, top-down management approach.", "isCorrect": false },
+      { "id": "option_3", "text": "Avoid setting clear goals to reduce pressure.", "isCorrect": false },
+      { "id": "option_4", "text": "Rely only on written communication and avoid video calls.", "isCorrect": false }
+    ],
+    "hint": "Remote leadership requires adaptability and trust.",
+    "answerDescription": "Successful remote leaders empower employees, focus on results, and adapt their approach to suit virtual teams."
+  },
+  {
+    "id": "remote_1886",
+    "question": "What is an effective way to prevent employee isolation in remote work?",
+    "options": [
+      { "id": "option_1", "text": "Encourage employees to work completely independently.", "isCorrect": false },
+      { "id": "option_2", "text": "Limit team communication to work-related topics only.", "isCorrect": false },
+      { "id": "option_3", "text": "Schedule regular check-ins and virtual social interactions.", "isCorrect": true },
+      { "id": "option_4", "text": "Avoid non-work interactions to maintain professionalism.", "isCorrect": false }
+    ],
+    "hint": "Social engagement helps prevent remote work isolation.",
+    "answerDescription": "Remote leaders should facilitate social interactions and regular check-ins to support employees' mental well-being."
+  },
+  {
+    "id": "remote_1887",
+    "question": "Why is it important to set communication norms in remote teams?",
+    "options": [
+      { "id": "option_1", "text": "To ensure clarity, reduce misunderstandings, and improve collaboration.", "isCorrect": true },
+      { "id": "option_2", "text": "To control how employees communicate at all times.", "isCorrect": false },
+      { "id": "option_3", "text": "To discourage informal communication among employees.", "isCorrect": false },
+      { "id": "option_4", "text": "To limit how often employees ask questions.", "isCorrect": false }
+    ],
+    "hint": "Clear communication guidelines enhance teamwork and efficiency.",
+    "answerDescription": "Establishing communication norms helps remote teams align expectations, avoid confusion, and collaborate effectively."
+  },
+  {
+    "id": "remote_1888",
+    "question": "How can leaders encourage innovation in remote teams?",
+    "options": [
+      { "id": "option_1", "text": "Discourage new ideas to maintain stability.", "isCorrect": false },
+      { "id": "option_2", "text": "Limit creativity to leadership roles only.", "isCorrect": false },
+      { "id": "option_3", "text": "Require employees to work strictly within their assigned tasks.", "isCorrect": false },
+      { "id": "option_4", "text": "Create a culture of experimentation, feedback, and idea-sharing.", "isCorrect": true }
+    ],
+    "hint": "Innovation thrives in a culture of open communication and support.",
+    "answerDescription": "Leaders should encourage brainstorming, support risk-taking, and foster an open feedback culture to drive innovation."
+  },
+  {
+    "id": "remote_1889",
+    "question": "What is an effective way to measure productivity in remote teams?",
+    "options": [
+      { "id": "option_1", "text": "Monitor employees' online status throughout the day.", "isCorrect": false },
+      { "id": "option_2", "text": "Focus on results, key performance indicators (KPIs), and employee engagement.", "isCorrect": true },
+      { "id": "option_3", "text": "Rely only on self-reported productivity.", "isCorrect": false },
+      { "id": "option_4", "text": "Avoid setting clear performance expectations.", "isCorrect": false }
+    ],
+    "hint": "Results-based measurement is key for remote productivity.",
+    "answerDescription": "Productivity should be measured based on outcomes, key metrics, and engagement rather than micromanagement."
+  },
+  {
+    "id": "remote_1890",
+    "question": "What is the most important skill for remote leaders?",
+    "options": [
+      { "id": "option_1", "text": "Effective communication", "isCorrect": true },
+      { "id": "option_2", "text": "Strict micromanagement", "isCorrect": false },
+      { "id": "option_3", "text": "Enforcing rigid work schedules", "isCorrect": false },
+      { "id": "option_4", "text": "Avoiding direct engagement with employees", "isCorrect": false }
+    ],
+    "hint": "Remote leaders must be clear and transparent.",
+    "answerDescription": "Effective communication is crucial in remote leadership to ensure clarity, collaboration, and productivity."
+  },
+  {
+    "id": "remote_1891",
+    "question": "How can remote leaders create a sense of team unity?",
+    "options": [
+      { "id": "option_1", "text": "Limit communication to work-only discussions.", "isCorrect": false },
+      { "id": "option_2", "text": "Only provide feedback when necessary.", "isCorrect": false },
+      { "id": "option_3", "text": "Encourage team-building activities and virtual meetings.", "isCorrect": true },
+      { "id": "option_4", "text": "Discourage social interactions among team members.", "isCorrect": false }
+    ],
+    "hint": "Team unity requires engagement beyond work tasks.",
+    "answerDescription": "Leaders should promote social interactions and virtual team-building activities to strengthen bonds."
+  },
+  {
+    "id": "remote_1892",
+    "question": "What is a major challenge for remote leaders?",
+    "options": [
+      { "id": "option_1", "text": "Ensuring employees work from an office.", "isCorrect": false },
+      { "id": "option_2", "text": "Maintaining engagement and motivation.", "isCorrect": true },
+      { "id": "option_3", "text": "Avoiding all forms of virtual communication.", "isCorrect": false },
+      { "id": "option_4", "text": "Discouraging teamwork.", "isCorrect": false }
+    ],
+    "hint": "Employees need to feel connected and valued.",
+    "answerDescription": "Keeping remote teams engaged requires frequent communication, support, and recognition."
+  },
+  {
+    "id": "remote_1893",
+    "question": "How should remote leaders handle performance management?",
+    "options": [
+      { "id": "option_1", "text": "Set clear goals and measure results.", "isCorrect": true },
+      { "id": "option_2", "text": "Monitor employees' online status all day.", "isCorrect": false },
+      { "id": "option_3", "text": "Avoid tracking performance to maintain trust.", "isCorrect": false },
+      { "id": "option_4", "text": "Expect employees to report their own productivity without oversight.", "isCorrect": false }
+    ],
+    "hint": "Results matter more than time spent online.",
+    "answerDescription": "Remote leaders should focus on goal achievement and key performance indicators rather than micromanagement."
+  },
+  {
+    "id": "remote_1894",
+    "question": "Why is trust important in remote teams?",
+    "options": [
+      { "id": "option_1", "text": "It reduces the need for communication.", "isCorrect": false },
+      { "id": "option_2", "text": "It allows leaders to control every aspect of employees' work.", "isCorrect": false },
+      { "id": "option_3", "text": "It fosters autonomy and accountability.", "isCorrect": true },
+      { "id": "option_4", "text": "It eliminates the need for deadlines.", "isCorrect": false }
+    ],
+    "hint": "Trust allows employees to take ownership of their work.",
+    "answerDescription": "A high-trust environment leads to more motivated and responsible employees."
+  },
+  {
+    "id": "remote_1895",
+    "question": "What is an effective way to encourage innovation in remote teams?",
+    "options": [
+      { "id": "option_1", "text": "Create a safe space for idea-sharing and feedback.", "isCorrect": true },
+      { "id": "option_2", "text": "Limit employees to strictly following predefined tasks.", "isCorrect": false },
+      { "id": "option_3", "text": "Discourage employees from proposing new ideas.", "isCorrect": false },
+      { "id": "option_4", "text": "Avoid brainstorming sessions.", "isCorrect": false }
+    ],
+    "hint": "A culture of open discussion encourages creativity.",
+    "answerDescription": "Innovation flourishes when employees feel comfortable sharing their ideas without fear of criticism."
+  },
+  {
+    "id": "remote_1896",
+    "question": "Why is video communication important in remote leadership?",
+    "options": [
+      { "id": "option_1", "text": "It is unnecessary when emails are available.", "isCorrect": false },
+      { "id": "option_2", "text": "It should replace all written communication.", "isCorrect": false },
+      { "id": "option_3", "text": "It is only useful for social interactions, not work discussions.", "isCorrect": false },
+      { "id": "option_4", "text": "It helps build personal connections and clarity.", "isCorrect": true }
+    ],
+    "hint": "Seeing facial expressions improves communication.",
+    "answerDescription": "Video calls add a personal touch and help reduce misunderstandings in remote teams."
+  },
+  {
+    "id": "remote_1897",
+    "question": "What is the best way to onboard new remote employees?",
+    "options": [
+      { "id": "option_1", "text": "Give minimal instructions and let them figure things out.", "isCorrect": false },
+      { "id": "option_2", "text": "Provide structured training and mentorship.", "isCorrect": true },
+      { "id": "option_3", "text": "Avoid introductions to the team.", "isCorrect": false },
+      { "id": "option_4", "text": "Only provide access to work tools without guidance.", "isCorrect": false }
+    ],
+    "hint": "New hires need clear guidance and support.",
+    "answerDescription": "Effective onboarding includes mentorship, training, and structured introductions to ensure new hires succeed."
+  },
+  {
+    "id": "remote_1898",
+    "question": "What is the most effective way to maintain team cohesion in a remote setting?",
+    "options": [
+      { "id": "option_1", "text": "Scheduling regular virtual team meetings and check-ins.", "isCorrect": true },
+      { "id": "option_2", "text": "Reducing communication to avoid overwhelming the team.", "isCorrect": false },
+      { "id": "option_3", "text": "Focusing only on individual work with no group discussions.", "isCorrect": false },
+      { "id": "option_4", "text": "Avoiding team bonding activities as they are not productive.", "isCorrect": false }
+    ],
+    "hint": "Frequent and structured communication helps maintain team cohesion.",
+    "answerDescription": "Regular virtual meetings and check-ins foster collaboration and keep the team aligned."
+  },
+  {
+    "id": "remote_1899",
+    "question": "How can a remote leader ensure accountability within the team?",
+    "options": [
+      { "id": "option_1", "text": "Micromanaging every task to ensure completion.", "isCorrect": false },
+      { "id": "option_2", "text": "Assuming employees will self-manage without oversight.", "isCorrect": false },
+      { "id": "option_3", "text": "Setting clear expectations and measurable goals.", "isCorrect": true },
+      { "id": "option_4", "text": "Avoiding performance discussions to maintain harmony.", "isCorrect": false }
+    ],
+    "hint": "Clear expectations and tracking progress help drive accountability.",
+    "answerDescription": "Defining goals and regularly checking progress ensures accountability in a remote team."
+  },
+  {
+    "id": "remote_1900",
+    "question": "Which strategy best helps remote employees avoid burnout?",
+    "options": [
+      { "id": "option_1", "text": "Expecting employees to always be available online.", "isCorrect": false },
+      { "id": "option_2", "text": "Setting unrealistic deadlines to maintain productivity.", "isCorrect": false },
+      { "id": "option_3", "text": "Discouraging employees from taking breaks.", "isCorrect": false },
+      { "id": "option_4", "text": "Encouraging work-life balance and flexible schedules.", "isCorrect": true }
+    ],
+    "hint": "Work-life balance is key to long-term productivity and well-being.",
+    "answerDescription": "Flexible work hours and respecting personal time help prevent burnout."
+  },
+  {
+      "id": "remote_1901",
+      "question": "What is the most effective way for remote leaders to ensure clear communication?",
+      "options": [
+        { "id": "option_1", "text": "Sending emails only when absolutely necessary.", "isCorrect": false },
+        { "id": "option_2", "text": "Using multiple communication channels to reinforce key messages.", "isCorrect": true },
+        { "id": "option_3", "text": "Avoiding video calls to save time.", "isCorrect": false },
+        { "id": "option_4", "text": "Expecting employees to figure things out on their own.", "isCorrect": false }
+      ],
+      "hint": "A mix of communication methods helps ensure clarity and engagement.",
+      "answerDescription": "Effective remote leaders use multiple communication tools, such as video calls, chat, and email, to reinforce messages and avoid misunderstandings."
+    },
+    {
+      "id": "remote_1902",
+      "question": "How can remote leaders maintain team engagement?",
+      "options": [
+        { "id": "option_1", "text": "Encouraging social interactions and virtual team-building activities.", "isCorrect": true },
+        { "id": "option_2", "text": "Minimizing non-work-related discussions.", "isCorrect": false },
+        { "id": "option_3", "text": "Only communicating when necessary.", "isCorrect": false },
+        { "id": "option_4", "text": "Focusing strictly on performance metrics.", "isCorrect": false }
+      ],
+      "hint": "Team-building is important even in remote settings.",
+      "answerDescription": "Engagement improves when leaders create opportunities for social interaction and team bonding, even in virtual settings."
+    },
+    {
+      "id": "remote_1903",
+      "question": "How can remote leaders effectively track team productivity?",
+      "options": [
+        { "id": "option_1", "text": "By focusing on output and results rather than hours worked.", "isCorrect": true },
+        { "id": "option_2", "text": "By requiring employees to be online at all times.", "isCorrect": false },
+        { "id": "option_3", "text": "By micromanaging every task.", "isCorrect": false },
+        { "id": "option_4", "text": "By relying only on self-reported progress.", "isCorrect": false }
+      ],
+      "hint": "Measuring performance should be about results, not micromanagement.",
+      "answerDescription": "Effective remote leaders assess productivity based on deliverables and outcomes rather than strict time tracking."
+    },
+    {
+      "id": "remote_1904",
+      "question": "Which leadership style is most effective for managing remote teams?",
+      "options": [
+        { "id": "option_1", "text": "Autocratic leadership, where the leader makes all decisions.", "isCorrect": false },
+        { "id": "option_2", "text": "Transformational leadership, which inspires and motivates employees.", "isCorrect": true },
+        { "id": "option_3", "text": "Laissez-faire leadership, with minimal guidance.", "isCorrect": false },
+        { "id": "option_4", "text": "Strict bureaucratic leadership.", "isCorrect": false }
+      ],
+      "hint": "Inspirational and motivating leadership works best for remote teams.",
+      "answerDescription": "Transformational leadership helps remote teams stay engaged and motivated by focusing on vision, trust, and professional development."
+    },
+    {
+      "id": "remote_1905",
+      "question": "What is an important factor in building trust in remote teams?",
+      "options": [
+        { "id": "option_1", "text": "Providing clear expectations and regular feedback.", "isCorrect": true },
+        { "id": "option_2", "text": "Keeping interactions strictly professional.", "isCorrect": false },
+        { "id": "option_3", "text": "Limiting communication to avoid micromanagement.", "isCorrect": false },
+        { "id": "option_4", "text": "Assuming employees will manage themselves without support.", "isCorrect": false }
+      ],
+      "hint": "Trust grows when team members know what is expected and receive consistent feedback.",
+      "answerDescription": "Trust in remote teams is built through transparency, clear expectations, and ongoing support from leadership."
+    },
+    {
+      "id": "remote_1906",
+      "question": "How can remote leaders promote a positive work culture?",
+      "options": [
+        { "id": "option_1", "text": "Focusing only on deadlines.", "isCorrect": false },
+        { "id": "option_2", "text": "Avoiding team interactions to keep things professional.", "isCorrect": false },
+        { "id": "option_3", "text": "Recognizing achievements and encouraging collaboration.", "isCorrect": true },
+        { "id": "option_4", "text": "Providing minimal support to promote independence.", "isCorrect": false }
+      ],
+      "hint": "A positive culture includes recognition and teamwork.",
+      "answerDescription": "Acknowledging employees’ efforts and encouraging collaboration helps create a strong and positive remote work culture."
+    },
+    {
+      "id": "remote_1907",
+      "question": "What is an effective way for remote leaders to support employees' well-being?",
+      "options": [
+        { "id": "option_1", "text": "Ensuring employees are always available online.", "isCorrect": false },
+        { "id": "option_2", "text": "Avoiding discussions about mental health and well-being.", "isCorrect": false },
+        { "id": "option_3", "text": "Setting unrealistic performance expectations.", "isCorrect": false },
+        { "id": "option_4", "text": "Encouraging breaks and promoting work-life balance.", "isCorrect": true }
+      ],
+      "hint": "Supporting well-being leads to higher engagement and productivity.",
+      "answerDescription": "Remote leaders who encourage work-life balance and mental well-being help employees stay motivated and productive."
+    },
+    {
+      "id": "remote_1908",
+      "question": "Which strategy helps remote leaders build trust within their teams?",
+      "options": [
+        { "id": "option_1", "text": "Micromanaging daily tasks.", "isCorrect": false },
+        { "id": "option_2", "text": "Encouraging open communication and transparency.", "isCorrect": true },
+        { "id": "option_3", "text": "Ignoring time zone differences.", "isCorrect": false },
+        { "id": "option_4", "text": "Focusing only on productivity metrics.", "isCorrect": false }
+      ],
+      "hint": "Trust is built through transparency and effective communication.",
+      "answerDescription": "Remote leaders can build trust by fostering an open and transparent communication culture."
+    },
+    {
+      "id": "remote_1909",
+      "question": "How can remote leaders ensure team engagement?",
+      "options": [
+        { "id": "option_1", "text": "Reducing communication to emails only.", "isCorrect": false },
+        { "id": "option_2", "text": "Scheduling frequent virtual meetings with clear objectives.", "isCorrect": true },
+        { "id": "option_3", "text": "Setting strict rules with no flexibility.", "isCorrect": false },
+        { "id": "option_4", "text": "Avoiding team interactions to minimize distractions.", "isCorrect": false }
+      ],
+      "hint": "Engagement improves when communication is structured and purposeful.",
+      "answerDescription": "Regular virtual meetings with clear objectives help keep remote teams engaged and aligned."
+    },
+    {
+      "id": "remote_1910",
+      "question": "What is an effective way for remote leaders to provide feedback?",
+      "options": [
+        { "id": "option_1", "text": "Only giving feedback during annual reviews.", "isCorrect": false },
+        { "id": "option_2", "text": "Avoiding feedback to prevent conflict.", "isCorrect": false },
+        { "id": "option_3", "text": "Giving vague feedback without examples.", "isCorrect": false },
+        { "id": "option_4", "text": "Providing timely and constructive feedback through video calls or chat.", "isCorrect": true }
+      ],
+      "hint": "Feedback should be regular, constructive, and clear.",
+      "answerDescription": "Remote leaders should provide timely and clear feedback to support team members' growth and performance."
+    }
 ]
   
   
