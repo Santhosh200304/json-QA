@@ -36148,15 +36148,2246 @@
       "id": "leader_3013",
       "question": "What is a common mistake global leaders make when entering international markets?",
       "options": [
-          { "id": "option_1", "text": "Assuming that what works in one country will work everywhere.", "isCorrect": true },
-          { "id": "option_2", "text": "Researching cultural and market differences before expanding.", "isCorrect": false },
-          { "id": "option_3", "text": "Building strong local partnerships.", "isCorrect": false },
-          { "id": "option_4", "text": "Customizing products and services for different regions.", "isCorrect": false }
+        { "id": "option_1", "text": "Researching cultural and market differences before expanding.", "isCorrect": false },
+        { "id": "option_2", "text": "Assuming that what works in one country will work everywhere.", "isCorrect": true },
+        { "id": "option_3", "text": "Building strong local partnerships.", "isCorrect": false },
+        { "id": "option_4", "text": "Customizing products and services for different regions.", "isCorrect": false }
       ],
       "hint": "One-size-fits-all strategies rarely work in global markets.",
       "answerDescription": "Each country has unique business dynamics, and adapting strategies is key to success."
+      },
+      {
+        "id": "leader_3014",
+        "question": "How does digital transformation impact business scalability?",
+        "options": [
+          { "id": "option_1", "text": "By enabling rapid expansion and flexibility.", "isCorrect": true },
+          { "id": "option_2", "text": "By limiting company growth potential.", "isCorrect": false },
+          { "id": "option_3", "text": "By making operations more complex and inefficient.", "isCorrect": false },
+          { "id": "option_4", "text": "By reducing access to cloud-based solutions.", "isCorrect": false }
+        ],
+        "hint": "Digital tools enhance scalability and adaptability.",
+        "answerDescription": "Organizations use digital transformation strategies to scale operations efficiently and respond to market changes."
+      },
+      {
+        "id": "leader_3015",
+        "question": "What is the role of AI in fraud detection?",
+        "options": [
+          { "id": "option_1", "text": "To reduce the importance of security measures.", "isCorrect": false },
+          { "id": "option_2", "text": "To eliminate human involvement in fraud prevention.", "isCorrect": false },
+          { "id": "option_3", "text": "To identify suspicious patterns and prevent fraud.", "isCorrect": true },
+          { "id": "option_4", "text": "To slow down financial transactions.", "isCorrect": false }
+        ],
+        "hint": "AI enhances security by detecting anomalies in data.",
+        "answerDescription": "Businesses use AI-powered fraud detection to analyze transactions, prevent unauthorized access, and minimize risks."
+      },
+      {
+        "id": "leader_3016",
+        "question": "How does remote work technology improve employee productivity?",
+        "options": [
+          { "id": "option_1", "text": "By reducing communication among teams.", "isCorrect": false },
+          { "id": "option_2", "text": "By providing collaboration tools and flexible work options.", "isCorrect": true },
+          { "id": "option_3", "text": "By eliminating the need for digital engagement.", "isCorrect": false },
+          { "id": "option_4", "text": "By making project management more difficult.", "isCorrect": false }
+        ],
+        "hint": "Remote work technology enables seamless collaboration.",
+        "answerDescription": "Companies use digital tools to support virtual teamwork, improve engagement, and enhance productivity."
+      },
+      {
+        "id": "leader_3017",
+        "question": "Why is continuous learning important in digital leadership?",
+        "options": [
+          { "id": "option_1", "text": "To limit innovation within the organization.", "isCorrect": false },
+          { "id": "option_2", "text": "To avoid adapting to industry trends.", "isCorrect": false },
+          { "id": "option_3", "text": "To reduce the need for employee development.", "isCorrect": false },
+          { "id": "option_4", "text": "To stay updated with technological advancements.", "isCorrect": true }
+        ],
+        "hint": "Lifelong learning helps leaders navigate digital transformation.",
+        "answerDescription": "Digital leaders prioritize continuous education to enhance skills, drive innovation, and improve decision-making."
+      },
+      {
+        "id": "leader_3018",
+        "question": "How does data visualization enhance business intelligence?",
+        "options": [
+          { "id": "option_1", "text": "By reducing the importance of analytics.", "isCorrect": false },
+          { "id": "option_2", "text": "By making complex data easier to understand.", "isCorrect": true },
+          { "id": "option_3", "text": "By eliminating the need for strategic planning.", "isCorrect": false },
+          { "id": "option_4", "text": "By making reports harder to interpret.", "isCorrect": false }
+        ],
+        "hint": "Visual representations simplify data analysis.",
+        "answerDescription": "Companies use data visualization tools to identify trends, make informed decisions, and communicate insights effectively."
+      },
+      {
+        "id": "leader_3019",
+        "question": "What is the impact of chatbots on customer service?",
+        "options": [
+          { "id": "option_1", "text": "They provide instant responses and improve efficiency.", "isCorrect": true },
+          { "id": "option_2", "text": "They make customer interactions less personal.", "isCorrect": false },
+          { "id": "option_3", "text": "They slow down customer service operations.", "isCorrect": false },
+          { "id": "option_4", "text": "They eliminate the need for human customer support.", "isCorrect": false }
+        ],
+        "hint": "AI-driven chatbots enhance customer engagement.",
+        "answerDescription": "Businesses use chatbots to provide quick assistance, answer FAQs, and enhance user satisfaction."
+      },
+      {
+        "id": "leader_3020",
+        "question": "Why is digital accessibility important for organizations?",
+        "options": [
+          { "id": "option_1", "text": "To limit user engagement with online platforms.", "isCorrect": false },
+          { "id": "option_2", "text": "To reduce compliance with accessibility standards.", "isCorrect": false },
+          { "id": "option_3", "text": "To ensure inclusive access to digital services for all users.", "isCorrect": true },
+          { "id": "option_4", "text": "To make websites harder to navigate.", "isCorrect": false }
+        ],
+        "hint": "Digital accessibility promotes equal opportunities.",
+        "answerDescription": "Organizations prioritize accessibility to provide an inclusive user experience and comply with legal requirements."
+      },
+      {
+        "id": "leader_3021",
+        "question": "How does gamification enhance employee engagement?",
+        "options": [
+          { "id": "option_1", "text": "By reducing motivation in the workplace.", "isCorrect": false },
+          { "id": "option_2", "text": "By motivating employees through rewards and challenges.", "isCorrect": true },
+          { "id": "option_3", "text": "By eliminating collaboration among employees.", "isCorrect": false },
+          { "id": "option_4", "text": "By making tasks more repetitive and uninteresting.", "isCorrect": false }
+        ],
+        "hint": "Gamification increases workplace motivation and performance.",
+        "answerDescription": "Companies integrate gamification techniques to boost engagement, productivity, and team collaboration."
+      },
+      {
+        "id": "leader_3022",
+        "question": "How does digital transformation drive business innovation?",
+        "options": [
+          { "id": "option_1", "text": "By leveraging technology to create new opportunities.", "isCorrect": true },
+          { "id": "option_2", "text": "By limiting the use of emerging technologies.", "isCorrect": false },
+          { "id": "option_3", "text": "By making organizations resistant to change.", "isCorrect": false },
+          { "id": "option_4", "text": "By slowing down decision-making processes.", "isCorrect": false }
+        ],
+        "hint": "Technology fuels innovation and growth.",
+        "answerDescription": "Organizations embrace digital transformation to enhance competitiveness, efficiency, and market expansion."
+      },
+      {
+        "id": "leader_3023",
+        "question": "Why is a customer-centric approach crucial in digital leadership?",
+        "options": [
+          { "id": "option_1", "text": "To focus only on internal operational efficiency.", "isCorrect": false },
+          { "id": "option_2", "text": "To reduce investment in customer support.", "isCorrect": false },
+          { "id": "option_3", "text": "To enhance user experience and satisfaction.", "isCorrect": true },
+          { "id": "option_4", "text": "To make customer feedback irrelevant.", "isCorrect": false }
+        ],
+        "hint": "Customer-centricity improves brand loyalty.",
+        "answerDescription": "Digital leaders prioritize user needs and experiences to drive engagement, retention, and business success."
+      },
+      {
+        "id": "leader_3024",
+        "question": "How does AI-driven automation impact HR management?",
+        "options": [
+          { "id": "option_1", "text": "By making hiring decisions more biased.", "isCorrect": false },
+          { "id": "option_2", "text": "By streamlining recruitment and employee management.", "isCorrect": true },
+          { "id": "option_3", "text": "By eliminating the need for human resource professionals.", "isCorrect": false },
+          { "id": "option_4", "text": "By complicating payroll and benefits administration.", "isCorrect": false }
+        ],
+        "hint": "AI optimizes HR functions and decision-making.",
+        "answerDescription": "Organizations utilize AI-driven automation to enhance efficiency in hiring, training, and performance evaluations."
+      },
+      {
+        "id": "leader_3025",
+        "question": "Why is digital upskilling essential for employees?",
+        "options": [
+          { "id": "option_1", "text": "To keep up with evolving technology and industry demands.", "isCorrect": true },
+          { "id": "option_2", "text": "To discourage learning new digital tools.", "isCorrect": false },
+          { "id": "option_3", "text": "To make employees resistant to change.", "isCorrect": false },
+          { "id": "option_4", "text": "To limit workforce adaptability.", "isCorrect": false }
+        ],
+        "hint": "Continuous learning ensures career growth and business success.",
+        "answerDescription": "Companies invest in digital upskilling programs to improve workforce capabilities and innovation potential."
+      },
+      {
+        "id": "leader_3026",
+        "question": "How does cybersecurity AI enhance digital security?",
+        "options": [
+          { "id": "option_1", "text": "By increasing vulnerability to cyberattacks.", "isCorrect": false },
+          { "id": "option_2", "text": "By eliminating encryption requirements.", "isCorrect": false },
+          { "id": "option_3", "text": "By detecting and preventing cyber threats in real-time.", "isCorrect": true },
+          { "id": "option_4", "text": "By slowing down security response times.", "isCorrect": false }
+        ],
+        "hint": "AI strengthens security by identifying threats proactively.",
+        "answerDescription": "Businesses deploy AI-powered cybersecurity solutions to detect, mitigate, and prevent cyber threats efficiently."
+      },
+      {
+        "id": "leader_3027",
+        "question": "What is the significance of digital leadership in crisis management?",
+        "options": [
+          { "id": "option_1", "text": "To delay decision-making during crises.", "isCorrect": false },
+          { "id": "option_2", "text": "To provide swift and data-driven responses to challenges.", "isCorrect": true },
+          { "id": "option_3", "text": "To avoid using digital tools for problem-solving.", "isCorrect": false },
+          { "id": "option_4", "text": "To ignore stakeholder concerns in difficult times.", "isCorrect": false }
+        ],
+        "hint": "Strong leadership ensures effective crisis resolution.",
+        "answerDescription": "Digital leaders leverage technology and data to navigate crises efficiently and maintain business continuity."
+      },
+      {
+        "id": "leader_3028",
+        "question": "How does blockchain improve digital identity management?",
+        "options": [
+          { "id": "option_1", "text": "By securing identity verification and access control.", "isCorrect": true },
+          { "id": "option_2", "text": "By reducing security measures for user authentication.", "isCorrect": false },
+          { "id": "option_3", "text": "By making digital identity systems less reliable.", "isCorrect": false },
+          { "id": "option_4", "text": "By complicating access to secure data.", "isCorrect": false }
+        ],
+        "hint": "Blockchain ensures decentralized and tamper-proof identity management.",
+        "answerDescription": "Organizations use blockchain to enhance security, transparency, and efficiency in digital identity verification."
+      },
+      {
+        "id": "leader_3029",
+        "question": "Why is cloud-native development important for digital businesses?",
+        "options": [
+          { "id": "option_1", "text": "To limit the flexibility of software applications.", "isCorrect": false },
+          { "id": "option_2", "text": "To reduce business agility.", "isCorrect": false },
+          { "id": "option_3", "text": "To improve scalability, resilience, and efficiency.", "isCorrect": true },
+          { "id": "option_4", "text": "To eliminate the need for cloud infrastructure.", "isCorrect": false }
+        ],
+        "hint": "Cloud-native applications offer superior adaptability and performance.",
+        "answerDescription": "Businesses adopt cloud-native development to enhance innovation, speed, and cost-effectiveness in digital operations."
+      },
+      {
+        "id": "leader_3030",
+        "question": "How does edge computing support digital transformation?",
+        "options": [
+          { "id": "option_1", "text": "By eliminating the need for cloud computing.", "isCorrect": false },
+          { "id": "option_2", "text": "By reducing latency and improving real-time processing.", "isCorrect": true },
+          { "id": "option_3", "text": "By limiting data accessibility.", "isCorrect": false },
+          { "id": "option_4", "text": "By slowing down connectivity speeds.", "isCorrect": false }
+        ],
+        "hint": "Edge computing enables faster, localized data processing.",
+        "answerDescription": "Organizations use edge computing to enhance speed, reduce bandwidth costs, and enable real-time analytics."
+      },
+      {
+        "id": "leader_3031",
+        "question": "Why is ethical hacking important for cybersecurity?",
+        "options": [
+          { "id": "option_1", "text": "To identify vulnerabilities before attackers exploit them.", "isCorrect": true },
+          { "id": "option_2", "text": "To create security loopholes in networks.", "isCorrect": false },
+          { "id": "option_3", "text": "To reduce the importance of encryption.", "isCorrect": false },
+          { "id": "option_4", "text": "To make cybersecurity policies unnecessary.", "isCorrect": false }
+        ],
+        "hint": "Ethical hackers help strengthen security systems.",
+        "answerDescription": "Organizations use ethical hacking to proactively test and improve their security defenses."
+      },
+      {
+        "id": "leader_3032",
+        "question": "How does robotic process automation (RPA) enhance business efficiency?",
+        "options": [
+          { "id": "option_1", "text": "By replacing all human workers.", "isCorrect": false },
+          { "id": "option_2", "text": "By increasing manual workload.", "isCorrect": false },
+          { "id": "option_3", "text": "By automating repetitive tasks and reducing errors.", "isCorrect": true },
+          { "id": "option_4", "text": "By making processes more complex.", "isCorrect": false }
+        ],
+        "hint": "RPA helps businesses optimize workflows.",
+        "answerDescription": "Organizations implement RPA to handle repetitive tasks, allowing employees to focus on higher-value work."
+      },
+      {
+        "id": "leader_3033",
+        "question": "What is the role of digital twins in industry 4.0?",
+        "options": [
+          { "id": "option_1", "text": "To replace physical assets with simulations.", "isCorrect": false },
+          { "id": "option_2", "text": "To create virtual models for optimizing real-world operations.", "isCorrect": true },
+          { "id": "option_3", "text": "To make predictive analytics less effective.", "isCorrect": false },
+          { "id": "option_4", "text": "To slow down manufacturing processes.", "isCorrect": false }
+        ],
+        "hint": "Digital twins provide data-driven insights for industries.",
+        "answerDescription": "Businesses use digital twins to improve efficiency, predict failures, and enhance decision-making in industrial settings."
+      },
+      {
+        "id": "leader_3034",
+        "question": "How does AI contribute to personalized marketing?",
+        "options": [
+          { "id": "option_1", "text": "By analyzing user behavior to tailor recommendations.", "isCorrect": true },
+          { "id": "option_2", "text": "By sending the same content to all customers.", "isCorrect": false },
+          { "id": "option_3", "text": "By ignoring customer data insights.", "isCorrect": false },
+          { "id": "option_4", "text": "By reducing engagement with audiences.", "isCorrect": false }
+        ],
+        "hint": "AI enables hyper-personalization in marketing.",
+        "answerDescription": "Businesses use AI-driven marketing to offer personalized experiences, improve engagement, and boost conversion rates."
+      },
+      {
+        "id": "leader_3035",
+        "question": "Why is a zero-trust security model gaining popularity?",
+        "options": [
+          { "id": "option_1", "text": "To allow unrestricted access to internal networks.", "isCorrect": false },
+          { "id": "option_2", "text": "To eliminate the need for multi-factor authentication.", "isCorrect": false },
+          { "id": "option_3", "text": "To reduce overall network security.", "isCorrect": false },
+          { "id": "option_4", "text": "To verify every user and device before granting access.", "isCorrect": true }
+        ],
+        "hint": "Zero-trust enhances cybersecurity by enforcing strict controls.",
+        "answerDescription": "Organizations adopt zero-trust models to minimize risks, prevent breaches, and secure sensitive data."
+      },
+      {
+        "id": "leader_3036",
+        "question": "What is the impact of 3D printing on modern manufacturing?",
+        "options": [
+          { "id": "option_1", "text": "It slows down the manufacturing process.", "isCorrect": false },
+          { "id": "option_2", "text": "It enables rapid prototyping and on-demand production.", "isCorrect": true },
+          { "id": "option_3", "text": "It reduces customization in product development.", "isCorrect": false },
+          { "id": "option_4", "text": "It eliminates the need for innovation.", "isCorrect": false }
+        ],
+        "hint": "3D printing accelerates product design and manufacturing.",
+        "answerDescription": "Companies use 3D printing for cost-effective prototyping, product customization, and streamlined production."
+      },
+      {
+        "id": "leader_3037",
+        "question": "How does sentiment analysis help businesses?",
+        "options": [
+          { "id": "option_1", "text": "By reducing the importance of customer opinions.", "isCorrect": false },
+          { "id": "option_2", "text": "By eliminating data-driven decision-making.", "isCorrect": false },
+          { "id": "option_3", "text": "By analyzing customer feedback to improve services.", "isCorrect": true },
+          { "id": "option_4", "text": "By making marketing strategies less effective.", "isCorrect": false }
+        ],
+        "hint": "Sentiment analysis helps brands understand customer emotions.",
+        "answerDescription": "Businesses use sentiment analysis tools to gauge customer sentiment, enhance experiences, and refine marketing strategies."
+      },
+      {
+        "id": "leader_3038",
+        "question": "How does AI-powered chatbots enhance customer support?",
+        "options": [
+          { "id": "option_1", "text": "By replacing all human agents.", "isCorrect": false },
+          { "id": "option_2", "text": "By providing instant responses and improving service efficiency.", "isCorrect": true },
+          { "id": "option_3", "text": "By making customer interactions slower.", "isCorrect": false },
+          { "id": "option_4", "text": "By reducing engagement with customers.", "isCorrect": false }
+        ],
+        "hint": "AI chatbots enhance user experience with quick replies.",
+        "answerDescription": "Businesses implement AI-driven chatbots to offer real-time assistance, answer FAQs, and improve customer satisfaction."
+      },
+      {
+        "id": "leader_3039",
+        "question": "Why is digital transformation important in supply chain management?",
+        "options": [
+          { "id": "option_1", "text": "To improve tracking, efficiency, and transparency.", "isCorrect": true },
+          { "id": "option_2", "text": "To make logistics operations slower.", "isCorrect": false },
+          { "id": "option_3", "text": "To reduce collaboration among supply chain partners.", "isCorrect": false },
+          { "id": "option_4", "text": "To limit the use of automation.", "isCorrect": false }
+        ],
+        "hint": "Digital tools optimize logistics and tracking.",
+        "answerDescription": "Businesses integrate digital transformation in supply chains to enhance real-time tracking, automation, and operational efficiency."
+      },
+      {
+        "id": "leader_3040",
+        "question": "What is the role of big data in business strategy?",
+        "options": [
+          { "id": "option_1", "text": "To eliminate the need for analytics.", "isCorrect": false },
+          { "id": "option_2", "text": "To slow down business intelligence processes.", "isCorrect": false },
+          { "id": "option_3", "text": "To provide insights for data-driven decision-making.", "isCorrect": true },
+          { "id": "option_4", "text": "To reduce data collection.", "isCorrect": false }
+        ],
+        "hint": "Big data enables predictive analytics and business intelligence.",
+        "answerDescription": "Companies use big data analytics to identify trends, optimize strategies, and enhance customer experiences."
+      },
+      {
+        "id": "leader_3041",
+        "question": "How does cloud security protect business data?",
+        "options": [
+          { "id": "option_1", "text": "By reducing the need for authentication.", "isCorrect": false },
+          { "id": "option_2", "text": "By encrypting data and ensuring secure access control.", "isCorrect": true },
+          { "id": "option_3", "text": "By making data more vulnerable to breaches.", "isCorrect": false },
+          { "id": "option_4", "text": "By eliminating backup and recovery protocols.", "isCorrect": false }
+        ],
+        "hint": "Cloud security protects sensitive business information.",
+        "answerDescription": "Organizations implement cloud security measures such as encryption and multi-factor authentication to safeguard data."
+      },
+      {
+        "id": "leader_3042",
+        "question": "Why is blockchain technology useful in financial transactions?",
+        "options": [
+          { "id": "option_1", "text": "To enhance security, transparency, and efficiency.", "isCorrect": true },
+          { "id": "option_2", "text": "To slow down financial transactions.", "isCorrect": false },
+          { "id": "option_3", "text": "To eliminate regulatory compliance.", "isCorrect": false },
+          { "id": "option_4", "text": "To reduce data integrity.", "isCorrect": false }
+        ],
+        "hint": "Blockchain provides secure and immutable transaction records.",
+        "answerDescription": "Businesses utilize blockchain to improve trust, prevent fraud, and enhance financial transaction efficiency."
+      },
+      {
+        "id": "leader_3043",
+        "question": "What impact does remote work have on business operations?",
+        "options": [
+          { "id": "option_1", "text": "It reduces efficiency in digital collaboration.", "isCorrect": false },
+          { "id": "option_2", "text": "It eliminates the need for leadership oversight.", "isCorrect": false },
+          { "id": "option_3", "text": "It increases flexibility and workforce productivity.", "isCorrect": true },
+          { "id": "option_4", "text": "It limits the adoption of digital tools.", "isCorrect": false }
+        ],
+        "hint": "Remote work benefits organizations through digital tools.",
+        "answerDescription": "Companies embrace remote work by leveraging digital platforms to enhance team collaboration and productivity."
+      },
+      {
+        "id": "leader_3044",
+        "question": "How does cybersecurity awareness benefit employees?",
+        "options": [
+          { "id": "option_1", "text": "By reducing the need for security training.", "isCorrect": false },
+          { "id": "option_2", "text": "By making data breaches more likely.", "isCorrect": false },
+          { "id": "option_3", "text": "By eliminating password security protocols.", "isCorrect": false },
+          { "id": "option_4", "text": "By helping employees recognize and prevent cyber threats.", "isCorrect": true }
+        ],
+        "hint": "Cybersecurity training enhances protection against threats.",
+        "answerDescription": "Organizations conduct cybersecurity awareness programs to help employees detect phishing scams and prevent security risks."
+      },
+      {
+        "id": "leader_3045",
+        "question": "How does AI contribute to fraud detection in banking?",
+        "options": [
+          { "id": "option_1", "text": "By eliminating the need for security checks.", "isCorrect": false },
+          { "id": "option_2", "text": "By analyzing transaction patterns to detect anomalies.", "isCorrect": true },
+          { "id": "option_3", "text": "By slowing down transaction approvals.", "isCorrect": false },
+          { "id": "option_4", "text": "By making banking systems less secure.", "isCorrect": false }
+        ],
+        "hint": "AI helps in real-time fraud prevention.",
+        "answerDescription": "Financial institutions use AI algorithms to detect suspicious activities and prevent fraudulent transactions."
+      },
+      {
+        "id": "leader_3046",
+        "question": "Why is digital twin technology important in manufacturing?",
+        "options": [
+          { "id": "option_1", "text": "To simulate and optimize production processes.", "isCorrect": true },
+          { "id": "option_2", "text": "To replace human workers on assembly lines.", "isCorrect": false },
+          { "id": "option_3", "text": "To slow down product development.", "isCorrect": false },
+          { "id": "option_4", "text": "To make quality control less efficient.", "isCorrect": false }
+        ],
+        "hint": "Digital twins help improve efficiency in manufacturing.",
+        "answerDescription": "Companies use digital twins to monitor, simulate, and improve production processes, reducing costs and enhancing output."
+      },
+      {
+        "id": "leader_3047",
+        "question": "How does 5G impact digital transformation?",
+        "options": [
+          { "id": "option_1", "text": "By reducing internet speeds.", "isCorrect": false },
+          { "id": "option_2", "text": "By making remote work less efficient.", "isCorrect": false },
+          { "id": "option_3", "text": "By limiting access to cloud computing.", "isCorrect": false },
+          { "id": "option_4", "text": "By enabling faster and more reliable connectivity.", "isCorrect": true }
+        ],
+        "hint": "5G enhances connectivity for digital applications.",
+        "answerDescription": "Organizations leverage 5G for high-speed data transfer, IoT expansion, and improved digital services."
+      },
+      {
+        "id": "leader_3048",
+        "question": "Why is cybersecurity resilience crucial for modern businesses?",
+        "options": [
+          { "id": "option_1", "text": "To reduce investment in security infrastructure.", "isCorrect": false },
+          { "id": "option_2", "text": "To protect against evolving cyber threats.", "isCorrect": true },
+          { "id": "option_3", "text": "To allow unauthorized access to data.", "isCorrect": false },
+          { "id": "option_4", "text": "To eliminate the need for encryption.", "isCorrect": false }
+        ],
+        "hint": "Cyber resilience helps businesses maintain security.",
+        "answerDescription": "Companies invest in cybersecurity resilience to protect data, maintain compliance, and prevent cyberattacks."
+      },
+      {
+        "id": "leader_3049",
+        "question": "How does AI enhance decision-making in businesses?",
+        "options": [
+          { "id": "option_1", "text": "By replacing human judgment entirely.", "isCorrect": false },
+          { "id": "option_2", "text": "By providing data-driven insights and predictive analytics.", "isCorrect": true },
+          { "id": "option_3", "text": "By limiting access to business intelligence.", "isCorrect": false },
+          { "id": "option_4", "text": "By making decisions more random.", "isCorrect": false }
+        ],
+        "hint": "AI helps businesses make informed strategic choices.",
+        "answerDescription": "Companies use AI to analyze vast amounts of data, identify trends, and improve decision-making efficiency."
+      },
+      {
+        "id": "leader_3050",
+        "question": "Why is multi-cloud strategy gaining importance in enterprises?",
+        "options": [
+          { "id": "option_1", "text": "To enhance flexibility and reduce vendor dependency.", "isCorrect": true },
+          { "id": "option_2", "text": "To eliminate the need for cloud computing.", "isCorrect": false },
+          { "id": "option_3", "text": "To make data storage less secure.", "isCorrect": false },
+          { "id": "option_4", "text": "To limit scalability of cloud resources.", "isCorrect": false }
+        ],
+        "hint": "Multi-cloud strategies help organizations avoid reliance on a single provider.",
+        "answerDescription": "Enterprises adopt multi-cloud solutions to optimize costs, increase redundancy, and improve operational resilience."
+      },
+      {
+        "id": "leader_3051",
+        "question": "How does IoT drive efficiency in smart cities?",
+        "options": [
+          { "id": "option_1", "text": "By making infrastructure maintenance more complex.", "isCorrect": false },
+          { "id": "option_2", "text": "By reducing data collection from urban environments.", "isCorrect": false },
+          { "id": "option_3", "text": "By enabling real-time monitoring and automation.", "isCorrect": true },
+          { "id": "option_4", "text": "By limiting connectivity between city systems.", "isCorrect": false }
+        ],
+        "hint": "IoT enhances urban management through smart solutions.",
+        "answerDescription": "Cities leverage IoT to improve traffic management, energy efficiency, and public safety."
+      },
+      {
+        "id": "leader_3052",
+        "question": "What is the significance of digital skills training in the workplace?",
+        "options": [
+          { "id": "option_1", "text": "To discourage the use of emerging technologies.", "isCorrect": false },
+          { "id": "option_2", "text": "To ensure employees stay competitive in a digital economy.", "isCorrect": true },
+          { "id": "option_3", "text": "To reduce employee productivity.", "isCorrect": false },
+          { "id": "option_4", "text": "To limit innovation and digital adoption.", "isCorrect": false }
+        ],
+        "hint": "Continuous learning is essential in a tech-driven world.",
+        "answerDescription": "Organizations invest in digital skills training to equip employees with modern competencies and improve adaptability."
+      },
+      {
+        "id": "leader_3053",
+        "question": "How does machine learning improve cybersecurity?",
+        "options": [
+          { "id": "option_1", "text": "By making security protocols less effective.", "isCorrect": false },
+          { "id": "option_2", "text": "By reducing the need for encryption.", "isCorrect": false },
+          { "id": "option_3", "text": "By detecting anomalies and identifying threats proactively.", "isCorrect": true },
+          { "id": "option_4", "text": "By slowing down security response times.", "isCorrect": false }
+        ],
+        "hint": "AI-driven security systems improve threat detection.",
+        "answerDescription": "Machine learning enhances cybersecurity by analyzing patterns, detecting fraud, and automating threat responses."
+      },
+      {
+        "id": "leader_3054",
+        "question": "Why is remote workforce management crucial in digital businesses?",
+        "options": [
+          { "id": "option_1", "text": "To eliminate the need for digital tools.", "isCorrect": false },
+          { "id": "option_2", "text": "To ensure productivity and seamless collaboration.", "isCorrect": true },
+          { "id": "option_3", "text": "To reduce team efficiency.", "isCorrect": false },
+          { "id": "option_4", "text": "To make virtual meetings less effective.", "isCorrect": false }
+        ],
+        "hint": "Managing remote teams effectively enhances business outcomes.",
+        "answerDescription": "Companies use digital tools to facilitate communication, track performance, and maintain engagement in remote work settings."
+      },
+      {
+        "id": "leader_3055",
+        "question": "What is the impact of blockchain on supply chain management?",
+        "options": [
+          { "id": "option_1", "text": "It enhances transparency, security, and traceability.", "isCorrect": true },
+          { "id": "option_2", "text": "It eliminates the need for logistics tracking.", "isCorrect": false },
+          { "id": "option_3", "text": "It reduces trust in supply chain transactions.", "isCorrect": false },
+          { "id": "option_4", "text": "It slows down supply chain processes.", "isCorrect": false }
+        ],
+        "hint": "Blockchain provides immutable and verifiable records.",
+        "answerDescription": "Businesses integrate blockchain to reduce fraud, improve efficiency, and ensure authenticity in supply chains."
+      },
+      {
+        "id": "leader_3056",
+        "question": "Why is ethical AI development important in digital leadership?",
+        "options": [
+          { "id": "option_1", "text": "To eliminate transparency in AI models.", "isCorrect": false },
+          { "id": "option_2", "text": "To limit accountability in decision-making.", "isCorrect": false },
+          { "id": "option_3", "text": "To prioritize profits over ethical considerations.", "isCorrect": false },
+          { "id": "option_4", "text": "To prevent biases and ensure responsible AI use.", "isCorrect": true }
+        ],
+        "hint": "Fair AI systems create trust and accountability.",
+        "answerDescription": "Organizations focus on ethical AI to reduce biases, ensure compliance, and maintain public trust."
+      },
+      {
+        "id": "leader_3057",
+        "question": "How does AI-powered predictive analytics benefit businesses?",
+        "options": [
+          { "id": "option_1", "text": "By making data analysis less relevant.", "isCorrect": false },
+          { "id": "option_2", "text": "By forecasting trends and improving decision-making.", "isCorrect": true },
+          { "id": "option_3", "text": "By eliminating the need for business intelligence.", "isCorrect": false },
+          { "id": "option_4", "text": "By increasing uncertainty in predictions.", "isCorrect": false }
+        ],
+        "hint": "Predictive analytics helps businesses plan for the future.",
+        "answerDescription": "Organizations use AI-driven predictive analytics to identify patterns, optimize strategies, and anticipate market shifts."
+      },
+      {
+        "id": "leader_3058",
+        "question": "Why is digital trust important in online transactions?",
+        "options": [
+          { "id": "option_1", "text": "To ensure security, privacy, and reliability.", "isCorrect": true },
+          { "id": "option_2", "text": "To reduce the need for authentication.", "isCorrect": false },
+          { "id": "option_3", "text": "To make transactions less transparent.", "isCorrect": false },
+          { "id": "option_4", "text": "To limit customer confidence in digital payments.", "isCorrect": false }
+        ],
+        "hint": "Trust is essential for safe and smooth digital transactions.",
+        "answerDescription": "Businesses build digital trust through cybersecurity measures, transparent policies, and secure payment systems."
+      },
+      {
+        "id": "leader_3059",
+        "question": "How does augmented reality (AR) enhance customer engagement?",
+        "options": [
+          { "id": "option_1", "text": "By reducing product visualization options.", "isCorrect": false },
+          { "id": "option_2", "text": "By making digital marketing less effective.", "isCorrect": false },
+          { "id": "option_3", "text": "By providing immersive and interactive experiences.", "isCorrect": true },
+          { "id": "option_4", "text": "By limiting customer interaction with digital content.", "isCorrect": false }
+        ],
+        "hint": "AR improves how users interact with products and services.",
+        "answerDescription": "Companies use AR to create engaging marketing campaigns, enhance shopping experiences, and boost brand loyalty."
+      },
+      {
+        "id": "leader_3060",
+        "question": "Why is ethical AI development critical for businesses?",
+        "options": [
+          { "id": "option_1", "text": "To prioritize speed over accuracy.", "isCorrect": false },
+          { "id": "option_2", "text": "To ensure fairness, accountability, and transparency.", "isCorrect": true },
+          { "id": "option_3", "text": "To remove human oversight from AI models.", "isCorrect": false },
+          { "id": "option_4", "text": "To make AI-driven decisions less explainable.", "isCorrect": false }
+        ],
+        "hint": "Ethical AI helps prevent bias and ensures responsible use.",
+        "answerDescription": "Businesses develop AI responsibly by implementing transparency, fairness, and compliance with ethical standards."
+      },
+      {
+        "id": "leader_3061",
+        "question": "How does edge computing support IoT applications?",
+        "options": [
+          { "id": "option_1", "text": "By eliminating the need for cloud storage.", "isCorrect": false },
+          { "id": "option_2", "text": "By increasing dependency on central data centers.", "isCorrect": false },
+          { "id": "option_3", "text": "By making IoT networks slower.", "isCorrect": false },
+          { "id": "option_4", "text": "By processing data closer to the source, reducing latency.", "isCorrect": true }
+        ],
+        "hint": "Edge computing reduces the need for centralized processing.",
+        "answerDescription": "Businesses use edge computing to enhance IoT efficiency, improve response times, and optimize real-time applications."
+      },
+      {
+        "id": "leader_3062",
+        "question": "Why is cybersecurity compliance important in digital businesses?",
+        "options": [
+          { "id": "option_1", "text": "To eliminate the need for security audits.", "isCorrect": false },
+          { "id": "option_2", "text": "To protect sensitive data and meet regulatory standards.", "isCorrect": true },
+          { "id": "option_3", "text": "To reduce customer confidence in online services.", "isCorrect": false },
+          { "id": "option_4", "text": "To make digital systems more vulnerable to threats.", "isCorrect": false }
+        ],
+        "hint": "Compliance ensures data protection and trust.",
+        "answerDescription": "Organizations follow cybersecurity regulations to prevent breaches, maintain trust, and safeguard digital infrastructure."
+      },
+      {
+        "id": "leader_3063",
+        "question": "How does robotic process automation (RPA) improve efficiency?",
+        "options": [
+          { "id": "option_1", "text": "By increasing human workload.", "isCorrect": false },
+          { "id": "option_2", "text": "By making business operations slower.", "isCorrect": false },
+          { "id": "option_3", "text": "By automating repetitive and manual tasks.", "isCorrect": true },
+          { "id": "option_4", "text": "By eliminating the need for digital workflows.", "isCorrect": false }
+        ],
+        "hint": "RPA helps businesses optimize productivity and reduce errors.",
+        "answerDescription": "Companies use RPA to automate high-volume tasks, enhance accuracy, and improve operational efficiency."
+      },
+      {
+        "id": "leader_3064",
+        "question": "How does AI-powered cybersecurity improve threat detection?",
+        "options": [
+          { "id": "option_1", "text": "By identifying and responding to threats in real-time.", "isCorrect": true },
+          { "id": "option_2", "text": "By eliminating the need for encryption.", "isCorrect": false },
+          { "id": "option_3", "text": "By making networks more vulnerable.", "isCorrect": false },
+          { "id": "option_4", "text": "By reducing the accuracy of security protocols.", "isCorrect": false }
+        ],
+        "hint": "AI-driven security systems enhance cyber defense strategies.",
+        "answerDescription": "Organizations use AI cybersecurity tools to detect anomalies, automate threat responses, and improve system security."
+      },
+      {
+        "id": "leader_3065",
+        "question": "Why is a hybrid cloud strategy beneficial for enterprises?",
+        "options": [
+          { "id": "option_1", "text": "To limit access to cloud-based applications.", "isCorrect": false },
+          { "id": "option_2", "text": "To balance flexibility, scalability, and security.", "isCorrect": true },
+          { "id": "option_3", "text": "To reduce system interoperability.", "isCorrect": false },
+          { "id": "option_4", "text": "To make cloud management more complex.", "isCorrect": false }
+        ],
+        "hint": "Hybrid cloud strategies optimize business operations.",
+        "answerDescription": "Enterprises adopt hybrid cloud solutions to integrate private and public cloud benefits for performance and security."
+      },
+      {
+        "id": "leader_3066",
+        "question": "How does data encryption protect digital assets?",
+        "options": [
+          { "id": "option_1", "text": "By converting data into secure, unreadable formats.", "isCorrect": true },
+          { "id": "option_2", "text": "By making data more accessible to unauthorized users.", "isCorrect": false },
+          { "id": "option_3", "text": "By eliminating the need for authentication.", "isCorrect": false },
+          { "id": "option_4", "text": "By reducing cybersecurity measures.", "isCorrect": false }
+        ],
+        "hint": "Encryption safeguards sensitive data from unauthorized access.",
+        "answerDescription": "Organizations use encryption to protect information in transit and at rest, ensuring data security."
+      },
+      {
+        "id": "leader_3067",
+        "question": "Why is real-time data analytics crucial for business intelligence?",
+        "options": [
+          { "id": "option_1", "text": "To slow down business reporting.", "isCorrect": false },
+          { "id": "option_2", "text": "To reduce access to critical data.", "isCorrect": false },
+          { "id": "option_3", "text": "To provide immediate insights for decision-making.", "isCorrect": true },
+          { "id": "option_4", "text": "To eliminate the need for dashboards.", "isCorrect": false }
+        ],
+        "hint": "Real-time analytics enhances data-driven decision-making.",
+        "answerDescription": "Businesses use real-time analytics to track performance, optimize operations, and identify trends instantly."
+      },
+      {
+        "id": "leader_3068",
+        "question": "How does blockchain technology improve supply chain transparency?",
+        "options": [
+          { "id": "option_1", "text": "By reducing visibility into supply chain processes.", "isCorrect": false },
+          { "id": "option_2", "text": "By creating immutable and verifiable transaction records.", "isCorrect": true },
+          { "id": "option_3", "text": "By eliminating tracking capabilities.", "isCorrect": false },
+          { "id": "option_4", "text": "By making inventory management more difficult.", "isCorrect": false }
+        ],
+        "hint": "Blockchain enhances trust and accountability in supply chains.",
+        "answerDescription": "Companies use blockchain to track goods, prevent fraud, and ensure transparency in supply chain operations."
+      },
+      {
+        "id": "leader_3069",
+        "question": "Why is zero-trust security important in modern networks?",
+        "options": [
+          { "id": "option_1", "text": "To allow unrestricted access to all employees.", "isCorrect": false },
+          { "id": "option_2", "text": "To eliminate the need for security monitoring.", "isCorrect": false },
+          { "id": "option_3", "text": "To make systems less secure.", "isCorrect": false },
+          { "id": "option_4", "text": "To verify every user and device before granting access.", "isCorrect": true }
+        ],
+        "hint": "Zero-trust enforces strict authentication policies.",
+        "answerDescription": "Organizations implement zero-trust models to mitigate risks, enhance compliance, and strengthen cybersecurity defenses."
+      },
+      {
+        "id": "leader_3070",
+        "question": "How does cloud-native development benefit software applications?",
+        "options": [
+          { "id": "option_1", "text": "By making application maintenance harder.", "isCorrect": false },
+          { "id": "option_2", "text": "By reducing innovation in cloud computing.", "isCorrect": false },
+          { "id": "option_3", "text": "By improving scalability, performance, and deployment speed.", "isCorrect": true },
+          { "id": "option_4", "text": "By limiting flexibility in software updates.", "isCorrect": false }
+        ],
+        "hint": "Cloud-native applications offer high agility and efficiency.",
+        "answerDescription": "Businesses adopt cloud-native development to enhance software resilience, scalability, and continuous integration."
+      },
+      {
+        "id": "laissez_3071",
+        "question": "What is the main characteristic of laissez-faire leadership?",
+        "options": [
+          { "id": "option_1", "text": "Closely monitoring and controlling employees’ work.", "isCorrect": false },
+          { "id": "option_2", "text": "Giving employees autonomy to make decisions.", "isCorrect": true },
+          { "id": "option_3", "text": "Making all decisions without team input.", "isCorrect": false },
+          { "id": "option_4", "text": "Focusing only on financial performance.", "isCorrect": false }
+        ],
+        "hint": "Laissez-faire leadership allows employees more freedom in their work.",
+        "answerDescription": "A laissez-faire leader provides minimal supervision and encourages team members to take ownership of their tasks."
+      },
+      {
+        "id": "laissez_3072",
+        "question": "In which type of work environment is laissez-faire leadership most effective?",
+        "options": [
+          { "id": "option_1", "text": "When employees require constant supervision.", "isCorrect": false },
+          { "id": "option_2", "text": "In high-risk industries where strict control is necessary.", "isCorrect": false },
+          { "id": "option_3", "text": "When employees are highly skilled and self-motivated.", "isCorrect": true },
+          { "id": "option_4", "text": "When quick, top-down decisions are required.", "isCorrect": false }
+        ],
+        "hint": "Laissez-faire leadership works best when employees are independent and skilled.",
+        "answerDescription": "This leadership style is most successful in creative and knowledge-based industries where employees thrive with autonomy."
+      },
+      {
+        "id": "laissez_3073",
+        "question": "Which industry is best suited for laissez-faire leadership?",
+        "options": [
+          { "id": "option_1", "text": "Creative fields like design and advertising.", "isCorrect": true },
+          { "id": "option_2", "text": "Military and emergency services.", "isCorrect": false },
+          { "id": "option_3", "text": "Fast-food chains and manufacturing.", "isCorrect": false },
+          { "id": "option_4", "text": "Call centers with strict protocols.", "isCorrect": false }
+        ],
+        "hint": "Laissez-faire leadership is effective where creativity and independence are valued.",
+        "answerDescription": "Industries that rely on innovation, such as technology and media, benefit from a hands-off leadership approach."
+      },
+      {
+        "id": "laissez_3074",
+        "question": "How can a laissez-faire leader support their team effectively?",
+        "options": [
+          { "id": "option_1", "text": "By closely supervising every task.", "isCorrect": false },
+          { "id": "option_2", "text": "By making all major decisions without consulting the team.", "isCorrect": false },
+          { "id": "option_3", "text": "By providing necessary resources and trusting employees to perform.", "isCorrect": true },
+          { "id": "option_4", "text": "By limiting employee involvement in strategic discussions.", "isCorrect": false }
+        ],
+        "hint": "Laissez-faire leaders empower their employees rather than micromanage them.",
+        "answerDescription": "Successful laissez-faire leaders provide support while allowing employees to make independent decisions."
+      },
+      {
+        "id": "laissez_3075",
+        "question": "What is a key strength of laissez-faire leadership?",
+        "options": [
+          { "id": "option_1", "text": "Ensures strict compliance with company policies.", "isCorrect": false },
+          { "id": "option_2", "text": "Encourages innovation and self-reliance.", "isCorrect": true },
+          { "id": "option_3", "text": "Limits employees’ decision-making power.", "isCorrect": false },
+          { "id": "option_4", "text": "Reduces communication between leadership and employees.", "isCorrect": false }
+        ],
+        "hint": "Laissez-faire leadership fosters creativity and independence.",
+        "answerDescription": "This leadership style allows employees to explore new ideas and take ownership of their projects."
+      },
+      {
+        "id": "laissez_3076",
+        "question": "Which statement best describes laissez-faire leadership?",
+        "options": [
+          { "id": "option_1", "text": "Leaders closely monitor all activities.", "isCorrect": false },
+          { "id": "option_2", "text": "Leaders make all decisions with little input from employees.", "isCorrect": false },
+          { "id": "option_3", "text": "Leaders enforce strict rules and regulations.", "isCorrect": false },
+          { "id": "option_4", "text": "Leaders delegate authority and trust employees to manage themselves.", "isCorrect": true }
+        ],
+        "hint": "Laissez-faire leadership focuses on autonomy rather than control.",
+        "answerDescription": "In this approach, leaders provide minimal supervision and allow employees to make their own decisions."
+      },
+      {
+        "id": "leader_3077",
+        "question": "How does ethical leadership impact employee morale?",
+        "options": [
+          { "id": "option_1", "text": "It reduces engagement and trust in leadership.", "isCorrect": false },
+          { "id": "option_2", "text": "It increases motivation and job satisfaction.", "isCorrect": true },
+          { "id": "option_3", "text": "It creates an atmosphere of fear and uncertainty.", "isCorrect": false },
+          { "id": "option_4", "text": "It prioritizes short-term gains over employee well-being.", "isCorrect": false }
+        ],
+        "hint": "Employees perform better when they feel valued and respected.",
+        "answerDescription": "Ethical leadership encourages a culture of fairness and respect, leading to improved morale and job satisfaction."
+      },
+      {
+        "id": "leader_3078",
+        "question": "What is a key principle of ethical leadership?",
+        "options": [
+          { "id": "option_1", "text": "Focusing solely on achieving business targets.", "isCorrect": false },
+          { "id": "option_2", "text": "Prioritizing self-interest over team success.", "isCorrect": false },
+          { "id": "option_3", "text": "Making decisions based on honesty and fairness.", "isCorrect": true },
+          { "id": "option_4", "text": "Avoiding responsibility for difficult decisions.", "isCorrect": false }
+        ],
+        "hint": "Ethical leaders prioritize integrity in decision-making.",
+        "answerDescription": "An ethical leader ensures transparency, fairness, and accountability in all actions and decisions."
+      },
+      {
+        "id": "leader_3079",
+        "question": "How do ethical leaders handle conflicts of interest?",
+        "options": [
+          { "id": "option_1", "text": "By ignoring them to avoid difficult conversations.", "isCorrect": false },
+          { "id": "option_2", "text": "By addressing them transparently and fairly.", "isCorrect": true },
+          { "id": "option_3", "text": "By making decisions based on personal gain.", "isCorrect": false },
+          { "id": "option_4", "text": "By keeping conflicts hidden from employees.", "isCorrect": false }
+        ],
+        "hint": "Ethical leadership requires openness and integrity in all matters.",
+        "answerDescription": "Leaders must manage conflicts of interest responsibly to maintain trust and credibility."
+      },
+      {
+        "id": "leader_3080",
+        "question": "Why is transparency a crucial aspect of ethical leadership?",
+        "options": [
+          { "id": "option_1", "text": "It builds trust and accountability.", "isCorrect": true },
+          { "id": "option_2", "text": "It allows leaders to hide information when necessary.", "isCorrect": false },
+          { "id": "option_3", "text": "It prevents employees from questioning decisions.", "isCorrect": false },
+          { "id": "option_4", "text": "It reduces the need for clear communication.", "isCorrect": false }
+        ],
+        "hint": "Trust is the foundation of ethical leadership.",
+        "answerDescription": "Transparent leaders openly share information, fostering a culture of honesty and mutual respect."
+      },
+      {
+        "id": "leader_3081",
+        "question": "How does ethical leadership influence organizational reputation?",
+        "options": [
+          { "id": "option_1", "text": "It has no impact on how stakeholders perceive the organization.", "isCorrect": false },
+          { "id": "option_2", "text": "It reduces the need for corporate social responsibility.", "isCorrect": false },
+          { "id": "option_3", "text": "It enhances credibility and public trust.", "isCorrect": true },
+          { "id": "option_4", "text": "It allows unethical practices to go unnoticed.", "isCorrect": false }
+        ],
+        "hint": "Ethical leadership strengthens an organization's public image.",
+        "answerDescription": "Organizations led by ethical leaders gain a reputation for integrity, attracting customers and investors."
+      },
+      {
+        "id": "leader_3082",
+        "question": "What is one way ethical leaders encourage ethical behavior in employees?",
+        "options": [
+          { "id": "option_1", "text": "By allowing unethical behavior to go unaddressed.", "isCorrect": false },
+          { "id": "option_2", "text": "By setting a strong example of integrity and honesty.", "isCorrect": true },
+          { "id": "option_3", "text": "By focusing only on financial outcomes.", "isCorrect": false },
+          { "id": "option_4", "text": "By disregarding company values.", "isCorrect": false }
+        ],
+        "hint": "Employees follow the ethical standards set by their leaders.",
+        "answerDescription": "Ethical leaders model good behavior, creating a workplace culture of honesty and accountability."
+      },
+      {
+        "id": "leader_3083",
+        "question": "How do ethical leaders handle difficult decisions?",
+        "options": [
+          { "id": "option_1", "text": "By considering fairness, integrity, and the impact on stakeholders.", "isCorrect": true },
+          { "id": "option_2", "text": "By prioritizing personal gain over ethical concerns.", "isCorrect": false },
+          { "id": "option_3", "text": "By avoiding responsibility and shifting blame.", "isCorrect": false },
+          { "id": "option_4", "text": "By making decisions without consulting others.", "isCorrect": false }
+        ],
+        "hint": "Ethical leaders consider the broader impact of their decisions.",
+        "answerDescription": "An ethical leader ensures that difficult decisions align with core values and principles, benefiting both employees and stakeholders."
+      },
+      {
+        "id": "leader_3084",
+        "question": "Why is consistency important in ethical leadership?",
+        "options": [
+          { "id": "option_1", "text": "It allows leaders to change rules as needed for personal benefit.", "isCorrect": false },
+          { "id": "option_2", "text": "It builds trust and reliability among employees.", "isCorrect": true },
+          { "id": "option_3", "text": "It reduces the importance of ethical standards.", "isCorrect": false },
+          { "id": "option_4", "text": "It makes leadership less accountable.", "isCorrect": false }
+        ],
+        "hint": "Consistency in actions reinforces ethical expectations.",
+        "answerDescription": "Employees are more likely to follow ethical guidelines when they see consistent ethical behavior from leadership."
+      },
+      {
+        "id": "leader_3085",
+        "question": "What is a fundamental trait of ethical leadership?",
+        "options": [
+          { "id": "option_1", "text": "Focusing only on short-term profits.", "isCorrect": false },
+          { "id": "option_2", "text": "Ignoring the concerns of employees.", "isCorrect": false },
+          { "id": "option_3", "text": "Integrity and honesty in all actions.", "isCorrect": true },
+          { "id": "option_4", "text": "Avoiding responsibility for ethical decisions.", "isCorrect": false }
+        ],
+        "hint": "Ethical leaders prioritize honesty and fairness.",
+        "answerDescription": "Integrity is the foundation of ethical leadership, ensuring trust and credibility in decision-making."
+      },
+      {
+        "id": "leader_3086",
+        "question": "How can ethical leaders promote a positive workplace culture?",
+        "options": [
+          { "id": "option_1", "text": "By discouraging employee feedback.", "isCorrect": false },
+          { "id": "option_2", "text": "By fostering open communication and respect.", "isCorrect": true },
+          { "id": "option_3", "text": "By prioritizing competition over collaboration.", "isCorrect": false },
+          { "id": "option_4", "text": "By enforcing strict hierarchies without employee input.", "isCorrect": false }
+        ],
+        "hint": "A positive culture thrives on trust and mutual respect.",
+        "answerDescription": "Ethical leaders encourage a work environment where employees feel valued, heard, and supported."
+      },
+      {
+        "id": "leader_3087",
+        "question": "What role does accountability play in ethical leadership?",
+        "options": [
+          { "id": "option_1", "text": "It ensures leaders take responsibility for their actions.", "isCorrect": true },
+          { "id": "option_2", "text": "It allows leaders to shift blame onto others.", "isCorrect": false },
+          { "id": "option_3", "text": "It minimizes the need for transparency.", "isCorrect": false },
+          { "id": "option_4", "text": "It removes the obligation for ethical decision-making.", "isCorrect": false }
+        ],
+        "hint": "Being accountable reinforces ethical standards.",
+        "answerDescription": "Leaders who accept responsibility for their actions foster trust and integrity within their organizations."
+      },
+      {
+        "id": "leader_3088",
+        "question": "How do ethical leaders handle unethical behavior in the workplace?",
+        "options": [
+          { "id": "option_1", "text": "By ignoring it to avoid confrontation.", "isCorrect": false },
+          { "id": "option_2", "text": "By allowing unethical behavior to continue unchecked.", "isCorrect": false },
+          { "id": "option_3", "text": "By covering up ethical violations.", "isCorrect": false },
+          { "id": "option_4", "text": "By addressing it directly and enforcing ethical policies.", "isCorrect": true }
+        ],
+        "hint": "Ethical leaders take action to maintain workplace integrity.",
+        "answerDescription": "A strong ethical leader ensures that misconduct is dealt with fairly and appropriately."
+      },
+      {
+        "id": "leader_3089",
+        "question": "Why is ethical training important for leaders and employees?",
+        "options": [
+          { "id": "option_1", "text": "To reduce the importance of ethical considerations.", "isCorrect": false },
+          { "id": "option_2", "text": "To justify unethical decision-making.", "isCorrect": false },
+          { "id": "option_3", "text": "To reinforce ethical standards and expectations.", "isCorrect": true },
+          { "id": "option_4", "text": "To allow for personal interpretation of company policies.", "isCorrect": false }
+        ],
+        "hint": "Training ensures that all employees understand ethical policies.",
+        "answerDescription": "Regular ethics training helps employees and leaders make informed and responsible decisions."
+      },
+      {
+        "id": "leader_3090",
+        "question": "How can ethical leaders promote diversity and inclusion?",
+        "options": [
+          { "id": "option_1", "text": "By fostering a culture of respect and equal opportunities.", "isCorrect": true },
+          { "id": "option_2", "text": "By hiring only people with similar backgrounds.", "isCorrect": false },
+          { "id": "option_3", "text": "By avoiding discussions about inclusion.", "isCorrect": false },
+          { "id": "option_4", "text": "By prioritizing profit over workplace diversity.", "isCorrect": false }
+        ],
+        "hint": "Inclusive workplaces value diverse perspectives.",
+        "answerDescription": "Ethical leaders ensure a diverse and inclusive work environment by promoting fairness and respect."
+      },
+      {
+        "id": "leader_3091",
+        "question": "Why is ethical leadership essential for crisis management?",
+        "options": [
+          { "id": "option_1", "text": "It encourages secrecy and misinformation.", "isCorrect": false },
+          { "id": "option_2", "text": "It allows leaders to shift blame onto employees.", "isCorrect": false },
+          { "id": "option_3", "text": "It ensures transparency, trust, and responsible decision-making.", "isCorrect": true },
+          { "id": "option_4", "text": "It prioritizes short-term solutions over ethical considerations.", "isCorrect": false }
+        ],
+        "hint": "Ethical leaders act with integrity during crises.",
+        "answerDescription": "During a crisis, ethical leadership helps organizations navigate challenges with honesty and accountability."
+      },
+      {
+        "id": "leader_3092",
+        "question": "How do ethical leaders handle employee concerns?",
+        "options": [
+          { "id": "option_1", "text": "By ignoring concerns to maintain authority.", "isCorrect": false },
+          { "id": "option_2", "text": "By listening actively and addressing issues fairly.", "isCorrect": true },
+          { "id": "option_3", "text": "By discouraging employees from raising issues.", "isCorrect": false },
+          { "id": "option_4", "text": "By dismissing complaints as unimportant.", "isCorrect": false }
+        ],
+        "hint": "Employees need to feel heard and supported.",
+        "answerDescription": "Ethical leaders create a culture where employee concerns are taken seriously and addressed appropriately."
+      },
+      {
+        "id": "leader_3093",
+        "question": "What is the relationship between ethical leadership and corporate social responsibility (CSR)?",
+        "options": [
+          { "id": "option_1", "text": "CSR is unrelated to leadership ethics.", "isCorrect": false },
+          { "id": "option_2", "text": "Ethical leaders focus only on internal policies, not CSR.", "isCorrect": false },
+          { "id": "option_3", "text": "CSR initiatives are only for public image, not ethics.", "isCorrect": false },
+          { "id": "option_4", "text": "Ethical leadership drives CSR by prioritizing sustainability and social impact.", "isCorrect": true }
+        ],
+        "hint": "CSR reflects a company’s commitment to ethical practices.",
+        "answerDescription": "Ethical leaders support CSR initiatives that benefit the community, environment, and stakeholders."
+      },
+      {
+        "id": "leader_3094",
+        "question": "How do ethical leaders handle confidential information?",
+        "options": [
+          { "id": "option_1", "text": "By sharing confidential details for personal gain.", "isCorrect": false },
+          { "id": "option_2", "text": "By disregarding data security protocols.", "isCorrect": false },
+          { "id": "option_3", "text": "By protecting privacy and using information responsibly.", "isCorrect": true },
+          { "id": "option_4", "text": "By leaking information to gain competitive advantages.", "isCorrect": false }
+        ],
+        "hint": "Confidentiality is a key ethical responsibility.",
+        "answerDescription": "Ethical leaders uphold trust by safeguarding private and sensitive information."
+      },
+      {
+        "id": "leader_3095",
+        "question": "What is the impact of ethical leadership on employee retention?",
+        "options": [
+          { "id": "option_1", "text": "It increases loyalty and reduces turnover.", "isCorrect": true },
+          { "id": "option_2", "text": "It has no effect on employee satisfaction.", "isCorrect": false },
+          { "id": "option_3", "text": "It discourages long-term commitment from employees.", "isCorrect": false },
+          { "id": "option_4", "text": "It leads to higher resignation rates.", "isCorrect": false }
+        ],
+        "hint": "Employees value ethical workplaces.",
+        "answerDescription": "Organizations with ethical leadership see higher retention rates as employees feel valued and respected."
+      },
+      {
+        "id": "leader_3096",
+        "question": "How do ethical leaders respond to unethical behavior in the workplace?",
+        "options": [
+          { "id": "option_1", "text": "By ignoring misconduct to avoid conflict.", "isCorrect": false },
+          { "id": "option_2", "text": "By taking corrective action and reinforcing ethical policies.", "isCorrect": true },
+          { "id": "option_3", "text": "By allowing unethical behavior to continue unchecked.", "isCorrect": false },
+          { "id": "option_4", "text": "By rewarding unethical practices for short-term gains.", "isCorrect": false }
+        ],
+        "hint": "Unethical actions must be addressed to maintain integrity.",
+        "answerDescription": "Ethical leaders ensure that misconduct is addressed fairly to maintain a culture of honesty."
+      },
+      {
+        "id": "leader_3098",
+        "question": "Why is fairness a key aspect of ethical leadership?",
+        "options": [
+          { "id": "option_1", "text": "It allows favoritism to influence decision-making.", "isCorrect": false },
+          { "id": "option_2", "text": "It reduces the need for ethical policies.", "isCorrect": false },
+          { "id": "option_3", "text": "It prioritizes some employees over others unfairly.", "isCorrect": false },
+          { "id": "option_4", "text": "It promotes equality and justice within the organization.", "isCorrect": true }
+        ],
+        "hint": "Fair leaders treat all employees with respect and equality.",
+        "answerDescription": "An ethical leader applies rules and decisions consistently to ensure fairness and trust."
+      },
+      {
+        "id": "leader_3099",
+        "question": "How do ethical leaders build trust within their teams?",
+        "options": [
+          { "id": "option_1", "text": "By withholding information from employees.", "isCorrect": false },
+          { "id": "option_2", "text": "By being transparent, honest, and consistent in their actions.", "isCorrect": true },
+          { "id": "option_3", "text": "By making decisions based solely on personal gain.", "isCorrect": false },
+          { "id": "option_4", "text": "By ignoring employee concerns and feedback.", "isCorrect": false }
+        ],
+        "hint": "Trust is built through open communication and integrity.",
+        "answerDescription": "Ethical leaders earn trust by demonstrating reliability, honesty, and transparency in decision-making."
+      },
+      {
+        "id": "leader_3100",
+        "question": "Why is ethical decision-making important in leadership?",
+        "options": [
+          { "id": "option_1", "text": "It allows leaders to prioritize personal gain.", "isCorrect": false },
+          { "id": "option_2", "text": "It reduces the need for accountability.", "isCorrect": false },
+          { "id": "option_3", "text": "It ensures fairness and long-term success for the organization.", "isCorrect": true },
+          { "id": "option_4", "text": "It eliminates the importance of stakeholder interests.", "isCorrect": false }
+        ],
+        "hint": "Ethical decision-making supports organizational integrity and sustainability.",
+        "answerDescription": "Leaders who prioritize ethics create a culture of fairness, responsibility, and long-term success."
+      },
+      {
+        "id": "leader_3101",
+        "question": "How do ethical leaders encourage ethical behavior in employees?",
+        "options": [
+          { "id": "option_1", "text": "By ignoring unethical behavior if it benefits the company.", "isCorrect": false },
+          { "id": "option_2", "text": "By avoiding discussions about ethical concerns.", "isCorrect": false },
+          { "id": "option_3", "text": "By rewarding unethical actions for short-term gains.", "isCorrect": false },
+          { "id": "option_4", "text": "By setting an example and reinforcing ethical policies.", "isCorrect": true }
+        ],
+        "hint": "Employees follow the ethical standards set by their leaders.",
+        "answerDescription": "Ethical leaders lead by example, fostering a workplace culture of integrity and accountability."
+      },
+      {
+        "id": "leader_3102",
+        "question": "What is the role of empathy in ethical leadership?",
+        "options": [
+          { "id": "option_1", "text": "It reduces the need for ethical considerations.", "isCorrect": false },
+          { "id": "option_2", "text": "It helps leaders understand and support their employees' needs.", "isCorrect": true },
+          { "id": "option_3", "text": "It allows leaders to make decisions based solely on profits.", "isCorrect": false },
+          { "id": "option_4", "text": "It discourages open communication.", "isCorrect": false }
+        ],
+        "hint": "Empathy fosters a culture of respect and ethical decision-making.",
+        "answerDescription": "Leaders who practice empathy build strong relationships and create inclusive, ethical workplaces."
+      },
+      {
+        "id": "leader_3103",
+        "question": "Why is accountability a core value in ethical leadership?",
+        "options": [
+          { "id": "option_1", "text": "It ensures that leaders take responsibility for their actions.", "isCorrect": true },
+          { "id": "option_2", "text": "It allows leaders to avoid consequences for unethical decisions.", "isCorrect": false },
+          { "id": "option_3", "text": "It reduces the importance of ethical guidelines.", "isCorrect": false },
+          { "id": "option_4", "text": "It encourages shifting blame onto others.", "isCorrect": false }
+        ],
+        "hint": "Accountability strengthens ethical leadership and trust.",
+        "answerDescription": "When leaders take responsibility for their decisions, they create a culture of integrity and trustworthiness."
+      },
+      {
+        "id": "leader_3104",
+        "question": "How does ethical leadership influence company reputation?",
+        "options": [
+          { "id": "option_1", "text": "It has no impact on how stakeholders perceive the company.", "isCorrect": false },
+          { "id": "option_2", "text": "It allows for unethical practices to remain unnoticed.", "isCorrect": false },
+          { "id": "option_3", "text": "It builds public trust and strengthens brand image.", "isCorrect": true },
+          { "id": "option_4", "text": "It reduces customer confidence in business ethics.", "isCorrect": false }
+        ],
+        "hint": "Ethical leadership enhances a company’s credibility.",
+        "answerDescription": "A strong ethical foundation in leadership improves public trust and maintains a company’s positive reputation."
+      },
+      {
+        "id": "leader_3105",
+        "question": "What is one way ethical leaders manage conflicts of interest?",
+        "options": [
+          { "id": "option_1", "text": "By prioritizing personal gain over ethical concerns.", "isCorrect": false },
+          { "id": "option_2", "text": "By addressing conflicts openly and fairly.", "isCorrect": true },
+          { "id": "option_3", "text": "By making decisions that benefit only select individuals.", "isCorrect": false },
+          { "id": "option_4", "text": "By hiding conflicts from stakeholders.", "isCorrect": false }
+        ],
+        "hint": "Transparency is key in managing conflicts of interest.",
+        "answerDescription": "Ethical leaders ensure conflicts of interest are disclosed and handled in a fair and transparent manner."
+      },
+      {
+        "id": "leader_3106",
+        "question": "How does ethical leadership influence workplace culture?",
+        "options": [
+          { "id": "option_1", "text": "It fosters a culture of integrity and accountability.", "isCorrect": true },
+          { "id": "option_2", "text": "It reduces employee motivation and engagement.", "isCorrect": false },
+          { "id": "option_3", "text": "It encourages unethical behavior for short-term gains.", "isCorrect": false },
+          { "id": "option_4", "text": "It prioritizes financial results over ethics.", "isCorrect": false }
+        ],
+        "hint": "Ethical leadership shapes a positive work environment.",
+        "answerDescription": "A leader’s ethical behavior sets the tone for an organization’s culture, encouraging fairness and respect."
+      },
+      {
+        "id": "leader_3107",
+        "question": "What is the role of fairness in ethical leadership?",
+        "options": [
+          { "id": "option_1", "text": "It allows favoritism in decision-making.", "isCorrect": false },
+          { "id": "option_2", "text": "It reduces the need for clear policies.", "isCorrect": false },
+          { "id": "option_3", "text": "It ensures equal treatment of employees and stakeholders.", "isCorrect": true },
+          { "id": "option_4", "text": "It prioritizes profits over employee well-being.", "isCorrect": false }
+        ],
+        "hint": "Fair leaders treat everyone with respect and justice.",
+        "answerDescription": "Fairness in leadership fosters trust, reduces conflicts, and promotes a positive work environment."
+      },
+      {
+        "id": "leader_3108",
+        "question": "How does ethical leadership support long-term business success?",
+        "options": [
+          { "id": "option_1", "text": "By cutting ethical corners for short-term gains.", "isCorrect": false },
+          { "id": "option_2", "text": "By building trust and maintaining a strong reputation.", "isCorrect": true },
+          { "id": "option_3", "text": "By reducing focus on ethical business practices.", "isCorrect": false },
+          { "id": "option_4", "text": "By making decisions without considering stakeholders.", "isCorrect": false }
+        ],
+        "hint": "Sustainable success is built on ethical foundations.",
+        "answerDescription": "Companies led by ethical leaders tend to have loyal customers, engaged employees, and long-term growth."
+      },
+      {
+        "id": "leader_3109",
+        "question": "What is the primary focus of transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Maintaining structure, order, and performance through rewards and punishments.", "isCorrect": true },
+          { "id": "option_2", "text": "Inspiring employees to achieve long-term goals through vision.", "isCorrect": false },
+          { "id": "option_3", "text": "Encouraging complete autonomy without supervision.", "isCorrect": false },
+          { "id": "option_4", "text": "Focusing only on employee well-being without concern for productivity.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership relies on structured policies and clear rewards or consequences.",
+        "answerDescription": "Transactional leadership is focused on maintaining order and performance by setting clear expectations and using rewards or punishments to drive results."
+      },
+      {
+        "id": "leader_3110",
+        "question": "How do transactional leaders typically motivate their employees?",
+        "options": [
+          { "id": "option_1", "text": "By giving employees complete freedom with no oversight.", "isCorrect": false },
+          { "id": "option_2", "text": "By building emotional connections and personal relationships.", "isCorrect": false },
+          { "id": "option_3", "text": "By offering rewards for good performance and consequences for poor performance.", "isCorrect": true },
+          { "id": "option_4", "text": "By focusing only on the future vision and long-term goals.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership is based on a structured system of rewards and punishments.",
+        "answerDescription": "Transactional leaders use performance-based rewards and disciplinary actions to ensure employees meet expectations and achieve goals."
+      },
+      {
+        "id": "leader_3111",
+        "question": "Which of the following is a key characteristic of transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Encouraging creativity and innovation over structured processes.", "isCorrect": false },
+          { "id": "option_2", "text": "Setting clear goals, rules, and performance expectations.", "isCorrect": true },
+          { "id": "option_3", "text": "Allowing employees to work without direct supervision.", "isCorrect": false },
+          { "id": "option_4", "text": "Focusing on personal development rather than productivity.", "isCorrect": false }
+        ],
+        "hint": "Transactional leaders emphasize structure and clear expectations.",
+        "answerDescription": "A key trait of transactional leadership is the establishment of clear expectations, performance monitoring, and adherence to set rules and guidelines."
+      },
+      {
+        "id": "leader_3112",
+        "question": "How do transactional leaders handle decision-making?",
+        "options": [
+          { "id": "option_1", "text": "By involving employees in every decision-making process.", "isCorrect": false },
+          { "id": "option_2", "text": "By focusing entirely on emotional intelligence and personal relationships.", "isCorrect": false },
+          { "id": "option_3", "text": "By avoiding making decisions to maintain harmony.", "isCorrect": false },
+          { "id": "option_4", "text": "By making decisions based on established policies and structures.", "isCorrect": true }
+        ],
+        "hint": "Transactional leaders follow established policies to maintain order.",
+        "answerDescription": "Transactional leaders rely on structured policies and rules when making decisions, ensuring consistency and efficiency in operations."
+      },
+      {
+        "id": "leader_3113",
+        "question": "What is a potential disadvantage of transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "It lacks structure and creates confusion.", "isCorrect": false },
+          { "id": "option_2", "text": "It may discourage creativity and innovation.", "isCorrect": true },
+          { "id": "option_3", "text": "It does not focus on performance or efficiency.", "isCorrect": false },
+          { "id": "option_4", "text": "It relies solely on personal connections rather than rules.", "isCorrect": false }
+        ],
+        "hint": "Because it emphasizes structure, transactional leadership can sometimes limit creativity.",
+        "answerDescription": "Transactional leadership prioritizes rules and processes, which can reduce flexibility and discourage innovative thinking among employees."
+      },
+      {
+        "id": "leader_3114",
+        "question": "In what type of environment is transactional leadership most effective?",
+        "options": [
+          { "id": "option_1", "text": "In highly creative and innovative workplaces.", "isCorrect": false },
+          { "id": "option_2", "text": "In start-up companies where rules are constantly changing.", "isCorrect": false },
+          { "id": "option_3", "text": "In structured environments with clear roles and expectations.", "isCorrect": true },
+          { "id": "option_4", "text": "In companies where employee autonomy is the top priority.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership works best in structured and rule-based settings.",
+        "answerDescription": "This leadership style is most effective in organizations with clearly defined roles and structured workflows, such as the military or corporate management."
+      },
+      {
+        "id": "leader_3115",
+        "question": "What is the main difference between transactional and transformational leadership?",
+        "options": [
+          { "id": "option_1", "text": "Transactional leadership is focused on rules and structure, while transformational leadership focuses on vision and motivation.", "isCorrect": true },
+          { "id": "option_2", "text": "Transactional leadership emphasizes personal relationships, while transformational leadership follows strict policies.", "isCorrect": false },
+          { "id": "option_3", "text": "Transformational leadership is only used in startups, while transactional leadership is for corporations.", "isCorrect": false },
+          { "id": "option_4", "text": "Both styles are identical and used interchangeably.", "isCorrect": false }
+        ],
+        "hint": "One focuses on structure, while the other inspires change.",
+        "answerDescription": "Transactional leadership enforces structure, rules, and performance incentives, while transformational leadership focuses on inspiring employees and driving long-term change."
+      },
+      {
+        "id": "leader_3116",
+        "question": "Which of the following best describes a transactional leader?",
+        "options": [
+          { "id": "option_1", "text": "A leader who inspires employees through a shared vision and long-term goals.", "isCorrect": false },
+          { "id": "option_2", "text": "A leader who enforces rules, rewards good performance, and punishes poor performance.", "isCorrect": true },
+          { "id": "option_3", "text": "A leader who focuses solely on employee happiness without concern for productivity.", "isCorrect": false },
+          { "id": "option_4", "text": "A leader who avoids direct involvement and lets employees make all decisions.", "isCorrect": false }
+        ],
+        "hint": "Transactional leaders emphasize rules and performance-based rewards or consequences.",
+        "answerDescription": "A transactional leader uses rewards and punishments to manage employee performance, focusing on efficiency and adherence to structured policies."
+      },
+      {
+        "id": "leader_3117",
+        "question": "What is the primary goal of a transactional leader?",
+        "options": [
+          { "id": "option_1", "text": "To inspire innovation and long-term vision.", "isCorrect": false },
+          { "id": "option_2", "text": "To encourage complete employee autonomy without supervision.", "isCorrect": false },
+          { "id": "option_3", "text": "To maintain stability and efficiency through structured processes.", "isCorrect": true },
+          { "id": "option_4", "text": "To create personal relationships with every employee.", "isCorrect": false }
+        ],
+        "hint": "Transactional leaders focus on stability, structure, and efficiency.",
+        "answerDescription": "A transactional leader aims to maintain stability and efficiency by enforcing clear processes, rules, and expectations."
+      },
+      {
+        "id": "leader_3118",
+        "question": "Which of the following best describes the leadership style of a transactional leader?",
+        "options": [
+          { "id": "option_1", "text": "Encouraging creativity and risk-taking.", "isCorrect": false },
+          { "id": "option_2", "text": "Providing clear guidelines and rewarding performance.", "isCorrect": true },
+          { "id": "option_3", "text": "Fostering an informal work environment with little oversight.", "isCorrect": false },
+          { "id": "option_4", "text": "Avoiding direct involvement in employee performance.", "isCorrect": false }
+        ],
+        "hint": "Transactional leaders provide structure and reward performance.",
+        "answerDescription": "Transactional leaders focus on clear guidelines, structured processes, and performance-based rewards or consequences."
+      },
+      {
+        "id": "leader_3119",
+        "question": "How do transactional leaders handle employee performance?",
+        "options": [
+          { "id": "option_1", "text": "By setting clear performance metrics and rewarding or punishing accordingly.", "isCorrect": true },
+          { "id": "option_2", "text": "By encouraging employees to take risks and innovate.", "isCorrect": false },
+          { "id": "option_3", "text": "By giving employees full autonomy with no supervision.", "isCorrect": false },
+          { "id": "option_4", "text": "By prioritizing employee relationships over efficiency.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership uses a reward-and-punishment system to manage performance.",
+        "answerDescription": "A transactional leader ensures employees meet performance standards by providing incentives for success and consequences for failure."
+      },
+      {
+        "id": "leader_3120",
+        "question": "What type of organizations benefit the most from transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Creative and flexible startups.", "isCorrect": false },
+          { "id": "option_2", "text": "Large corporations with structured workflows.", "isCorrect": true },
+          { "id": "option_3", "text": "Companies that avoid strict policies and processes.", "isCorrect": false },
+          { "id": "option_4", "text": "Teams that prioritize innovation over efficiency.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership is effective in structured, rule-based environments.",
+        "answerDescription": "Large corporations and highly regulated industries benefit from transactional leadership because it ensures compliance, order, and efficiency."
+      },
+      {
+        "id": "leader_3121",
+        "question": "Which of the following is NOT a characteristic of transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Strict adherence to rules and policies.", "isCorrect": false },
+          { "id": "option_2", "text": "Providing clear rewards and punishments.", "isCorrect": false },
+          { "id": "option_3", "text": "Encouraging employee creativity and innovation over structure.", "isCorrect": true },
+          { "id": "option_4", "text": "Focusing on maintaining order and efficiency.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership prioritizes structure and efficiency over innovation.",
+        "answerDescription": "Transactional leadership focuses on enforcing rules and efficiency, while creativity and innovation are more associated with transformational leadership."
+      },
+      {
+        "id": "leader_3122",
+        "question": "What is the primary decision-making approach of a transactional leader?",
+        "options": [
+          { "id": "option_1", "text": "Making decisions based on a long-term vision and innovation.", "isCorrect": false },
+          { "id": "option_2", "text": "Following established policies and standard procedures.", "isCorrect": true },
+          { "id": "option_3", "text": "Encouraging employees to make independent decisions.", "isCorrect": false },
+          { "id": "option_4", "text": "Making decisions based purely on emotional intelligence.", "isCorrect": false }
+        ],
+        "hint": "Transactional leaders rely on rules and structure when making decisions.",
+        "answerDescription": "Transactional leaders make decisions by following established procedures and policies, ensuring consistency and efficiency."
+      },
+      {
+        "id": "leader_3123",
+        "question": "What is one of the main criticisms of transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "It allows too much employee freedom.", "isCorrect": false },
+          { "id": "option_2", "text": "It focuses too much on emotional leadership.", "isCorrect": false },
+          { "id": "option_3", "text": "It lacks structure and organization.", "isCorrect": false },
+          { "id": "option_4", "text": "It can limit innovation and creativity.", "isCorrect": true }
+        ],
+        "hint": "Because of its focus on rules and efficiency, it may reduce innovation.",
+        "answerDescription": "One major criticism of transactional leadership is that it focuses heavily on rules and structure, sometimes stifling creativity and innovation."
+      },
+      {
+        "id": "leader_3124",
+        "question": "How does transactional leadership handle conflict resolution?",
+        "options": [
+          { "id": "option_1", "text": "By allowing employees to work out conflicts on their own.", "isCorrect": false },
+          { "id": "option_2", "text": "By strictly following organizational policies and disciplinary procedures.", "isCorrect": true },
+          { "id": "option_3", "text": "By using emotional intelligence and personal relationships.", "isCorrect": false },
+          { "id": "option_4", "text": "By avoiding conflicts to maintain harmony.", "isCorrect": false }
+        ],
+        "hint": "Transactional leaders rely on predefined rules to resolve conflicts.",
+        "answerDescription": "Transactional leaders resolve conflicts through established policies and disciplinary procedures rather than personal judgment or flexibility."
+      },
+      {
+        "id": "leader_3125",
+        "question": "Which of the following leaders would most likely follow a transactional leadership approach?",
+        "options": [
+          { "id": "option_1", "text": "A leader who encourages employees to experiment with new ideas.", "isCorrect": false },
+          { "id": "option_2", "text": "A leader who builds strong personal relationships with employees.", "isCorrect": false },
+          { "id": "option_3", "text": "A leader who enforces rules and rewards performance based on clear criteria.", "isCorrect": true },
+          { "id": "option_4", "text": "A leader who avoids directly managing employee performance.", "isCorrect": false }
+        ],
+        "hint": "Transactional leaders focus on structure, rules, and performance management.",
+        "answerDescription": "A transactional leader emphasizes clear expectations, performance metrics, and reward-based systems to maintain structure and efficiency."
+      },
+      {
+        "id": "leader_3126",
+        "question": "What is a common outcome of transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Increased innovation and creativity.", "isCorrect": false },
+          { "id": "option_2", "text": "Frequent leadership changes and lack of stability.", "isCorrect": false },
+          { "id": "option_3", "text": "A highly flexible and dynamic work environment.", "isCorrect": false },
+          { "id": "option_4", "text": "Consistent and predictable performance.", "isCorrect": true }
+        ],
+        "hint": "Transactional leadership ensures stable and predictable outcomes.",
+        "answerDescription": "Transactional leadership is known for maintaining consistent performance through clear expectations and structured management."
+      },
+      {
+        "id": "leader_3127",
+        "question": "Which method does a transactional leader use to ensure compliance?",
+        "options": [
+          { "id": "option_1", "text": "Encouraging open-ended discussions.", "isCorrect": false },
+          { "id": "option_2", "text": "Enforcing rules through rewards and punishments.", "isCorrect": true },
+          { "id": "option_3", "text": "Providing employees with complete decision-making autonomy.", "isCorrect": false },
+          { "id": "option_4", "text": "Using emotional intelligence to handle all situations.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership relies on structure and performance-based consequences.",
+        "answerDescription": "A transactional leader ensures compliance by implementing a structured reward-and-punishment system to maintain order and efficiency."
+      },
+      {
+        "id": "leader_3128",
+        "question": "What is a defining characteristic of transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Encouraging risk-taking and innovation.", "isCorrect": false },
+          { "id": "option_2", "text": "Focusing only on personal relationships.", "isCorrect": false },
+          { "id": "option_3", "text": "Following a structured chain of command.", "isCorrect": true },
+          { "id": "option_4", "text": "Avoiding strict policies to allow flexibility.", "isCorrect": false }
+        ],
+        "hint": "Transactional leaders operate within a well-defined organizational structure.",
+        "answerDescription": "A key characteristic of transactional leadership is maintaining a structured hierarchy where orders and policies are followed strictly."
+      },
+      {
+        "id": "leader_3129",
+        "question": "How does a transactional leader typically respond to underperformance?",
+        "options": [
+          { "id": "option_1", "text": "By applying corrective actions or penalties.", "isCorrect": true },
+          { "id": "option_2", "text": "By engaging in personal mentoring and coaching.", "isCorrect": false },
+          { "id": "option_3", "text": "By giving complete autonomy to the employee.", "isCorrect": false },
+          { "id": "option_4", "text": "By encouraging creativity and flexible solutions.", "isCorrect": false }
+        ],
+        "hint": "Transactional leaders rely on structured performance management techniques.",
+        "answerDescription": "When employees underperform, a transactional leader uses disciplinary actions or corrective measures based on predefined rules."
+      },
+      {
+        "id": "leader_3130",
+        "question": "Which industry is most likely to benefit from transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "A creative design agency.", "isCorrect": false },
+          { "id": "option_2", "text": "A technology startup focused on innovation.", "isCorrect": false },
+          { "id": "option_3", "text": "A military organization.", "isCorrect": true },
+          { "id": "option_4", "text": "A nonprofit organization that encourages social change.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership is best suited for environments requiring discipline and structure.",
+        "answerDescription": "Military organizations benefit from transactional leadership due to its emphasis on discipline, order, and following clear directives."
+      },
+      {
+        "id": "leader_3131",
+        "question": "What leadership style is most opposite to transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Autocratic leadership.", "isCorrect": false },
+          { "id": "option_2", "text": "Transformational leadership.", "isCorrect": true },
+          { "id": "option_3", "text": "Bureaucratic leadership.", "isCorrect": false },
+          { "id": "option_4", "text": "Directive leadership.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership focuses on structure, while its opposite focuses on inspiration and change.",
+        "answerDescription": "Transformational leadership contrasts with transactional leadership as it focuses on inspiring change and long-term vision rather than rules and performance-based rewards."
+      },
+      {
+        "id": "leader_3132",
+        "question": "What is one major advantage of transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "It promotes creativity and innovation.", "isCorrect": false },
+          { "id": "option_2", "text": "It allows employees to take complete control over decision-making.", "isCorrect": false },
+          { "id": "option_3", "text": "It eliminates the need for rules and policies.", "isCorrect": false },
+          { "id": "option_4", "text": "It ensures clarity and consistency in performance expectations.", "isCorrect": true }
+        ],
+        "hint": "Transactional leadership is highly structured and organized.",
+        "answerDescription": "A key advantage of transactional leadership is that it establishes clear performance expectations, ensuring consistency and efficiency."
+      },
+      {
+        "id": "leader_3133",
+        "question": "How does transactional leadership affect employee motivation?",
+        "options": [
+          { "id": "option_1", "text": "By inspiring employees through long-term vision.", "isCorrect": false },
+          { "id": "option_2", "text": "By using external motivators like rewards and penalties.", "isCorrect": true },
+          { "id": "option_3", "text": "By promoting self-driven motivation and autonomy.", "isCorrect": false },
+          { "id": "option_4", "text": "By focusing solely on personal development.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership depends on external motivators to drive performance.",
+        "answerDescription": "Transactional leadership relies on extrinsic motivation, using incentives and penalties to influence employee behavior and maintain performance standards."
+      },
+      {
+        "id": "leader_3134",
+        "question": "Which of the following statements is TRUE about transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "It works best in structured and rule-based organizations.", "isCorrect": true },
+          { "id": "option_2", "text": "It eliminates the need for rewards or consequences.", "isCorrect": false },
+          { "id": "option_3", "text": "It is highly effective in dynamic and rapidly changing environments.", "isCorrect": false },
+          { "id": "option_4", "text": "It prioritizes personal relationships over structure.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership thrives in environments with clear expectations and structure.",
+        "answerDescription": "Transactional leadership is most effective in structured organizations where policies, procedures, and performance expectations are clearly defined."
+      },
+      {
+        "id": "leader_3135",
+        "question": "How do transactional leaders handle employee autonomy?",
+        "options": [
+          { "id": "option_1", "text": "They give employees complete freedom over their work.", "isCorrect": false },
+          { "id": "option_2", "text": "They encourage employees to develop their own leadership styles.", "isCorrect": false },
+          { "id": "option_3", "text": "They limit autonomy by strictly enforcing rules and guidelines.", "isCorrect": true },
+          { "id": "option_4", "text": "They avoid monitoring employees and let them self-regulate.", "isCorrect": false }
+        ],
+        "hint": "Transactional leaders maintain control by emphasizing structure and order.",
+        "answerDescription": "Transactional leadership minimizes employee autonomy by implementing strict policies and performance expectations."
+      },
+      {
+        "id": "leader_3136",
+        "question": "Which of the following is a key principle of transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Encouraging risk-taking and creativity.", "isCorrect": false },
+          { "id": "option_2", "text": "Prioritizing emotional intelligence over structure.", "isCorrect": false },
+          { "id": "option_3", "text": "Avoiding performance-based rewards and penalties.", "isCorrect": false },
+          { "id": "option_4", "text": "Rewarding performance based on predefined objectives.", "isCorrect": true }
+        ],
+        "hint": "Transactional leadership is built on performance-based rewards and discipline.",
+        "answerDescription": "A core principle of transactional leadership is using a structured system of rewards and consequences to manage employee performance."
+      },
+      {
+        "id": "leader_3137",
+        "question": "Which type of reward system is commonly used in transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Intrinsic rewards like personal growth.", "isCorrect": false },
+          { "id": "option_2", "text": "Monetary bonuses and performance incentives.", "isCorrect": true },
+          { "id": "option_3", "text": "Flexible work schedules and autonomy.", "isCorrect": false },
+          { "id": "option_4", "text": "Recognition based purely on emotional connection.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership emphasizes external motivators for performance.",
+        "answerDescription": "Transactional leaders commonly use monetary bonuses, promotions, and other performance-based incentives to reward employees."
+      },
+      {
+        "id": "leader_3138",
+        "question": "What happens if an employee does not meet expectations under transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "They receive guidance and mentorship.", "isCorrect": false },
+          { "id": "option_2", "text": "They are given full autonomy to improve.", "isCorrect": false },
+          { "id": "option_3", "text": "They face penalties or corrective action.", "isCorrect": true },
+          { "id": "option_4", "text": "They are encouraged to follow their own leadership style.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership enforces clear consequences for underperformance.",
+        "answerDescription": "If employees fail to meet expectations, transactional leaders impose disciplinary actions, such as warnings, demotions, or reduced incentives."
+      },
+      {
+        "id": "leader_3139",
+        "question": "Which of the following is NOT a key focus of transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Task completion and efficiency.", "isCorrect": false },
+          { "id": "option_2", "text": "Enforcing rules and policies.", "isCorrect": false },
+          { "id": "option_3", "text": "Rewarding performance based on predefined criteria.", "isCorrect": false },
+          { "id": "option_4", "text": "Encouraging innovation and creativity.", "isCorrect": true }
+        ],
+        "hint": "Transactional leadership prioritizes structure and efficiency over innovation.",
+        "answerDescription": "Transactional leadership does not emphasize innovation but rather enforces structure, rules, and performance-based rewards."
+      },
+      {
+        "id": "leader_3140",
+        "question": "Which of the following best describes the communication style of a transactional leader?",
+        "options": [
+          { "id": "option_1", "text": "Open-ended and collaborative discussions.", "isCorrect": false },
+          { "id": "option_2", "text": "Clear, direct, and structured instructions.", "isCorrect": true },
+          { "id": "option_3", "text": "Emotionally-driven and flexible communication.", "isCorrect": false },
+          { "id": "option_4", "text": "Minimal communication with employees.", "isCorrect": false }
+        ],
+        "hint": "Transactional leaders provide structured guidance to ensure efficiency.",
+        "answerDescription": "Transactional leaders communicate in a clear and direct manner, ensuring employees understand expectations, rules, and procedures."
+      },
+      {
+        "id": "leader_3141",
+        "question": "What is a potential drawback of transactional leadership in fast-changing environments?",
+        "options": [
+          { "id": "option_1", "text": "It allows too much flexibility, causing instability.", "isCorrect": false },
+          { "id": "option_2", "text": "It does not provide enough structure for employees.", "isCorrect": false },
+          { "id": "option_3", "text": "It may struggle to adapt to rapid change and innovation.", "isCorrect": true },
+          { "id": "option_4", "text": "It focuses too much on individual creativity.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership is best suited for stable, structured environments.",
+        "answerDescription": "Since transactional leadership relies on fixed policies and procedures, it may not be effective in dynamic industries requiring adaptability and innovation."
+      },
+      {
+        "id": "leader_3142",
+        "question": "Which leadership behavior is most common in transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Encouraging employees to experiment with new ideas.", "isCorrect": false },
+          { "id": "option_2", "text": "Monitoring employees' work closely and enforcing policies.", "isCorrect": true },
+          { "id": "option_3", "text": "Allowing complete freedom in decision-making.", "isCorrect": false },
+          { "id": "option_4", "text": "Prioritizing employee relationships over structure.", "isCorrect": false }
+        ],
+        "hint": "Transactional leaders focus on supervision and rule enforcement.",
+        "answerDescription": "A transactional leader closely monitors employees' work to ensure compliance with company rules, policies, and expectations."
+      },
+      {
+        "id": "leader_3143",
+        "question": "Which leadership approach is often combined with transactional leadership to improve effectiveness?",
+        "options": [
+          { "id": "option_1", "text": "Transformational leadership.", "isCorrect": true },
+          { "id": "option_2", "text": "Laissez-faire leadership.", "isCorrect": false },
+          { "id": "option_3", "text": "Charismatic leadership.", "isCorrect": false },
+          { "id": "option_4", "text": "Servant leadership.", "isCorrect": false }
+        ],
+        "hint": "One style focuses on rules, while the other inspires change and motivation.",
+        "answerDescription": "Combining transactional and transformational leadership allows leaders to maintain structure while also motivating employees to innovate and grow."
+      },
+      {
+        "id": "leader_3144",
+        "question": "Which type of work environment is least suited for transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Highly regulated industries like finance.", "isCorrect": false },
+          { "id": "option_2", "text": "Creative and innovation-driven organizations.", "isCorrect": true },
+          { "id": "option_3", "text": "Military and law enforcement agencies.", "isCorrect": false },
+          { "id": "option_4", "text": "Manufacturing companies with strict processes.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership works best in structured, rule-based settings.",
+        "answerDescription": "Creative industries, such as design and technology startups, require flexibility and innovation, making transactional leadership less effective."
+      },
+      {
+        "id": "leader_3145",
+        "question": "What is one key assumption of transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Employees are self-motivated and do not need supervision.", "isCorrect": false },
+          { "id": "option_2", "text": "Employee creativity is more important than structure.", "isCorrect": false },
+          { "id": "option_3", "text": "Employees work best under structured guidance and incentives.", "isCorrect": true },
+          { "id": "option_4", "text": "Leaders should minimize their involvement in management.", "isCorrect": false }
+        ],
+        "hint": "Transactional leaders believe employees need clear expectations and rewards.",
+        "answerDescription": "Transactional leadership assumes that employees perform best when given structured guidance, clear expectations, and external motivators like rewards or penalties."
+      },
+      {
+        "id": "leader_3146",
+        "question": "What role does feedback play in transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Feedback is limited, as employees work independently.", "isCorrect": false },
+          { "id": "option_2", "text": "Feedback focuses on emotional encouragement.", "isCorrect": false },
+          { "id": "option_3", "text": "Feedback is only given when an employee requests it.", "isCorrect": false },
+          { "id": "option_4", "text": "Feedback is used to enforce rules and monitor performance.", "isCorrect": true }
+        ],
+        "hint": "Transactional leaders use feedback to ensure adherence to policies.",
+        "answerDescription": "Feedback in transactional leadership is primarily used to monitor performance, correct mistakes, and reinforce expected behaviors."
+      },
+      {
+        "id": "leader_3147",
+        "question": "Which leadership characteristic is most emphasized in transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Inspiring employees through personal vision.", "isCorrect": false },
+          { "id": "option_2", "text": "Maintaining control through structure and policies.", "isCorrect": true },
+          { "id": "option_3", "text": "Encouraging employees to take independent risks.", "isCorrect": false },
+          { "id": "option_4", "text": "Allowing employees complete freedom in decision-making.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership prioritizes structure, order, and efficiency.",
+        "answerDescription": "Transactional leaders focus on enforcing policies, maintaining organizational structure, and ensuring employees meet defined expectations."
+      },
+      {
+        "id": "leader_3148",
+        "question": "How do transactional leaders typically respond to employees who exceed expectations?",
+        "options": [
+          { "id": "option_1", "text": "They provide immediate rewards and recognition.", "isCorrect": true },
+          { "id": "option_2", "text": "They encourage employees to take on leadership roles.", "isCorrect": false },
+          { "id": "option_3", "text": "They focus more on penalizing underperformers.", "isCorrect": false },
+          { "id": "option_4", "text": "They allow employees to take full control over their work.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership relies on a structured reward system.",
+        "answerDescription": "When employees exceed expectations, transactional leaders provide tangible rewards such as bonuses, promotions, or public recognition."
+      },
+      {
+        "id": "leader_3149",
+        "question": "What is a key disadvantage of transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "It lacks structure and clear expectations.", "isCorrect": false },
+          { "id": "option_2", "text": "It does not provide rewards for employees.", "isCorrect": false },
+          { "id": "option_3", "text": "It may discourage creativity and employee initiative.", "isCorrect": true },
+          { "id": "option_4", "text": "It focuses too much on employee relationships.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership prioritizes structure but may limit innovation.",
+        "answerDescription": "Since transactional leadership relies on strict rules and policies, it can sometimes discourage employees from thinking creatively or taking initiative."
+      },
+      {
+        "id": "leader_3150",
+        "question": "What type of employee is most likely to thrive under transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Employees who prefer flexibility and creative problem-solving.", "isCorrect": false },
+          { "id": "option_2", "text": "Employees who excel in structured environments with clear guidelines.", "isCorrect": true },
+          { "id": "option_3", "text": "Employees who want full autonomy in their roles.", "isCorrect": false },
+          { "id": "option_4", "text": "Employees who resist authority and prefer minimal supervision.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership works best with employees who follow structured processes.",
+        "answerDescription": "Employees who prefer clear rules, structured workflows, and predictable rewards tend to perform well under transactional leadership."
+      },
+      {
+        "id": "leader_3151",
+        "question": "What is the main role of a transactional leader?",
+        "options": [
+          { "id": "option_1", "text": "To inspire and transform the organization through innovation.", "isCorrect": false },
+          { "id": "option_2", "text": "To give employees full decision-making control.", "isCorrect": false },
+          { "id": "option_3", "text": "To develop strong emotional connections with employees.", "isCorrect": false },
+          { "id": "option_4", "text": "To enforce rules and ensure employees meet performance standards.", "isCorrect": true }
+        ],
+        "hint": "Transactional leaders focus on structure and performance management.",
+        "answerDescription": "A transactional leader’s primary role is to ensure employees follow established rules and meet performance goals using structured rewards and discipline."
+      },
+      {
+        "id": "leader_3152",
+        "question": "What motivates employees in a transactional leadership system?",
+        "options": [
+          { "id": "option_1", "text": "Self-directed personal growth and learning.", "isCorrect": false },
+          { "id": "option_2", "text": "Extrinsic rewards such as bonuses, promotions, and penalties.", "isCorrect": true },
+          { "id": "option_3", "text": "A flexible and highly autonomous work environment.", "isCorrect": false },
+          { "id": "option_4", "text": "Deep emotional connections with leaders.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership depends on external motivators.",
+        "answerDescription": "Employees in a transactional leadership system are primarily motivated by external rewards and consequences tied to their performance."
+      },
+      {
+        "id": "leader_3153",
+        "question": "What happens when an employee follows all rules and meets expectations under transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "They receive recognition or material rewards.", "isCorrect": true },
+          { "id": "option_2", "text": "They are given full autonomy in their role.", "isCorrect": false },
+          { "id": "option_3", "text": "They are encouraged to take more risks.", "isCorrect": false },
+          { "id": "option_4", "text": "They are expected to become a transformational leader.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership emphasizes structured rewards for compliance.",
+        "answerDescription": "Employees who meet expectations in a transactional system receive tangible rewards such as bonuses, promotions, or public recognition."
+      },
+      {
+        "id": "leader_3154",
+        "question": "Which element is least important in transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Strict adherence to rules and policies.", "isCorrect": false },
+          { "id": "option_2", "text": "Performance-based rewards and punishments.", "isCorrect": false },
+          { "id": "option_3", "text": "A strong emotional connection between leaders and employees.", "isCorrect": true },
+          { "id": "option_4", "text": "Maintaining organizational efficiency.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership focuses more on structure than personal relationships.",
+        "answerDescription": "While emotional intelligence is important in leadership, transactional leadership prioritizes rules, structure, and performance over deep emotional bonds with employees."
+      },
+      {
+        "id": "leader_3155",
+        "question": "How does transactional leadership influence employee accountability?",
+        "options": [
+          { "id": "option_1", "text": "It encourages employees to self-monitor with little oversight.", "isCorrect": false },
+          { "id": "option_2", "text": "It relies solely on teamwork and peer evaluation.", "isCorrect": false },
+          { "id": "option_3", "text": "It allows employees to set their own expectations.", "isCorrect": false },
+          { "id": "option_4", "text": "It holds employees accountable through rewards and punishments.", "isCorrect": true }
+        ],
+        "hint": "Transactional leadership uses a structured system to enforce accountability.",
+        "answerDescription": "Transactional leadership ensures employee accountability by monitoring performance and applying rewards or penalties based on results."
+      },
+      {
+        "id": "leader_3156",
+        "question": "Which of the following best describes the transactional leadership style?",
+        "options": [
+          { "id": "option_1", "text": "Encouraging employees to be self-motivated and autonomous.", "isCorrect": false },
+          { "id": "option_2", "text": "Focusing on rules, procedures, and performance-based rewards.", "isCorrect": true },
+          { "id": "option_3", "text": "Inspiring employees through a shared long-term vision.", "isCorrect": false },
+          { "id": "option_4", "text": "Allowing employees to make independent decisions without oversight.", "isCorrect": false }
+        ],
+        "hint": "Transactional leaders focus on structure, rewards, and efficiency.",
+        "answerDescription": "Transactional leadership emphasizes maintaining structure and enforcing rules, using rewards and punishments to ensure compliance and productivity."
+      },
+      {
+        "id": "leader_3157",
+        "question": "What type of employees may struggle under transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Employees who prefer structured roles and clear expectations.", "isCorrect": false },
+          { "id": "option_2", "text": "Employees who work best with strict supervision.", "isCorrect": false },
+          { "id": "option_3", "text": "Employees who value creativity and autonomy.", "isCorrect": true },
+          { "id": "option_4", "text": "Employees who need constant guidance and feedback.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership is highly structured and may limit flexibility.",
+        "answerDescription": "Employees who thrive in creative and flexible environments may find transactional leadership restrictive, as it emphasizes rules and structured workflows."
+      },
+      {
+        "id": "leader_3158",
+        "question": "Which of the following is NOT a tool used in transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Performance evaluations and structured feedback.", "isCorrect": false },
+          { "id": "option_2", "text": "A system of rewards and punishments.", "isCorrect": false },
+          { "id": "option_3", "text": "Strict policies and guidelines for employees.", "isCorrect": false },
+          { "id": "option_4", "text": "Encouragement of independent innovation and risk-taking.", "isCorrect": true }
+        ],
+        "hint": "Transactional leadership follows strict rules rather than encouraging risk-taking.",
+        "answerDescription": "Transactional leadership does not emphasize innovation and risk-taking but instead enforces policies, procedures, and performance-based incentives."
+      },
+      {
+        "id": "leader_3159",
+        "question": "What is one reason why transactional leadership is effective in crisis management?",
+        "options": [
+          { "id": "option_1", "text": "It encourages flexible and spontaneous decision-making.", "isCorrect": false },
+          { "id": "option_2", "text": "It provides clear direction and immediate response to situations.", "isCorrect": true },
+          { "id": "option_3", "text": "It allows employees to take control of the situation.", "isCorrect": false },
+          { "id": "option_4", "text": "It prioritizes emotional support over structured responses.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership relies on structure and discipline during crises.",
+        "answerDescription": "In crisis situations, transactional leadership is effective because it provides clear rules, direct decision-making, and structured responses to challenges."
+      },
+      {
+        "id": "leader_3160",
+        "question": "Which leadership style is most compatible with transactional leadership when combined?",
+        "options": [
+          { "id": "option_1", "text": "Transformational leadership.", "isCorrect": true },
+          { "id": "option_2", "text": "Laissez-faire leadership.", "isCorrect": false },
+          { "id": "option_3", "text": "Charismatic leadership.", "isCorrect": false },
+          { "id": "option_4", "text": "Servant leadership.", "isCorrect": false }
+        ],
+        "hint": "One style provides structure, while the other focuses on motivation and vision.",
+        "answerDescription": "Transactional leadership can be effectively combined with transformational leadership, which adds vision and employee motivation to structured processes."
+      },
+      {
+        "id": "leader_3161",
+        "question": "Which of the following environments would be least suited for transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "A military organization requiring strict discipline.", "isCorrect": false },
+          { "id": "option_2", "text": "A fast-paced startup requiring constant innovation.", "isCorrect": true },
+          { "id": "option_3", "text": "A financial institution with compliance regulations.", "isCorrect": false },
+          { "id": "option_4", "text": "A manufacturing company following standardized processes.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership is best in structured environments with set rules.",
+        "answerDescription": "A highly innovative startup requiring flexibility and risk-taking would not be ideal for transactional leadership, which relies on strict rules and procedures."
+      },
+      {
+        "id": "leader_3162",
+        "question": "What leadership approach does transactional leadership primarily rely on?",
+        "options": [
+          { "id": "option_1", "text": "Inspirational vision and long-term goals.", "isCorrect": false },
+          { "id": "option_2", "text": "Hands-off supervision and employee autonomy.", "isCorrect": false },
+          { "id": "option_3", "text": "Clear task assignments and structured performance expectations.", "isCorrect": true },
+          { "id": "option_4", "text": "Flexible decision-making with minimal rules.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership is based on structure and control.",
+        "answerDescription": "Transactional leadership primarily depends on clear instructions, structured tasks, and performance management through rewards and punishments."
+      },
+      {
+        "id": "leader_3163",
+        "question": "How does transactional leadership affect employee creativity?",
+        "options": [
+          { "id": "option_1", "text": "It encourages risk-taking and innovative problem-solving.", "isCorrect": false },
+          { "id": "option_2", "text": "It may limit creativity by focusing on rule enforcement.", "isCorrect": true },
+          { "id": "option_3", "text": "It promotes brainstorming sessions and flexible decision-making.", "isCorrect": false },
+          { "id": "option_4", "text": "It allows employees to experiment with new leadership styles.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership is more focused on maintaining structure than fostering innovation.",
+        "answerDescription": "Because transactional leadership enforces rules and structured workflows, it may restrict employees' ability to think creatively and propose innovative solutions."
+      },
+      {
+        "id": "leader_3164",
+        "question": "Which of the following is a common outcome of transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Consistency and predictable performance results.", "isCorrect": true },
+          { "id": "option_2", "text": "A dynamic and highly flexible work culture.", "isCorrect": false },
+          { "id": "option_3", "text": "Frequent organizational changes and restructuring.", "isCorrect": false },
+          { "id": "option_4", "text": "A completely employee-driven decision-making process.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership ensures stability and consistency.",
+        "answerDescription": "A key outcome of transactional leadership is maintaining a consistent and predictable work environment with structured goals and performance expectations."
+      },
+      {
+        "id": "leader_3165",
+        "question": "What is the primary weakness of relying solely on transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "It can lead to excessive employee autonomy.", "isCorrect": false },
+          { "id": "option_2", "text": "It does not provide clear performance expectations.", "isCorrect": false },
+          { "id": "option_3", "text": "It eliminates the need for leadership supervision.", "isCorrect": false },
+          { "id": "option_4", "text": "It may create resistance to change and innovation.", "isCorrect": true }
+        ],
+        "hint": "Transactional leadership is best for stable environments, not rapidly changing ones.",
+        "answerDescription": "Because transactional leadership relies on fixed rules and structure, it may make organizations resistant to adapting to change and innovation."
+      },
+      {
+        "id": "leader_3166",
+        "question": "Which leadership quality is least emphasized in transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Strict adherence to rules and policies.", "isCorrect": false },
+          { "id": "option_2", "text": "Encouraging employee innovation and creativity.", "isCorrect": true },
+          { "id": "option_3", "text": "Performance-based rewards and punishments.", "isCorrect": false },
+          { "id": "option_4", "text": "Clearly defined goals and expectations.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership focuses more on structure than on innovation.",
+        "answerDescription": "Transactional leadership is primarily focused on maintaining order, enforcing rules, and rewarding performance, rather than encouraging creativity."
+      },
+      {
+        "id": "leader_3167",
+        "question": "What is a major risk of over-relying on transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Employees may feel disengaged due to lack of inspiration.", "isCorrect": true },
+          { "id": "option_2", "text": "Employees will have too much autonomy.", "isCorrect": false },
+          { "id": "option_3", "text": "Leaders will struggle to enforce structure and rules.", "isCorrect": false },
+          { "id": "option_4", "text": "There will be too much focus on innovation.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership does not emphasize employee motivation beyond rewards and punishments.",
+        "answerDescription": "Because transactional leadership focuses primarily on structure and extrinsic rewards, it can lead to disengagement if employees do not feel inspired or personally invested."
+      },
+      {
+        "id": "leader_3168",
+        "question": "Which type of goals does a transactional leader typically set?",
+        "options": [
+          { "id": "option_1", "text": "Long-term goals focused on company vision.", "isCorrect": false },
+          { "id": "option_2", "text": "Short-term, structured performance objectives.", "isCorrect": true },
+          { "id": "option_3", "text": "Flexible goals that employees can adjust independently.", "isCorrect": false },
+          { "id": "option_4", "text": "Broad and undefined goals for personal growth.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership focuses on short-term efficiency and results.",
+        "answerDescription": "Transactional leaders set short-term, structured goals that emphasize efficiency, productivity, and adherence to company policies."
+      },
+      {
+        "id": "leader_3169",
+        "question": "In which situation is transactional leadership least effective?",
+        "options": [
+          { "id": "option_1", "text": "In a highly regulated industry requiring strict compliance.", "isCorrect": false },
+          { "id": "option_2", "text": "In a military setting with clear chains of command.", "isCorrect": false },
+          { "id": "option_3", "text": "In a creative company that requires innovation and flexibility.", "isCorrect": true },
+          { "id": "option_4", "text": "In a financial firm with performance-based bonuses.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership is best for structured environments, not creative ones.",
+        "answerDescription": "Since transactional leadership emphasizes structure and rules, it is less effective in companies that require high levels of innovation and flexibility."
+      },
+      {
+        "id": "leader_3170",
+        "question": "Which of the following is an example of a transactional leadership practice?",
+        "options": [
+          { "id": "option_1", "text": "Encouraging employees to take risks and innovate.", "isCorrect": false },
+          { "id": "option_2", "text": "Providing bonuses for employees who meet their targets.", "isCorrect": true },
+          { "id": "option_3", "text": "Empowering employees to set their own work schedules.", "isCorrect": false },
+          { "id": "option_4", "text": "Allowing employees to create their own performance metrics.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership is built on performance-based rewards.",
+        "answerDescription": "Providing monetary bonuses for employees who achieve performance targets is a key practice of transactional leadership, which emphasizes structured rewards."
+      },
+      {
+        "id": "leader_3171",
+        "question": "Which of the following leadership traits is most aligned with transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Discipline and rule enforcement.", "isCorrect": true },
+          { "id": "option_2", "text": "Creativity and flexibility.", "isCorrect": false },
+          { "id": "option_3", "text": "Inspirational motivation.", "isCorrect": false },
+          { "id": "option_4", "text": "Strong emotional intelligence.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership focuses on maintaining order and control.",
+        "answerDescription": "Transactional leaders prioritize discipline, rule enforcement, and structured management to ensure efficiency and compliance."
+      },
+      {
+        "id": "leader_3172",
+        "question": "How does transactional leadership influence organizational culture?",
+        "options": [
+          { "id": "option_1", "text": "It fosters creativity and risk-taking among employees.", "isCorrect": false },
+          { "id": "option_2", "text": "It eliminates the need for performance evaluations.", "isCorrect": false },
+          { "id": "option_3", "text": "It creates a highly structured and rule-driven work environment.", "isCorrect": true },
+          { "id": "option_4", "text": "It prioritizes relationship-building over task completion.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership emphasizes efficiency and compliance.",
+        "answerDescription": "Transactional leadership shapes a structured organizational culture where rules, policies, and performance-based rewards guide behavior."
+      },
+      {
+        "id": "leader_3173",
+        "question": "How do transactional leaders typically handle employee feedback?",
+        "options": [
+          { "id": "option_1", "text": "They encourage open-ended discussions on leadership strategies.", "isCorrect": false },
+          { "id": "option_2", "text": "They provide feedback primarily to correct mistakes or reinforce rules.", "isCorrect": true },
+          { "id": "option_3", "text": "They allow employees to determine their own feedback process.", "isCorrect": false },
+          { "id": "option_4", "text": "They avoid giving structured feedback to promote independence.", "isCorrect": false }
+        ],
+        "hint": "Transactional leaders use feedback to ensure adherence to rules.",
+        "answerDescription": "Transactional leaders provide feedback mainly to correct mistakes and ensure employees follow company policies and performance expectations."
+      },
+      {
+        "id": "leader_3174",
+        "question": "Which leadership method is NOT associated with transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Using performance-based rewards.", "isCorrect": false },
+          { "id": "option_2", "text": "Implementing clear rules and procedures.", "isCorrect": false },
+          { "id": "option_3", "text": "Fostering a culture of continuous learning and adaptability.", "isCorrect": true },
+          { "id": "option_4", "text": "Providing strict supervision and oversight.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership enforces consistency rather than adaptability.",
+        "answerDescription": "Unlike transformational leadership, which promotes continuous learning, transactional leadership focuses on maintaining structured processes and rule enforcement."
+      },
+      {
+        "id": "leader_3175",
+        "question": "Which of the following industries is most suited for transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "A highly creative advertising agency.", "isCorrect": false },
+          { "id": "option_2", "text": "A startup requiring rapid adaptation and innovation.", "isCorrect": false },
+          { "id": "option_3", "text": "A technology company focused on experimentation.", "isCorrect": false },
+          { "id": "option_4", "text": "A government agency with strict regulations.", "isCorrect": true }
+        ],
+        "hint": "Transactional leadership thrives in structured, rule-based environments.",
+        "answerDescription": "Government agencies benefit from transactional leadership because they require strict adherence to policies, regulations, and procedural guidelines."
+      },
+      {
+        "id": "leader_3176",
+        "question": "What is the primary factor that motivates employees in transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "A shared vision for the future.", "isCorrect": false },
+          { "id": "option_2", "text": "Rewards and punishments tied to performance.", "isCorrect": true },
+          { "id": "option_3", "text": "A deep emotional connection with the leader.", "isCorrect": false },
+          { "id": "option_4", "text": "Opportunities for independent decision-making.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership relies on external motivators.",
+        "answerDescription": "Transactional leaders use performance-based rewards and consequences to keep employees motivated and ensure compliance with expectations."
+      },
+      {
+        "id": "leader_3177",
+        "question": "Which of the following best describes how transactional leaders manage team dynamics?",
+        "options": [
+          { "id": "option_1", "text": "By establishing clear roles, rules, and expectations.", "isCorrect": true },
+          { "id": "option_2", "text": "By encouraging open discussions and shared decision-making.", "isCorrect": false },
+          { "id": "option_3", "text": "By allowing employees to determine their own work structure.", "isCorrect": false },
+          { "id": "option_4", "text": "By prioritizing personal relationships over performance.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership depends on structured management practices.",
+        "answerDescription": "Transactional leaders define clear roles and rules, ensuring that employees work within an established framework to maintain efficiency and productivity."
+      },
+      {
+        "id": "leader_3178",
+        "question": "Which scenario best demonstrates transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "A leader encouraging employees to think creatively and take risks.", "isCorrect": false },
+          { "id": "option_2", "text": "A leader rewarding employees with bonuses for meeting sales targets.", "isCorrect": true },
+          { "id": "option_3", "text": "A leader mentoring employees to develop long-term career goals.", "isCorrect": false },
+          { "id": "option_4", "text": "A leader fostering innovation by allowing flexible work hours.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership is focused on structured rewards for performance.",
+        "answerDescription": "Providing performance-based rewards, such as bonuses, is a key characteristic of transactional leadership, which emphasizes results and compliance."
+      },
+      {
+        "id": "leader_3179",
+        "question": "How do transactional leaders handle poor employee performance?",
+        "options": [
+          { "id": "option_1", "text": "By offering coaching and mentorship to improve skills.", "isCorrect": false },
+          { "id": "option_2", "text": "By allowing employees to determine their own improvement plans.", "isCorrect": false },
+          { "id": "option_3", "text": "By implementing disciplinary actions or reducing incentives.", "isCorrect": true },
+          { "id": "option_4", "text": "By prioritizing employee happiness over performance outcomes.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership follows a structured approach to performance management.",
+        "answerDescription": "Transactional leaders use predefined disciplinary measures or reduced incentives to correct poor performance and maintain efficiency."
+      },
+      {
+        "id": "leader_3180",
+        "question": "Which of the following is a potential disadvantage of transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "It provides too much freedom for employees to make decisions.", "isCorrect": false },
+          { "id": "option_2", "text": "It may lead to resistance to change and lack of innovation.", "isCorrect": true },
+          { "id": "option_3", "text": "It does not focus on performance management.", "isCorrect": false },
+          { "id": "option_4", "text": "It eliminates the need for leadership oversight.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership is structured but can limit adaptability.",
+        "answerDescription": "Since transactional leadership is based on strict rules and procedures, it may limit creativity and make organizations resistant to change."
+      },
+      {
+        "id": "leader_3181",
+        "question": "What type of feedback is most common in transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Constructive feedback focused on employee development.", "isCorrect": false },
+          { "id": "option_2", "text": "Frequent discussions about employee career growth.", "isCorrect": false },
+          { "id": "option_3", "text": "Performance-based feedback tied to specific outcomes.", "isCorrect": true },
+          { "id": "option_4", "text": "Minimal feedback with an emphasis on autonomy.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership uses structured feedback linked to results.",
+        "answerDescription": "Transactional leaders provide feedback based on measurable performance outcomes, ensuring employees meet predefined goals."
+      },
+      {
+        "id": "leader_3182",
+        "question": "How does transactional leadership impact employee job satisfaction?",
+        "options": [
+          { "id": "option_1", "text": "It fosters a highly creative and flexible work environment.", "isCorrect": false },
+          { "id": "option_2", "text": "It may increase satisfaction for employees who prefer structure.", "isCorrect": true },
+          { "id": "option_3", "text": "It eliminates the need for performance recognition.", "isCorrect": false },
+          { "id": "option_4", "text": "It primarily focuses on personal relationships over tasks.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership benefits employees who prefer structure.",
+        "answerDescription": "Employees who thrive in structured environments with clear expectations and rewards may find greater job satisfaction under transactional leadership."
+      },
+      {
+        "id": "leader_3183",
+        "question": "What type of work culture does transactional leadership create?",
+        "options": [
+          { "id": "option_1", "text": "A structured and performance-driven culture.", "isCorrect": true },
+          { "id": "option_2", "text": "An innovative culture that encourages experimentation.", "isCorrect": false },
+          { "id": "option_3", "text": "A highly autonomous and flexible culture.", "isCorrect": false },
+          { "id": "option_4", "text": "A collaborative environment focused on shared leadership.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership emphasizes efficiency and structure.",
+        "answerDescription": "Transactional leadership fosters a structured work culture where performance, compliance, and efficiency are prioritized."
+      },
+      {
+        "id": "leader_3184",
+        "question": "Which of the following would a transactional leader most likely do?",
+        "options": [
+          { "id": "option_1", "text": "Encourage employees to experiment with new approaches.", "isCorrect": false },
+          { "id": "option_2", "text": "Monitor employees to ensure adherence to company policies.", "isCorrect": true },
+          { "id": "option_3", "text": "Eliminate the need for direct supervision.", "isCorrect": false },
+          { "id": "option_4", "text": "Prioritize long-term vision over immediate results.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership focuses on rule enforcement and structure.",
+        "answerDescription": "Transactional leaders monitor employees closely to ensure compliance with rules, procedures, and performance expectations."
+      },
+      {
+        "id": "leader_3185",
+        "question": "Which phrase best describes transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "\"Inspire and transform through vision.\"", "isCorrect": false },
+          { "id": "option_2", "text": "\"Encourage autonomy and creativity.\"", "isCorrect": false },
+          { "id": "option_3", "text": "\"Lead by deep emotional connection.\"", "isCorrect": false },
+          { "id": "option_4", "text": "\"Reward success and discipline failure.\"", "isCorrect": true }
+        ],
+        "hint": "Transactional leadership is based on performance management.",
+        "answerDescription": "The core principle of transactional leadership is maintaining order by rewarding employees who perform well and disciplining those who do not."
+      },
+      {
+        "id": "leader_3186",
+        "question": "Which statement best describes the decision-making style of a transactional leader?",
+        "options": [
+          { "id": "option_1", "text": "They encourage employees to participate in all decisions.", "isCorrect": false },
+          { "id": "option_2", "text": "They make decisions based on established policies and procedures.", "isCorrect": true },
+          { "id": "option_3", "text": "They focus on long-term strategic planning rather than daily operations.", "isCorrect": false },
+          { "id": "option_4", "text": "They give employees complete autonomy to make decisions.", "isCorrect": false }
+        ],
+        "hint": "Transactional leaders rely on structure and rules for decision-making.",
+        "answerDescription": "Transactional leaders follow predefined rules and policies when making decisions to ensure consistency and efficiency within the organization."
+      },
+      {
+        "id": "leader_3187",
+        "question": "Which of the following would NOT be a priority for a transactional leader?",
+        "options": [
+          { "id": "option_1", "text": "Enforcing company policies and rules.", "isCorrect": false },
+          { "id": "option_2", "text": "Providing clear rewards and punishments.", "isCorrect": false },
+          { "id": "option_3", "text": "Encouraging employees to take risks and innovate.", "isCorrect": true },
+          { "id": "option_4", "text": "Monitoring employee performance.", "isCorrect": false }
+        ],
+        "hint": "Transactional leaders focus more on structure and compliance than on innovation.",
+        "answerDescription": "While transactional leaders enforce rules and monitor performance, they do not typically encourage risk-taking or innovation."
+      },
+      {
+        "id": "leader_3188",
+        "question": "Which industry is least suited for transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Manufacturing, where efficiency is critical.", "isCorrect": false },
+          { "id": "option_2", "text": "Military, which relies on strict discipline and order.", "isCorrect": false },
+          { "id": "option_3", "text": "Banking, which requires regulatory compliance.", "isCorrect": false },
+          { "id": "option_4", "text": "Creative design, where flexibility and innovation are key.", "isCorrect": true }
+        ],
+        "hint": "Transactional leadership is best for rule-based industries, not creative fields.",
+        "answerDescription": "Industries that prioritize creativity and innovation, such as design and advertising, may struggle under transactional leadership due to its rigid structure."
+      },
+      {
+        "id": "leader_3189",
+        "question": "How does transactional leadership typically affect employee engagement?",
+        "options": [
+          { "id": "option_1", "text": "It fosters deep personal motivation and emotional investment.", "isCorrect": false },
+          { "id": "option_2", "text": "It provides external motivation but may lack long-term engagement.", "isCorrect": true },
+          { "id": "option_3", "text": "It eliminates the need for incentives and performance tracking.", "isCorrect": false },
+          { "id": "option_4", "text": "It encourages employees to take full control of their work.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership relies on rewards but may not inspire long-term engagement.",
+        "answerDescription": "Transactional leadership uses external motivators like rewards and punishments, which can drive short-term engagement but may not foster deep, intrinsic motivation."
+      },
+      {
+        "id": "leader_3190",
+        "question": "Which type of leadership is considered the opposite of transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Laissez-faire leadership.", "isCorrect": false },
+          { "id": "option_2", "text": "Bureaucratic leadership.", "isCorrect": false },
+          { "id": "option_3", "text": "Transformational leadership.", "isCorrect": true },
+          { "id": "option_4", "text": "Directive leadership.", "isCorrect": false }
+        ],
+        "hint": "One leadership style focuses on structure, while the other focuses on vision and change.",
+        "answerDescription": "Transformational leadership is considered the opposite of transactional leadership because it focuses on inspiring change and long-term vision rather than enforcing rules and rewards."
+      },
+      {
+        "id": "leader_3191",
+        "question": "What is the primary leadership tool used in transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Emotional intelligence and mentorship.", "isCorrect": false },
+          { "id": "option_2", "text": "Performance-based rewards and consequences.", "isCorrect": true },
+          { "id": "option_3", "text": "Encouraging creativity and autonomy.", "isCorrect": false },
+          { "id": "option_4", "text": "Allowing employees to define their own leadership styles.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership depends on external motivators to manage performance.",
+        "answerDescription": "Transactional leaders use structured performance-based rewards and consequences to drive employee behavior and ensure productivity."
+      },
+      {
+        "id": "leader_3192",
+        "question": "How does transactional leadership compare to transformational leadership?",
+        "options": [
+          { "id": "option_1", "text": "Both leadership styles focus equally on rule enforcement.", "isCorrect": false },
+          { "id": "option_2", "text": "Transformational leadership prioritizes policies and procedures over vision.", "isCorrect": false },
+          { "id": "option_3", "text": "Transactional leadership is more focused on emotional intelligence.", "isCorrect": false },
+          { "id": "option_4", "text": "Transactional leadership focuses on short-term goals, while transformational leadership focuses on long-term vision.", "isCorrect": true }
+        ],
+        "hint": "Transactional leadership is task-oriented, while transformational leadership is vision-driven.",
+        "answerDescription": "Transactional leadership prioritizes structure and short-term efficiency, whereas transformational leadership emphasizes vision, motivation, and long-term change."
+      },
+      {
+        "id": "leader_3193",
+        "question": "Which type of employee is best suited for transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Employees who thrive in structured environments with clear expectations.", "isCorrect": true },
+          { "id": "option_2", "text": "Employees who prefer autonomy and flexible decision-making.", "isCorrect": false },
+          { "id": "option_3", "text": "Employees who focus on long-term vision rather than short-term goals.", "isCorrect": false },
+          { "id": "option_4", "text": "Employees who resist authority and prefer self-management.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership works well with employees who follow structure and rules.",
+        "answerDescription": "Employees who excel in structured environments with clear goals and expectations tend to perform well under transactional leadership."
+      },
+      {
+        "id": "leader_3194",
+        "question": "Which of the following is a key benefit of transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "It encourages high levels of creativity and innovation.", "isCorrect": false },
+          { "id": "option_2", "text": "It eliminates the need for performance monitoring.", "isCorrect": false },
+          { "id": "option_3", "text": "It provides clear structure and predictable results.", "isCorrect": true },
+          { "id": "option_4", "text": "It focuses primarily on employee well-being over productivity.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership emphasizes stability and efficiency.",
+        "answerDescription": "A major benefit of transactional leadership is that it ensures clarity, consistency, and predictable performance through structured processes."
+      },
+      {
+        "id": "leader_3195",
+        "question": "How does transactional leadership differ from democratic leadership?",
+        "options": [
+          { "id": "option_1", "text": "Transactional leadership encourages employee participation in decision-making.", "isCorrect": false },
+          { "id": "option_2", "text": "Transactional leadership relies on rewards and punishments, while democratic leadership values team input.", "isCorrect": true },
+          { "id": "option_3", "text": "Democratic leadership enforces strict rules, while transactional leadership allows flexibility.", "isCorrect": false },
+          { "id": "option_4", "text": "Transactional leadership is always more effective than democratic leadership.", "isCorrect": false }
+        ],
+        "hint": "One style enforces structure, while the other values participation.",
+        "answerDescription": "Transactional leadership is based on a structured reward-and-punishment system, while democratic leadership encourages collaboration and team input in decision-making."
+      },
+      {
+        "id": "leader_3196",
+        "question": "Which of the following is a criticism of transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "It does not provide clear expectations for employees.", "isCorrect": false },
+          { "id": "option_2", "text": "It avoids enforcing discipline or structure.", "isCorrect": false },
+          { "id": "option_3", "text": "It lacks a system of rewards and consequences.", "isCorrect": false },
+          { "id": "option_4", "text": "It may limit employee creativity and problem-solving abilities.", "isCorrect": true }
+        ],
+        "hint": "Transactional leadership enforces structure but may restrict flexibility.",
+        "answerDescription": "One criticism of transactional leadership is that it focuses on structure and efficiency, which can sometimes stifle creativity and limit problem-solving opportunities."
+      },
+      {
+        "id": "leader_3197",
+        "question": "What is the role of communication in transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "Communication is minimal, as employees are expected to work independently.", "isCorrect": false },
+          { "id": "option_2", "text": "Leaders provide direct and structured communication focused on tasks.", "isCorrect": true },
+          { "id": "option_3", "text": "Leaders encourage open-ended discussions and brainstorming sessions.", "isCorrect": false },
+          { "id": "option_4", "text": "Employees set their own communication styles without leader involvement.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership relies on structured and direct communication.",
+        "answerDescription": "Transactional leaders use clear and structured communication to provide employees with specific instructions and expectations regarding tasks and performance."
+      },
+      {
+        "id": "leader_3198",
+        "question": "In which scenario would transactional leadership be most effective?",
+        "options": [
+          { "id": "option_1", "text": "A factory setting where efficiency and routine tasks are key.", "isCorrect": true },
+          { "id": "option_2", "text": "A rapidly changing startup that requires constant innovation.", "isCorrect": false },
+          { "id": "option_3", "text": "A marketing firm that values experimental strategies.", "isCorrect": false },
+          { "id": "option_4", "text": "A technology company focused on research and development.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership works best in structured environments with routine tasks.",
+        "answerDescription": "A factory setting benefits from transactional leadership because it requires consistency, efficiency, and adherence to well-defined processes."
+      },
+      {
+        "id": "leader_3199",
+        "question": "Which phrase best summarizes transactional leadership?",
+        "options": [
+          { "id": "option_1", "text": "\"Lead through vision and inspiration.\"", "isCorrect": false },
+          { "id": "option_2", "text": "\"Maintain structure and reward performance.\"", "isCorrect": true },
+          { "id": "option_3", "text": "\"Encourage autonomy and self-direction.\"", "isCorrect": false },
+          { "id": "option_4", "text": "\"Eliminate rules and policies for maximum flexibility.\"", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership focuses on structure and performance management.",
+        "answerDescription": "Transactional leadership is primarily concerned with maintaining organizational structure and ensuring employees meet performance expectations through rewards and discipline."
+      },
+      {
+        "id": "leader_3200",
+        "question": "How do transactional leaders typically handle conflict?",
+        "options": [
+          { "id": "option_1", "text": "By encouraging open discussion and compromise.", "isCorrect": false },
+          { "id": "option_2", "text": "By allowing employees to resolve conflicts independently.", "isCorrect": false },
+          { "id": "option_3", "text": "By strictly enforcing company rules and policies.", "isCorrect": true },
+          { "id": "option_4", "text": "By prioritizing emotional relationships over workplace policies.", "isCorrect": false }
+        ],
+        "hint": "Transactional leadership resolves conflict using predefined policies.",
+        "answerDescription": "Transactional leaders handle conflicts by referring to established company rules and policies to ensure consistency and fairness in resolution."
       }
-  
-  ]
+    ]
   
   
